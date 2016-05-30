@@ -51,10 +51,12 @@ lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/intellivision/game
 lvl1: 	System "intellivision" has no games! Ignoring it.
 lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/macintosh/gamelist.xml"...
 lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/mame-advmame/gamelist.xml"...
+lvl1: 	File ""/home/pi/RetroPie/roms/mame-advmame/Space Invaders (USA).zip"" does not exist! Ignoring.
 lvl1: 	System "mame-advmame" has no games! Ignoring it.
 lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/mame-libretro/gamelist.xml"...
 lvl1: 	System "mame-libretro" has no games! Ignoring it.
 lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/mame-mame4all/gamelist.xml"...
+lvl1: 	File ""/home/pi/RetroPie/roms/mame-mame4all/Space Invaders (USA).zip"" does not exist! Ignoring.
 lvl1: 	System "mame-mame4all" has no games! Ignoring it.
 lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/mastersystem/gamelist.xml"...
 lvl1: 	System "mastersystem" has no games! Ignoring it.
@@ -91,7 +93,7 @@ lvl1: 	  Unknown platform for system "sg-1000" (platform "sg-1000" from list "sg
 lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/sg-1000/gamelist.xml"...
 lvl1: 	System "sg-1000" has no games! Ignoring it.
 lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/snes/gamelist.xml"...
-lvl1: 	System "snes" has no games! Ignoring it.
+lvl1: 	File ""/home/pi/RetroPie/roms/snes/Super Mario Kart (USA).sfc"" does not exist! Ignoring.
 lvl1: 	  Unknown platform for system "vectrex" (platform "vectrex" from list "vectrex")
 lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/vectrex/gamelist.xml"...
 lvl1: 	System "vectrex" has no games! Ignoring it.
@@ -107,4 +109,14 @@ lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/zmachine/gamelist.
 lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/zxspectrum/gamelist.xml"...
 lvl1: 	System "zxspectrum" has no games! Ignoring it.
 lvl1: 	 requested mismatched theme type for [detailed.md_releasedate] - expected "datetime", got "text"
+lvl2: 	 req sound [basic.launch]
+lvl2: 	   (missing)
+lvl2: 	Attempting to launch game...
+lvl2: 		/opt/retropie/supplementary/runcommand/runcommand.sh 0 _SYS_ snes /home/pi/RetroPie/roms/snes/Super\ Mario\ Kart\ \(USA\).zip
+lvl2: 	Creating surface...
+lvl2: 	Created window successfully.
+lvl2: 	Added known joystick USB,2-axis 8-button gamepad   (instance ID: 0, device index: 0)
+lvl2: 	Added known joystick USB,2-axis 8-button gamepad   (instance ID: 1, device index: 1)
+lvl2: 	Added known joystick USB,2-axis 8-button gamepad   (instance ID: 0, device index: 0)
+lvl2: 	Added known joystick USB,2-axis 8-button gamepad   (instance ID: 1, device index: 1)
 lvl2: 	EmulationStation cleanly shutting down.

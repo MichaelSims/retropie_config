@@ -1,2 +1,21 @@
 <?xml version="1.0"?>
-<gameList />
+<gameList>
+	<game>
+		<path>/home/pi/RetroPie/roms/snes/Super Mario Kart (USA).sfc</path>
+		<name>Super Mario Kart (USA)</name>
+		<playcount>4</playcount>
+		<lastplayed>20160530T165326</lastplayed>
+	</game>
+	<game>
+		<path>./Space Invaders - The Original Game (USA).zip</path>
+		<name>Space Invaders - The Original Game (USA)</name>
+		<playcount>2</playcount>
+		<lastplayed>20160530T165243</lastplayed>
+	</game>
+	<game>
+		<path>./Super Mario Kart (USA).zip</path>
+		<name>Super Mario Kart (USA)</name>
+		<playcount>5</playcount>
+		<lastplayed>20160530T165736</lastplayed>
+	</game>
+</gameList>

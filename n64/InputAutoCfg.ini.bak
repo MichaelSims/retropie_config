@@ -25,7 +25,6 @@ X Axis = key(276,275)
 Y Axis = key(273,274)
 ; Keyboard_END
 
-
 ; USB,2-axis 8-button gamepad  _START 
 [USB,2-axis 8-button gamepad  ]
 plugged = True
@@ -35,9 +34,8 @@ AnalogDeadzone = 4096,4096
 AnalogPeak = 32768,32768
 Mempak switch = 
 Rumblepak switch = 
-R Trig = button(5) 
+L Trig = button(4) 
 Start = button(7) 
-Z Trig = button(4) 
 C Button D = button(0) 
 A Button = button(1) 
 C Button U = button(2) 

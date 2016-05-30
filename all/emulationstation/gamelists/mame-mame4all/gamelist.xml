@@ -1,2 +1,9 @@
 <?xml version="1.0"?>
-<gameList />
+<gameList>
+	<game>
+		<path>/home/pi/RetroPie/roms/mame-mame4all/Space Invaders (USA).zip</path>
+		<name>Space Invaders (USA)</name>
+		<playcount>1</playcount>
+		<lastplayed>20160529T184104</lastplayed>
+	</game>
+</gameList>
