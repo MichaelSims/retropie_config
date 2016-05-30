@@ -1,2 +1,120 @@
 <?xml version="1.0"?>
-<gameList />
+<gameList>
+	<game>
+		<path>./Legend of Zelda, The - A Link to the Past &amp; Four Swords (USA, Australia).gba</path>
+		<name>Legend of Zelda, The - A Link to the Past &amp; Four Swords (USA, Australia)</name>
+		<desc>Now you have a link to one of the greatest adventures in The Legend of Zelda series. The Legend of Zelda: A Link to the Past revives the classic SNES game on the Game Boy Advance and adds a new multiplayer mode. In a Link to the Past, Link travels between the light world and the dark world, conquering fierce monsters and uncovering Hyrule's deepest secrets along the way. Also included is Four Swords, which lets you play with up to three other players, slashing through dungeons and collecting rupees. Whether you choose solo or competitive play, The Legend of Zelda will keep you occupied with its brain-bending puzzles and fun swashbuckling action.</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/gba/Legend of Zelda, The - A Link to the Past &amp; Four Swords (USA, Australia)-image.jpg</image>
+		<rating>0.775</rating>
+		<releasedate>20021202T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>4</players>
+	</game>
+	<game>
+		<path>./Legend of Zelda, The - The Minish Cap (USA).gba</path>
+		<name>Legend of Zelda, The - The Minish Cap (USA)</name>
+		<desc>Link returns in an all-new Game Boy Advance adventure. When the sorcerer Vaati turns Princess Zelda to stone, the king of Hyrule sends Link on a quest that takes him to all-new locations. Using the power of a mystical hat called the Minish Cap, Link must travel through a fantastic world rife with new items, puzzles, and bosses. As Link, you can shrink down to either battle large enemies from within or find secret items. You can also unlock items and solve puzzles by fusing together magic relics.</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/gba/Legend of Zelda, The - The Minish Cap (USA)-image.jpg</image>
+		<rating>0.78571</rating>
+		<releasedate>20050110T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Ninja Five-0 (USA).gba</path>
+		<name>Ninja Five-0 (USA)</name>
+		<desc>Take on the role of Ninja Five-O as he uses all his skill, stealth and magic to rescue hostages and defeat his enemies. Master the art of ninja swords, shuriken throwing stars and ancient ninjitsu magic!
+
+* Kaginawa Wire grappling hook that can be used to hang, fly, jump, climb walls and surprise attack.
+* 6 Challenging missions covering 20 levels.
+* Crush objects to find hidden Power-Ups and secret items
+* Unique enemy boss characters for each level.</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/gba/Ninja Five-0 (USA)-image.jpg</image>
+		<rating>0.75</rating>
+		<releasedate>20030415T000000</releasedate>
+		<developer>Hudson Soft</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Super Mario Advance (USA, Europe).gba</path>
+		<name>Super Mario Advance (USA, Europe)</name>
+		<desc>Two Classics, One Pak!
+
+Super Mario Bros. 2 and Mario Bros., together in one Game Pak - and on Game Boy Advance, they're better than ever! There's all of the running, jumping, jumping, and veggie flinging that made NES Super Mario Bros. 2 a smash hit, plus new enemies and bigger items. And in the updated arcade classic Mario Bros., you can work together or have a brawl bumping off baddies and collecting coins. It all adds up to advanced Mario mayhem!
+
+- 20 levels of fiend-infested fun! Play as Mario, Luigi, Peach and even Toad, each with unique running, jumping, and lifting abilities. Hurl an amazing array of items like bombs, turtle shells and POW blocks to topple enemies and clear the path!
+
+-Two multiplayer modes for up to 4 players! In Single-Pak play, up to four can connect with Game Link cables and just one Game Pak. In Multi-Pak play, connect up to four Game Boy Advance systems using Game Link cables and one Game Pak per person. (Requires Game Boy Advance Game Link cable(s), sold separately.)
+
+-Powered up play on Game Boy Advance! The world's most powerful handheld system brings you bright, colorful graphics, more on-screen enemies, and amazing voices and sound effects.</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/gba/Super Mario Advance (USA, Europe)-image.jpg</image>
+		<rating>0.33333</rating>
+		<releasedate>20010321T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Super Mario Advance 2 - Super Mario World (USA, Australia).gba</path>
+		<name>Super Mario Advance 2 - Super Mario World (USA, Australia)</name>
+		<desc>One of Mario's greatest adventures is in your hands!
+
+Bowser and his crew of cruel Koopalings have taken over Dinosaur Island, but luckily, Mario and Luigi are up for some Koopa-kicking. As they ride Yoshi, search for P-Switches, find secret paths, blast fireballs, and soar skyward with the Cape, they'll need to use every trick in the plumber handbook. Dino Rhinos, Chargin' Chucks, and a host of unforgettable enemies await in one of the Mario Bros. biggest and most challenging adventures ever!
+
+-All 96 levels in the palm of your hand! Ride Yoshi from the spooky Forest of Illusion to the super-tough Star Road - everything from the Super NES classic is here, powered up with all-new features for the Game Boy Advance.
+-Luigi's ready, so pick a Bro and go! Now you can play as Mario or his brother, Luigi, who can jump and fly higher than his famous sibling. Which Bro is the best for each stage?
+-Get linked! Using a single Game Pak, link up four players and play the timeless Mario Bros. arcade game. You can even connect with Super Mario Advance Game Paks for Multi-Pak madness!</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/gba/Super Mario Advance 2 - Super Mario World (USA, Australia)-image.jpg</image>
+		<rating>0.525</rating>
+		<releasedate>20020211T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Super Mario Advance 3 - Yoshi's Island (USA).gba</path>
+		<name>Super Mario Advance 3 - Yoshi's Island (USA)</name>
+		<desc>Go for a spin around Yoshi's island.
+
+Baby-sitting a whiny newborn is about as fun as a head cold on the first day of summer vacation. But when Baby Mario falls from the sky, the Yoshis seize the opportunity to do a lot more than change diapers.
+
+The big-hearted Yoshis vow to reunite Baby Mario with his twin brother on the far side of the island. It won't be easy, but the Yoshis are determined to take on a meddling Magikoopa and his entire cast of underhanded underlings.
+
+Brilliant game-designer Shigeru Miyamoto has crammed the island's jungles, caves and snowcapped peaks with one brain-bending surprise after another. Hidden rooms, secret passages, charming minigames, demented bosses and all-new pals await your discovery.
+
+Sure, Yoshi looks cute, but he packs some pretty amazing firepower. He can jump, hover, stomp, pound the ground and slurp up enemies. Best of all, he can throw eggs. Heck, Mario even gets to presto-chango into superfast Superstar Mario, while Yoshi morphs into a toy submarine that shoots itty-bitty torpedoes.
+
+As an added bonus, Yoshi's Island includes six super-challenging levels developed just for the GBA. You can also take a break from baby-sitting duties to indulge in multiplayer Mario Bros. action.
+
+In Super Yoshi's Island: Super Mario Advance 3, the unlikely duo of Yoshi and Baby Mario must together brave a world of infinite surprise and challenge. Richly varied gameplay, brilliant graphics and precision control perfectly meld in an adventure you won't be able to put down!</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/gba/Super Mario Advance 3 - Yoshi's Island (USA)-image.jpg</image>
+		<rating>0.56667</rating>
+		<releasedate>20020920T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Super Mario Advance 4 - Super Mario Bros. 3 (USA, Australia) (Rev 1).gba</path>
+		<name>Super Mario Advance 4 - Super Mario Bros. 3 (USA, Australia) (Rev 1)</name>
+		<desc>THE MARIO BROS. AT THEIR BEST!
+
+The best-selling game of all time has arrived for Game Boy Advance, now with all-new features! Mario's not alone! This time around, Luigi can get in on the action!
+
+Link up with any Super Mario Advance game for multiplayer Mario Bros. madness! Use wild power-ups like the Super Leaf and the Frog and Tanooki Suits!
+
+EVEN MORE MARIO FUN IS IN THE CARDS! LINK UP AND USE AN E-READER AND SPECIAL CARDS TO ADD CLASSIC AND UPDATED MARIO LEVELS, ALL-NEW LEVELS, AND INCREDIBLY HARD "SUPER" LEVELS, THAT YOU CAN SAVE TO YOUR GAME PAK. THERE ARE ALSO POWER-UP CARDS, DEMO CARDS WITH PRO TECHNIQUES, AND MUCH MORE! (e-Reader and e-Reader cards sold separately.)
+
+BONUS LEVEL CARD AND POWER-UP CARD INCLUDED!</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/gba/Super Mario Advance 4 - Super Mario Bros. 3 (USA, Australia) (Rev 1)-image.jpg</image>
+		<rating>0.45</rating>
+		<releasedate>20031021T000000</releasedate>
+		<developer>Nintendo EAD</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+	</game>
+</gameList>

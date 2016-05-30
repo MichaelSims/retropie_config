@@ -4,9 +4,9 @@
 		<path>./+Start DOSBox.sh</path>
 		<name>DOSBox</name>
 		<image>/home/pi/.emulationstation/downloaded_images/pc/+Start DOSBox-image.png</image>
-		<developer></developer>
-		<publisher></publisher>
-		<genre></genre>
-		<players></players>
+		<developer />
+		<publisher />
+		<genre />
+		<players />
 	</game>
 </gameList>

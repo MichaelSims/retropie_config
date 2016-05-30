@@ -1,2 +1,611 @@
 <?xml version="1.0"?>
-<gameList />
+<gameList>
+	<game>
+		<path>./Bionic Commando (USA).nes</path>
+		<name>Bionic Commando (USA)</name>
+		<desc>Bionic Commando takes place ten years after an unspecified World War between two warring factions. The game follows a commando who must infiltrate an enemy base and foil the enemy's plot to launch missiles.</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/nes/Bionic Commando (USA)-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19881206T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Bubble Bobble (USA).nes</path>
+		<name>Bubble Bobble (USA)</name>
+		<desc>THESE ARE TWO HUNGRY DINO-MIGHTS AND THEY'VE GOT BUBBLE FIGHT'N FUN DOWN TIGHT. You and your two brontosaurus buddies, Bub and Bob, are up to your brows in bubble troubles. You've got to battle battalions of bullies by blowing and bursting billions of bubbles. It's a fast-paced bubble banquet through over 100 screens of slap happy suds. Got an appetite for fun... then get blowin'.</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/nes/Bubble Bobble (USA)-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Puzzle</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./BurgerTime (USA).nes</path>
+		<name>BurgerTime (USA)</name>
+		<desc>You play as Chef Pepper and your goal is to make giant hamburgers while evil eggs, sausages and pickles chase you around the game area. 
+
+To properly make a hamburger you must assemble all of the ingredients together, dropping them from higher up onto the the burger area below. To actually do this you have to let Chef Pepper step all over the burger ingredients. As soon as an ingredient (a piece of lettuce for instance) has been stepped on, it will fall to the next level below. Falling food will squish any enemy following you and will also"bump" any other ingredient bellow it farther down. Also, as an emergency defense against the enemy food, you can collect pepper shakers which will allow you to puff out a small pepper cloud which will momentarily stun enemies, allowing you to walk past them.</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/nes/BurgerTime (USA)-image.jpg</image>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>Data East</publisher>
+		<genre>Puzzle</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Castlevania (USA) (Rev A).nes</path>
+		<name>Castlevania (USA) (Rev A)</name>
+		<desc>If you think it's scary on the outside, wait'll you see the basement! You're in for the longest night of your life. Ghosts, goblins, demons, wolves, bats - creatures lurking around every corner. As you descend deeper and deeper, they get thicker and thicker. Better stick close to the cavern floor - it's your only chance of finding a weapon or two. You're gonna need 'em. Because when you finally meet the Count, you know he'll be going for the jugular. So keep your courage up and your stake sharp. And say your prayers!</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/nes/Castlevania (USA) (Rev A)-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>19860926T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Castlevania II - Simon's Quest (USA).nes</path>
+		<name>Castlevania II - Simon's Quest (USA)</name>
+		<desc>Castlevania was a cakewalk compared to this bloody curse. You thought you had the Prince of Darkness defanged - eh, Simon Belmont? Well think again, 'cause according to a damsel in distress, evil Count Dracula has left a horrifying curse in his wake. And the only hope you have of ending the terror is to destroy his missing body parts! Talk about your frightening quest, searching a maze of mansions, graveyards and dark, eerie forests - each guarded by man-eating werewolves, fire-throwing zombies and other devilish demons. Your grim chances are kept alive in Transylvania, where cowardly villagers offer clues to the whereabouts of Dracula's remains. And where you'll purchase magic weapons, including silver knives and flame whips. But beware the night. For when the sun disappears, Dracula's curse grows deadlier. And your chances grow dimmer and dimmer.</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/nes/Castlevania II - Simon's Quest (USA)-image.jpg</image>
+		<rating>0.75</rating>
+		<releasedate>19870828T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Castlevania III - Dracula's Curse (USA).nes</path>
+		<name>Castlevania III - Dracula's Curse (USA)</name>
+		<desc>Led by the immortal Count Dracula, the greatest army of evil ever assembled is poised to bury mankind in a Tomb of Terror. Destroying this legion of Swamp Dragons, Slasher Skeletons and Forces of the Undead will be the supreme challenge for the mightiest of warriors. Your place in history is 100 years before Simon Belmont's birth. Dracula is young at heart, and it will take more than a stake to penetrate his evil. Luckily, you command the role of Trevor - Simon's forefather and the origin of the Belmont Warlord Chromosones. Trevor has a power never before seen by human eyes - the power to transform into three different spirits: Grant DaNasty, the ferocious Ghost Pirate. Sypha, the Mystic Warlord. And Alucard, Dracula's forgotten son. You must perfectly time Trevor's body transformations to match up his different fighting spirits against Ultimate Evils. Trevor also has the strength and wisdom to command the Battle Axe, Invisibility Potion and Mystic Whip. But the most important weapon Trevor has is your cunning to choose the correct Paths of Fate and your bravery to lead him past 17 possible levels of never-ending doom, including the Haunted Ship of Fools, the Sunken City of Poltergeists, the Clock Tower of Untimely Death and Curse Castle. Never before have so many dangers confronted you at one time. And if by some miracle you triumph, you'll no longer be a mere mortal. You'll be a legend who'll live forever!</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/nes/Castlevania III - Dracula's Curse (USA)-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19921222T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Chip 'n Dale Rescue Rangers (USA).nes</path>
+		<name>Chip 'n Dale - Rescue Rangers (USA)</name>
+		<desc>Chip and Dale, those pint-sized but courageous Disney detectives, have received another desperate call for help: The evil Fat Cat has kidnapped Gadget... his sinister goal - to take over the city!! Join the Rescue Rangers on their exciting search through the darkest depths of slimy sewers to the electrifying heights of live telephone wires! Play alone or with a friend to locate Fat Cat's headquarters and thwart his diabolical scheme! Fat Cat's Bad Guys: Can you escape them or do you stand and fight? Deadly Attacking Killer Bees: Can you out run them or do you let them bite? Rabid Robot Rats and Mechanical Dogs: Are you saved from their savage jaws or do you bite them back?</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/nes/Chip 'n Dale Rescue Rangers (USA)-image.jpg</image>
+		<rating>0.75</rating>
+		<releasedate>19900601T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Chip 'n Dale Rescue Rangers 2 (USA).nes</path>
+		<name>Chip 'n Dale - Rescue Rangers 2 (USA)</name>
+		<desc>Chip and Dale, those tiny but daring detectives, have learned of some terrifying news: The notorious criminal cat has escaped from prison and he's stolen the Urn of the Pharaoh. The Rescue Rangers must once again assemble to help crack the case of the missing urn and return the feline felon, Fat Cat, back to the slammer. Join Chip and Dale and the rest of the Rangers in their wacky new adventure. Help them explore the dangerous levels of the downtown restaurant and meet the exploding personality of Water Rabbit. Aid them on their escape through the freezing floors of the giant refrigerator. Search the ghostly walls of the haunted warehouse and find the final clue to unravel the secret headquarters of Fat Cat.</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/nes/Chip 'n Dale Rescue Rangers 2 (USA)-image.jpg</image>
+		<rating>0.65</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Contra (USA).nes</path>
+		<name>Contra (USA)</name>
+		<desc>The universe teeters on the brink of total annihilation at the hands of the vile alien warmonger, Red Falcon. Earth's only hope rests with you, a courageous member of the Special Forces elite commando squad. Your mission: Battle deep into the deadly Amazon jungle, where the Red Falcon and his galactic henchmen have transformed ancient Mayan temples into awesome monuments dedicated to mass destruction. A multitude of weapons, from rapid-fire machine guns to high-tech lasers are at your disposal as you sweat blood, fighting past 3-D mazes, underground security systems, and tropical forests surrounded by giant waterfalls and alien cannons. This is the ultimate test for the ultimate guerilla warrior. And if you survive, Earth survives!</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/nes/Contra (USA)-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19870220T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Darkwing Duck (USA).nes</path>
+		<name>Darkwing Duck (USA)</name>
+		<desc>The kingpins of crime are at it again! The mysterious criminal organization F.O.W.L. has hatched a plan to take control of the peaceful city of St. Canard. Six of their most heinous henchmen are running rampant through the city and only the daring Darkwing Duck can bring them to justice! Join Darkwing as he explores the woods to weed out Bushroot's evil plan. Search the warehouses along the wharf for Mega Volt and pull the plug on an electrifying scheme. Track down all six of FOWL's crafty criminals and then prepare yourself as Darkwing squares off against the sinister Steelbeak in his fiendish floating fortress!</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/nes/Darkwing Duck (USA)-image.jpg</image>
+		<rating>0.56667</rating>
+		<releasedate>19920601T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Defender II (USA).nes</path>
+		<name>Defender II (USA)</name>
+		<desc>This sequel adds new enemy ships to the alien fleet such as firebombers, Yllabian Space Guppies (note that Yllabian is based on "Yllab", the word "Bally" spelled backwards, a friendly poke at Williams' then-competitor, Bally Midway), Dynamos and Space Hums. The Defender ship is now equipped with an Inviso cloaking device, which renders the ship invulnerable when activated, but has a limited charge. A Stargate will transport the ship to any humanoid in trouble. There are now two special stages, the Firebomber Showdown and the Yllabian Dogfight, that occur every fifth and tenth wave. As in the first game, if all the humans are captured the planet explodes and turns all the landers into mutants.</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/nes/Defender II (USA)-image.jpg</image>
+		<releasedate>19880701T000000</releasedate>
+		<developer>Vid Kidz</developer>
+		<publisher>Williams Electronics</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Defender of the Crown (USA).nes</path>
+		<name>Defender of the Crown (USA)</name>
+		<desc>The player assumes the role of a Saxon (Wilfred of Ivanhoe, Cedric of Rotherwood, Geoffrey Longsword or Wolfric the Wild) and tries to fight off the Norman hordes and wrestle for control of England. Eventually, the player must fight for control of all territories, and those controlled by other Saxons if they became your enemy. The player must amass armies and fight for control of opponents' castles.</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/nes/Defender of the Crown (USA)-image.jpg</image>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Kellyn Beck</developer>
+		<publisher>Cinemaware</publisher>
+		<genre>Strategy</genre>
+	</game>
+	<game>
+		<path>./Donkey Kong (World) (Rev A).nes</path>
+		<name>Donkey Kong (World) (Rev A)</name>
+		<desc>Can you save Mario's girl from the clutches of Donkey Kong? Donkey Kong has kidnapped Mario's girlfriend Pauline and taken her to the top of a construction site. It's up to you to help Mario save Pauline before time runs out. But it won't be easy. Donkey Kong will do everything in his power to stop you. He'll throw barrel bombs, flaming fireballs and anything else he can get his hands on. So if you're looking for action, don't monkey around. Get the original Donkey Kong from the Nintendo Arcade Classics Series!</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/nes/Donkey Kong (World) (Rev A)-image.jpg</image>
+		<rating>0.725</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Donkey Kong 3 (World).nes</path>
+		<name>Donkey Kong 3 (World)</name>
+		<desc>Donkey Kong is at it again! This time he's loose in the greenhouse. And he's got company: a swarm of very pesky bees! It's up to you to get Donkey Kong out of the greenhouse and exterminate the bees... without hurting the flowers. But that's easier said than done! Because Donkey Kong has plenty of coconuts to hurl at you, and those bees know just where to sting you so it hurts. But, if you keep your wits about you, you'll score lots of points and have lots of laughs in the best Donkey Kong of them all... DONKEY KONG 3!</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/nes/Donkey Kong 3 (World)-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19840704T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Donkey Kong Classics (USA, Europe).nes</path>
+		<name>Donkey Kong Classics (USA, Europe)</name>
+		<desc>What's more fun than a barrel of monkeys? A Donkey Kong double feature! In DONKEY KONG you'll duck barrel bombs and flaming fireballs as you help Mario save his girlfriend Pauline from the clutches of Donkey Kong. In DONKEY KONG JR., you'll join forces with these madcap monkeys to help Donkey Kong Jr. rescue his father from Mario's prison. Are you ready for laughter? You'd better be. Because this double dose of monkey business will have you rolling in the aisles!</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/nes/Donkey Kong Classics (USA, Europe)-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19881001T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Donkey Kong Jr. (World) (Rev A).nes</path>
+		<name>Donkey Kong Jr. (World) (Rev A)</name>
+		<desc>Mario has gone mad! He's turned the tables on Donkey Kong and locked him in a cage. It's up to you, as Donkey Kong Jr., to rescue your father by stealing Mario's set of keys. But it won't be easy. You'll have to fight off ape-eating Snapjaws, jump onto moving islands and break through a jungle of vines to get to the keys that will free Donkey Kong. Can you handle the action? Because this off-the-wall monkey business will have you going bananas!</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/nes/Donkey Kong Jr. (World) (Rev A)-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19870715T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Donkey Kong Jr. Math (USA, Europe).nes</path>
+		<name>Donkey Kong Jr. Math (USA, Europe)</name>
+		<desc>The game features one and two player modes, both of which are single screen. In the first mode, the objective is to enter math answers in order to receive points. These questions include addition, subtraction, multiplication, and division.
+In the two player mode, two players control two characters as they race to create a math formula to reach the number shown by Donkey Kong, incorporating platform gameplay. The mechanics are similar to Donkey Kong Junior; players climb vines to reach higher areas in order to collect numbers scattered around the area. In order to complete mathematics problems, players must collect at least three things: the first number, the symbol necessary to reach the number shown by Donkey Kong, and the second number. When the game features a high number, such as 66, players must collect multiple numbers and mathematics symbols in order to reach this. For example, players could choose a nine, a multiplication symbol, and a seven, followed by an addition symbol and a three to reach the number 66. The two player game have two different levels, Calculate A and Calculate B. Calculate B is more challanging, not only the goal is a negative number, but giving players the set number.</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/nes/Donkey Kong Jr. Math (USA, Europe)-image.jpg</image>
+		<rating>0.3</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Dr. Mario (Japan, USA) (Rev A).nes</path>
+		<name>Dr. Mario (Japan, USA) (Rev A)</name>
+		<desc>A puzzle game similar to Tetris, Dr. Mario features Nintendo mascot Mario as a doctor. Gameplay consists of dropping two-sided vitamin capsules into a playing field 8 blocks wide by 16 blocks high resembling a medicine bottle, populated by viruses of three colors</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/nes/Dr. Mario (Japan, USA) (Rev A)-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19900727T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Puzzle</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./DuckTales (USA).nes</path>
+		<name>DuckTales (USA)</name>
+		<desc>Bless me bagpipes! When will that thrillseeker, Scrooge McDuck, ever quit? Never one to turn away from adventure, Uncle Scrooge has taken on his greatest challenge - to discover the legendary Five Lost Treasures and become the "Richest Duck in the World!" Join Scrooge and the DUCKTALES gang: gung-ho flying ace, Launchpad; the nephews, Huey, Dewey and Louie; and little Webby, on their search. Together they must trek through the treacherous Amazon Jungle, down into the diamond mines of Africa, and even to the moon! Are you "Duck" enough to join them on their adventure? Come along to Duckburg Headquarters and see for yourself!</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/nes/DuckTales (USA)-image.jpg</image>
+		<rating>0.7571399999999999</rating>
+		<releasedate>19900901T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Adventure</genre>
+	</game>
+	<game>
+		<path>./DuckTales 2 (USA).nes</path>
+		<name>DuckTales 2 (USA)</name>
+		<desc>Scrooge McDuck is hot on the trail of the richest adventure ever. Pieces to the map of the Lost Treasure of McDuck have been scattered across the globe, and Scrooge must find them before the greedy Flintheart Glomgold grabs them. It's going to be a race to the finish as both of them try to find the treasure and become the richest duck in the world! Join Scrooge and his nephews as they explore the ancient pyramids of Egypt and do battle with swash-buckling pirates in the Bermuda Triangle. Help them search the haunted halls of an ancient Scottish castle and scale the watery heights of Niagara Falls. Aid Scrooge in his quest for the secret of the island of Mu and you'll gain the final clue to unravel the hidden location of the Lost Treasure of McDuck!</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/nes/DuckTales 2 (USA)-image.jpg</image>
+		<rating>0.56667</rating>
+		<releasedate>19930601T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Excitebike (Japan, USA).nes</path>
+		<name>Excitebike (Japan, USA)</name>
+		<desc>Whether the player chooses to race solo or against computer-assisted riders, he/she races against a certain time limit. The goal is to qualify for the Excitebike (the championship) race by coming in at third place or above in the challenge race (preliminary race). The times to beat are located on the stadium walls (for first place) and in the lower left corner (for third place). In any race, the best time is 8 seconds ahead of third place. When the player places first, then they get a message: "It's a new record!" Additional points are earned by beating the previously-set record time.</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/nes/Excitebike (Japan, USA)-image.jpg</image>
+		<rating>0.675</rating>
+		<releasedate>19841130T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Racing</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Galaga - Demons of Death (USA).nes</path>
+		<name>Galaga - Demons of Death (USA)</name>
+		<desc>The objective of Galaga is to score as many points as possible by destroying insect-like enemies. The player controls a starfighter that can move left and right along the bottom of the playfield. Enemies swarm in groups in a formation near the top of the screen, and then begin flying down toward the player, firing bombs at the fighter. The game ends when the player's last fighter is lost, either by colliding with an enemy or one of its bullets, or by being captured.
+Galaga introduces a number of new features over its predecessor, Galaxian. Among these is the ability to fire more than one bullet at a time, a count of the player's "hit/miss ratio" at the end of the game, and a bonus "Challenging Stage" that occurs every few levels, in which a series of enemies fly onto and out of the screen in set patterns without firing at the player's ship or trying to crash into it. These stages award a large point bonus if the player manages to destroy every enemy.
+Another gameplay feature new to Galaga is the ability for enemies to capture the player's fighter. While the player is in control of just one fighter, a "boss Galaga" (which takes two shots to kill) periodically attempts to capture the fighter using a tractor beam. If successful, the fighter joins the enemy formation. If the player has more lives remaining, play resumes with a new fighter. The captured fighter flies down with the enemy that captured it, firing upon the player just like normal enemies, and can be shot and destroyed. The player can free the fighter by destroying the boss Galaga while in flight, causing the captured fighter to link up with the player's current fighter, doubling his or her firepower but also making a target twice as large.
+Galaga has an exploitable bug that can cause the attackers to stop firing bullets at the player, due to a coding error. In addition, similar to the famous "Split-Screen bug" in Pac-Man, a bug exists in Galaga in which the game "rolls over" from Level 255 to Level 0. Depending on the difficulty setting of the machine, this can cause the game to stall, requiring that the machine be reset or power-cycled in order to start a new game.</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/nes/Galaga - Demons of Death (USA)-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Midway</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Ghostbusters (USA).nes</path>
+		<name>Ghostbusters (USA)</name>
+		<desc>Contents of this game: Ghost-catching gear. One hit song. Slime. Paranormal activity. Ghostbusters headquarters. One Marshmallow Man. Laser stream throws. One ectomobile. One street map. One Temple of Zuul. And a zillion ghosts!
+
+Who ya gonna call?</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/nes/Ghostbusters (USA)-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<genre>Adventure</genre>
+	</game>
+	<game>
+		<path>./Ghosts'n Goblins (USA).nes</path>
+		<name>Ghosts'n Goblins (USA)</name>
+		<desc>The beautiful princess is kidnapped. Her lover, the Knight in shining armor, armed with five different weapons to fight the enemy, sets out to rescue the beautiful princess. The Knight, aided by your skill, must pass through seven different guarded gates, fighting and destroying demons, dragons, giants and zombies. There are hidden characters, too! Some friends, some foes. Ghosts 'N Goblins is exciting... challenging you and the Knight to rescue the princess, amid great danger, escaping Hades, land of the enemies!</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/nes/Ghosts'n Goblins (USA)-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19860919T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Adventure</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Legend of Zelda, The (USA) (Rev A).nes</path>
+		<name>Legend of Zelda, The (USA) (Rev A)</name>
+		<desc>Welcome to the Legend of Zelda.  Where the only sound you'll hear is your own heart pounding as you race through forests, lakes, mountains and dungeonous mazes in an attempt to restore peace to the land of Hyrule.  Along the way you'll be challenged by Tektites, Wizzrobes and an endless array of ruthless creatures who'll stop at nothing to prevent you from finding the lost fragments of the Triforce of Wisdom.  But don't despair.  With a little luck and a lot of courage, you'll conquer your adversaries, unite the Triforce fragments and unravel the mystery of the Legend of Zelda!
+
+* Explore the vast Overworld terrain of the land of Hyrule and discover hidden treasures.
+* Explore the mystical labyrinths of the Underworld and ward-off ruthless enemies.</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/nes/Legend of Zelda, The (USA) (Rev A)-image.jpg</image>
+		<rating>0.7416699999999999</rating>
+		<releasedate>19860221T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Marble Madness (USA).nes</path>
+		<name>Marble Madness (USA)</name>
+		<desc>The idea is deceptively simple: Guide a marble down a path without hitting any obstacles or straying off the course. The game is viewed from an isometric perspective, which makes it harder to stay focused on the direction the ball is to follow. There are tight corridors to follow and enemies to avoid. There is a 2-player mode in which players must race to the finish; otherwise you're racing against the clock.</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/nes/Marble Madness (USA)-image.jpg</image>
+		<releasedate>19890301T000000</releasedate>
+		<developer>Rare</developer>
+		<publisher>Milton Bradley</publisher>
+		<genre>Puzzle</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Mario Bros. (World).nes</path>
+		<name>Mario Bros. (World)</name>
+		<desc>Mario and Luigi are doing some underground plumbing when all sorts of weird creatures come flying out of the pipes. Turtles, crabs - even fighterflies - attack the helpless Mario Bros. It's up to you to kick, punch, and knock out these sewer pests before time runs out! But beware. Just when you think you got rid of them, they come back for more! Play against the computer, or with a friend - either way, this is one underground classic you'll want to play time and time again!</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/nes/Mario Bros. (World)-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19830601T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Mario Is Missing! (USA).nes</path>
+		<name>Mario Is Missing! (USA)</name>
+		<desc>Don't look now, but Bowser's back, and this time he's in your world! But where is that mastermind of reptilian trouble doing his dastardly deeds? And what has he done with Mario? Welcome to Mario is Missing! Take a trek with your travel agent, Luigi, and see the world! Track down troublesome turtles. Figure out where in the world you are, and what on earth happened to Mario. If your grasp of geography is good enough, you'll get the goods, stomp the hoods, and grab Mario out of Bowser's ghastly guest house. A learning adventure that the whole family can share! This is no Koopa-stomping mayhem. It's a fun way to learn about our world!</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/nes/Mario Is Missing! (USA)-image.jpg</image>
+		<rating>0.7125</rating>
+		<releasedate>19930701T000000</releasedate>
+		<developer>Radical Ent.</developer>
+		<publisher>Software Toolworks</publisher>
+		<genre>Puzzle</genre>
+	</game>
+	<game>
+		<path>./Mario's Time Machine (USA).nes</path>
+		<name>Mario's Time Machine (USA)</name>
+		<desc>YOU AND MARIO MAKE QUITE A PAIR. Especially when you're battling the common enemy: Bowser.
+
+Seems Bowser's sneaky Koopas have been, throughout time, stealing objects belonging to famous people who, without these valuable objects, wouldn't have been able to help and inspire mankinds.
+
+But Mario is on to Bowser and his crew. He's persuaded the greatest minds in the world to build him a time machine - so that you and he can go anywhere in the world, during and century, in order to find those precious objects and return them to their rightful owners.
+
+You'll visit Cleopatra in the Alexandria of 48 B.C., Plato in the Athens of 369 B.C. and even Thomas Edison in New Jersey in 1879.
+
+So get ready for an incredible, easy-to-take adventure. Not only will you help the human race, but you'll meet the most famous people who ever lived. And you'll travel all over the globe and back, back, back into history. WHAT A TRIP!
+
+Grab your backpack for the learning adventure of your life!</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/nes/Mario's Time Machine (USA)-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>19940601T000000</releasedate>
+		<developer>Radical Entertainment</developer>
+		<publisher>Software Toolworks</publisher>
+		<genre>Puzzle</genre>
+	</game>
+	<game>
+		<path>./Ms. Pac-Man (USA).nes</path>
+		<name>Ms. Pac-Man (USA)</name>
+		<desc>The gameplay of Ms. Pac-Man is largely identical to that of the original Pac-Man. The player gathers points by eating dots and avoiding ghosts (contact with one loses a life). Power-pellets or energizers change the ghosts, which reverse their course and can be eaten for bonus points. Fruit bonuses can be consumed for increasing point values, twice per level.</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/nes/Ms. Pac-Man (USA)-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>19931101T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Namco</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Pac-Man (USA) (Namco).nes</path>
+		<name>Pac-Man (USA) (Namco)</name>
+		<desc>PAC-MAN is ready at your command to blaze around the baffling maze, gobbling up dots, swallowing the occasional fruits and racking up points in a big way! Blinky, Pinky, Inky and Clyde, the not-so-friendly ghosts, are dying to do some gobbling, too. Except their favorite food is PAC-MAN! His only defense is to eat the energizers, special pellets which enable PAC-MAN to gobble the ghosts - but only for a short while! And like all good ghosts, they come right back to haunt you. As you clear each maze, the ghosts move faster. Remember, it's a jungle out there. So gobble - or get gobbled!</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/nes/Pac-Man (USA) (Namco)-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>19870612T000000</releasedate>
+		<developer>Tengen</developer>
+		<publisher>Tengen</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Pac-Man (USA) (Tengen).nes</path>
+		<name>Pac-Man (USA) (Tengen)</name>
+		<desc>PAC-MAN is ready at your command to blaze around the baffling maze, gobbling up dots, swallowing the occasional fruits and racking up points in a big way! Blinky, Pinky, Inky and Clyde, the not-so-friendly ghosts, are dying to do some gobbling, too. Except their favorite food is PAC-MAN! His only defense is to eat the energizers, special pellets which enable PAC-MAN to gobble the ghosts - but only for a short while! And like all good ghosts, they come right back to haunt you. As you clear each maze, the ghosts move faster. Remember, it's a jungle out there. So gobble - or get gobbled!</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/nes/Pac-Man (USA) (Tengen)-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>19870612T000000</releasedate>
+		<developer>Tengen</developer>
+		<publisher>Tengen</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Pac-Mania (USA) (Unl).nes</path>
+		<name>Pac-Mania (USA) (Unl)</name>
+		<desc>You know Pac-Man, that world famous yella-fella who's trying to gobble all the dots in the maze without getting nabbed by ghosts. Well, now you can play Pac-Man like never before - in spectacular 3-D! That's right, everything comes alive in Pac-Mania! The lovable ghosts glide through the air. Dots and energizer pellets hang in mid-air. And Pac-Man gets a new power: He can now jump up and over ghosts! You'll love the new challenging mazes. They come in so many mind-boggling shapes and colors, they'll turn you into a certified Pac-Maniac - going wild and crazy with more fun than ever!</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/nes/Pac-Mania (USA) (Unl)-image.jpg</image>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Westwood Associates</developer>
+		<publisher>Tengen</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./R.C. Pro-Am (USA) (Rev A).nes</path>
+		<name>R.C. Pro-Am (USA) (Rev A)</name>
+		<desc>Nintendo puts you in control.
+  Grab your controller and pull up to the starting line. It's you against three other all-star racers. You'll face hair-pin turns, outragerous curves, oil slicks and rainclouds as you make your way through 32 trecherous courses.
+  Along the way you'll pick up performance boosters like Turbo Accelerations, Sticky Tires and Top Speed that will help you get to the finish line first. But if the going gets rough, use your bombs and missles to knock out the competition to make sure you're the winner.</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/nes/R.C. Pro-Am (USA) (Rev A)-image.jpg</image>
+		<rating>0.76667</rating>
+		<releasedate>19881231T000000</releasedate>
+		<developer>RARE</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Racing</genre>
+	</game>
+	<game>
+		<path>./R.C. Pro-Am II (USA).nes</path>
+		<name>R.C. Pro-Am II (USA)</name>
+		<desc>If you're into racing, but you're tired of racing big, unwieldy cars, then you should check out R.C. PRO-AM II for the Nintendo Entertainment System. You'll be in control of the remote-controlled cars that you remember from your childhood, complete with antennae to pick up your signal. There are 24 tracks covering a wide variety of terrain. If you're good enough to win a race, you can go to the R.C. Model Shop and upgrade your car's components to turn it into an unbeatable racing machine. You'll also have access to power-ups and weapons, adding a new element of strategy to the racing formula. Whether by yourself or with up to three friends, R.C. PRO-AM II delivers intense racing action miniature style!</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/nes/R.C. Pro-Am II (USA)-image.jpg</image>
+		<rating>0.675</rating>
+		<releasedate>19921015T000000</releasedate>
+		<developer>Rare</developer>
+		<publisher>Tradewest</publisher>
+		<genre>Racing</genre>
+		<players>4</players>
+	</game>
+	<game>
+		<path>./Rambo (USA) (Rev A).nes</path>
+		<name>Rambo (USA) (Rev A)</name>
+		<desc>Rambo is a side scrolling platform game where the player controls Rambo with his mission to Vietnam. The game starts at the military base before getting sent to Vietnam. In Vietnam, Rambo has to fight animals in the jungles, swamps, and caves like wasps, snakes, fish, tigers, bats, spiders, birds, apes and flamingos. Before making his way to the POW camp he has to fight guards and mercenaries that can kick and shoot him, all wearing different color shirts depending on how powerful they are. The game also requires the player to navigate a complex map requiring the player to find North and South points on the ground to go up and down levels as well as East and West by moving Rambo to the edge of the screen. There are 6 different weapons that Rambo can pick up that are knife, throwing knife, bow and arrow, bow and exploring arrow, gun, and hand grenade. All the weapons but the knife has limited ammo which is collected from killed enemies. There is also health vile that restores health as well as mission specific items that Rambo must find to complete some missions. The game uses password save that can be retrieved when talking to any person.</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/nes/Rambo (USA) (Rev A)-image.jpg</image>
+		<rating>0.82</rating>
+		<releasedate>19871204T000000</releasedate>
+		<developer>Pack-In Video</developer>
+		<publisher>Acclaim</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Rampage (USA).nes</path>
+		<name>Rampage (USA)</name>
+		<desc>The game where the nice guys don't get a look in. Grab your way through Chicago, punch up New York, and jump on San Francisco. Three indescribably nasty characters which bear a remarkable likeness to King Kong, Godzilla and Wolf-Man, need you to send them on a RAMPAGE in an enduring 150 days of destruction through 50 different cities!</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/nes/Rampage (USA)-image.jpg</image>
+		<releasedate>19881201T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>Data East</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Smash T.V. (USA).nes</path>
+		<name>Smash T.V. (USA)</name>
+		<desc>Moving from one room to the next within the studio/arena, players have to shoot down hordes of enemies as they advance from all sides, while at the same time collecting weapons, power-up items, and assorted bonus prizes until a final show down with the show's host where you are finally granted your prizes, your life and freedom. One of the enemies is fat and is named Mr. Shrapnel who roams aside of the walls of some rooms and after a short period of time he explodes. In the NES version, he is replaced by a giant rolling bomb.</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/nes/Smash T.V. (USA)-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>19910901T000000</releasedate>
+		<developer>Williams</developer>
+		<publisher>Williams</publisher>
+		<genre>Shooter</genre>
+	</game>
+	<game>
+		<path>./Spy Hunter (USA).nes</path>
+		<name>Spy Hunter (USA)</name>
+		<desc>Spy Hunter is an action/driving game with the player in the role of a spy driving an armed sportscar. The object of the game is to travel the freeway destroying as many enemy vehicles as possible while protecting civilian vehicles. The game is a top-down vertical scroller.</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/nes/Spy Hunter (USA)-image.jpg</image>
+		<releasedate>19870901T000000</releasedate>
+		<developer>Sunsoft</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Super Mario Bros. (World).nes</path>
+		<name>Super Mario Bros. (World)</name>
+		<desc>Do you have what it takes to save the Mushroom Princess?  You'll have to think fast and move even faster to complete this quest!  The Mushroom Princess is being held captive by the evil Koopa tribe of turtles.  It's up to you to rescue her from the clutches of the Koopa King before time runs out.  But it won't be easy.  To get to the Princess, you'll have to climb mountains, cross seas, avoid bottomless pits, fight off turtle soldiers and a host of black magic traps that only a Koopa King can devise.  It's another non-stop adventure from the Super Mario Bros.!</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/nes/Super Mario Bros. (World)-image.jpg</image>
+		<rating>0.78205</rating>
+		<releasedate>19850913T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Adventure</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Super Mario Bros. + Duck Hunt (USA).nes</path>
+		<name>Super Mario Bros. + Duck Hunt (USA)</name>
+		<desc>Double the fun on one Game Pak - use the light gun for Duck Hunt and the controllers for Super Mario Bros. 
+
+Take aim, fire and score! It's DUCK HUNT! Your trusty hunting dog wades into the marshes to flush out your prey. Your fingers tighten around your Zapper light gun. Suddenly, there's a duck in the air! You've only got three shots to bag this duck, and if you miss, even your dog laughs at you! But become a sharp-shooter, and you'll progress to the next round where two ducks fly up at the same time. And then you're on to the ultimate challenge: Clay Shooting. Where you'll compete in a wild clay-pigeon shooting contest! Play DUCK HUNT and discover you can have lots of laughs and be challenged at the same time.
+
+Do you have what it takes to save the Mushroom Princess? You'll have to think fast and move even faster to complete this quest! The Mushroom Princess is being held captive by the evil Koopa tribe of turtles. It's up to you to rescue her from the clutches of the Koopa King before time runs out. But it won't be easy. To get to the princess you'll have to climb mountains, cross seas, avoid bottomless pits, fight of turtle soldiers and a host of black magic traps that only a Koopa King can devise. It's another non-stop adventure from the SUPER MARIO BROS.!</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/nes/Super Mario Bros. + Duck Hunt (USA)-image.jpg</image>
+		<rating>0.6333300000000001</rating>
+		<releasedate>19880726T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Adventure</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Super Mario Bros. + Duck Hunt + World Class Track Meet (USA) (Rev A).nes</path>
+		<name>Super Mario Bros. + Duck Hunt + World Class Track Meet (USA) (Rev A)</name>
+		<desc>Combo cart containing several of Nintendo's most beloved classics. Super Mario Bros. stars "Jump Man" himself, Mario, along with his brother Luigi, and takes players through more than 30 colorful levels of varied theme and design, all of them packed with cute, stylized enemies like the goombas and a wide array of platforms and obstacles. Duck Hunt has you man a gun and use well-timed button presses to shoot down ducks as they fly across the screen. The third game, the sports competition World Class Track Meet supports the Power Pad accessory.</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/nes/Super Mario Bros. + Duck Hunt + World Class Track Meet (USA) (Rev A)-image.jpg</image>
+		<rating>0.76667</rating>
+		<releasedate>19901201T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Super Mario Bros. + Tetris + Nintendo World Cup (Europe) (Rev A).nes</path>
+		<name>Super Mario Bros. + Tetris + Nintendo World Cup (Europe) (Rev A)</name>
+		<desc>Super Mario Bros. / Tetris / Nintendo World Cup is a Miscellaneous game, developed and published by Nintendo, which was released in Europe in 1988. It is highly uncommon outside the PAL-region, although it is not valuable amongst collectors. This cartridge is exotic to North American gamers and not more worth than a few bucks for Europeans.</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/nes/Super Mario Bros. + Tetris + Nintendo World Cup (Europe) (Rev A)-image.jpg</image>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>4</players>
+	</game>
+	<game>
+		<path>./Super Mario Bros. 2 (USA) (Rev A).nes</path>
+		<name>Super Mario Bros. 2 (USA) (Rev A)</name>
+		<desc>Mario's back!  Bigger and badder than before!  This time it's a fierce action-packed battle to free the land of Subcon from the curse of the evil Wart.  It's up to you, along with Mario, Luigi, Toad and the Princess, to fight your way through bizarre multi-level worlds and find him!  This time you've got a brand new kind of power - plucking power - and now anything you find can be a weapon.  But beware!  You've never seen creatures like these!  Shyguys and Tweeters!  Ninji and Beezos!  And you've never had an adventure like this!  Only cunning and speed can save you now</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/nes/Super Mario Bros. 2 (USA) (Rev A)-image.jpg</image>
+		<rating>0.65</rating>
+		<releasedate>19881001T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Super Mario Bros. 3 (USA) (Rev A).nes</path>
+		<name>Super Mario Bros. 3 (USA) (Rev A)</name>
+		<desc>Fight monsters and mini-bosses, avoid ghosts and the burning sun.  Make your way through water and quicksand.  Dodge cannon balls and bullets and rescue the King's wand!
+
+In Super Mario Bros. 3 there are more warps, more chances at extra lives, and new special suits!  The raccoon suit lets you fly and knock out blocks.  The frog suit helps you out-swim the deadly fish.  There are suits for every occasion!
+
+Store up flowers and mushrooms to use later on.  Play game-show type bonus rounds!  Go back to that last screen and get a mushroom!  Pause to take a break, then continue where you left off!
+
+Super Mario Bros. 3 is fun to play alone, or team up with a buddy to prolong the adventure!</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/nes/Super Mario Bros. 3 (USA) (Rev A)-image.jpg</image>
+		<rating>0.77143</rating>
+		<releasedate>19881023T000000</releasedate>
+		<developer>Nintendo EAD</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Adventure</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Tetris (USA).nes</path>
+		<name>Tetris (USA)</name>
+		<desc>A random sequence of tetrominoes (sometimes called "tetrads" in older versions)shapes composed of four square blocks eachfall down the playing field (a rectangular vertical shaft, called the "well" or "matrix"). The objective of the game is to manipulate these tetrominoes, by moving each one sideways and rotating it by 90 degree units, with the aim of creating a horizontal line of blocks without gaps. When such a line is created, it disappears, and any block above the deleted line will fall. With every ten lines that are cleared, the game enters a new level. As the game progresses, each level causes the tetrominoes to fall faster, and the game ends when the stack of tetrominoes reaches the top of the playing field and no new tetrominoes are able to enter. In certain versions, the game can also end if the player is able to get all the way to level 15.
+
+All of the tetrominoes are capable of single and double clears. I, J, and L are able to clear triples. Only the I tetromino has the capacity to clear four lines simultaneously, and this is referred to as a "tetris". (This may vary depending on the rotation and compensation rules of each specific Tetris implementation. For instance, in the Super Rotation System used in most recent implementations, called "Easy Spin" in Tetris Worlds, certain rare situations allow T, S and Z to 'snap' into tight spots and clear triples.)</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/nes/Tetris (USA)-image.jpg</image>
+		<rating>0.6799999999999999</rating>
+		<releasedate>19880715T000000</releasedate>
+		<developer>Bullet-Proof Software</developer>
+		<publisher>Bullet-Proof Software</publisher>
+		<genre>Puzzle</genre>
+	</game>
+	<game>
+		<path>./Tetris 2 (USA).nes</path>
+		<name>Tetris 2 (USA)</name>
+		<desc>The mesmerizing fun of Tetris returns - and the challenge escalates to new heights! Test your dexterity, tease your brain and rack up points with Tetris 2. Your split-second decisions lead you to a new dimension in puzzle solving action! Play alone or challenge a friend in simultaneous, split-screen action. Line-up three blocks of the same color and vroosh! - they explode! Get rid of special Flash Blocks and wipe out matching color pieces in one move. A tougher Tetris with more shapes, more components, 30 levels - and unlimited solutions. If you loved the international game sensation Tetris, you'll be wild for the newest dimension in puzzle fun: Tetris 2!</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/nes/Tetris 2 (USA)-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>19931013T000000</releasedate>
+		<developer>TOSE</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Puzzle</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Wario's Woods (USA).nes</path>
+		<name>Wario's Woods (USA)</name>
+		<desc>It's up to Toad to keep the woods safe in this new Super NES puzzle action!
+
+Toad is back in his very own big adventure in this game with the challenge of Tetris. It's up to you and Toad to keep peace in the Mushroom Kingdom - and that means outfoxing the wicked Wario!
+
+Monsters, goblins and bombs fall from the sky faster and faster as Wario fires them into the woods. Toad must scramble to catch and line up the falling puzzle pieces to eliminate Wario's evil hold. If you loved Tetris, this puzzle action game is for you!</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/nes/Wario's Woods (USA)-image.jpg</image>
+		<rating>0.5333300000000001</rating>
+		<releasedate>19941215T000000</releasedate>
+		<developer>Intelligent Systems</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Puzzle</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Yoshi's Cookie (USA).nes</path>
+		<name>Yoshi's Cookie (USA)</name>
+		<desc>Cookie chaos for Mario and Yoshi! Mario and Yoshi are filling in at the Cookie Factory and they need your help! Fresh baked cookies roll out of the ovens. It's up to Mario to sort and stack 'em before they pile too high! Line up a row of the same kind of cookies either vertically or horizontally, and they vanish! Clear the screens to move on to a new level of cookie chaos. Yoshi appears from time to time to stir things up. Play for a high score or head-to-head against a friend. The mouth-watering madness doesn't let up! And be sure to keep some cookies close by, 'cause you'll get the munchies during this lip-smacking good time!</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/nes/Yoshi's Cookie (USA)-image.jpg</image>
+		<releasedate>19930412T000000</releasedate>
+		<developer>TOSE</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Puzzle</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Legend of Zelda II, The - The Adventure of Link (USA).nes</path>
+		<name>Zelda II - The Adventure of Link (USA)</name>
+		<desc>The land of Hyrule is in chaos.  As Link, you'll be sent on a treacherous journey to return six precious Crystals to their origins in six stone statues.  Only by defeating the guardians of the six palaces will you gain passage to the seventh palace, take on the ultimate challenge that awaits you, and wake the Princess Zelda from her sleeping spell.  On your way, helpful villagers you encounter will offer clues and secret messages invaluable in your quest.  As you guide Link through the levels of Hyrule, close-ups and overviews will enhance your video vision.  Are you up to the challenge?</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/nes/Legend of Zelda II, The - The Adventure of Link (USA)-image.jpg</image>
+		<rating>0.74</rating>
+		<releasedate>19880926T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+	</game>
+</gameList>

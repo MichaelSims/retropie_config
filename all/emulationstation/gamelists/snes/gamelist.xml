@@ -1,954 +1,1080 @@
-<?xml version="1.0" encoding="UTF-8"?>
-  <gameList>
-      <game id="274" source="theGamesDB.net">
-          <path>./Animaniacs (USA).sfc</path>
-          <name>Animaniacs (USA)</name>
-          <desc>Animaniacs is a video game that is based on the hit animated series of the same name. Unlike regular platform games, the player usually runs from the enemies rather than fighting them. Characters include Yakko, Wakko, and Dot, Pinky and the Brain, most of the supporting cast, as well as Ralph, the Warner Brothers studio guard. Animaniacs was made into two games which bore no relation to each other in terms of gameplay, despite both being made by Konami. One was for the Super Nintendo Entertainment System and the other was for the Sega Mega Drive/Genesis and Game Boy. The SNES and Mega Drive/Genesis version were released in 1994, and the Game Boy version in 1995.</desc>
-          <image>/home/pi/.emulationstation/downloaded_images/snes/Animaniacs (USA)-image.jpg</image>
-          <rating>0.5</rating>
-          <releasedate>19941101T000000</releasedate>
-          <developer>Konami</developer>
-          <publisher>Konami</publisher>
-          <genre>Platform</genre>
-          <players>1</players>
-      </game>
-      <game id="1046" source="theGamesDB.net">
-          <path>./ActRaiser (USA).sfc</path>
-          <name>ActRaiser (USA)</name>
-          <desc>ACTION &amp; SIMULATION GAME&#xA;This sensational game combines pulse-stopping action sequences with an intelligent Simulation Mode, allowing the player to forge a new civilization. Finally......experience a game that fully utilizes the advanced capabilities of the Super NES.&#xA;&#xA;Restore peace and order to your people&#39;s world! Long ago, you and your people built a peaceful land. Since then, your world has been taken over and inhabited by the evil Tanzra and his Guardians. Your once-tranquil land has become a breeding ground for monsters. Injured, you have retreated to your Sky Palace and have fallen into a deep sleep.&#xA;&#xA;Now, many years have passed and you have recovered from your injuries and slumber. You must punish Tanzra and restore the world to your people or lose their faith forever.&#xA;&#xA;Action Mode&#xA;Breathe life into the statue modeled after your likeness to cleanse the land and defeat the monsters who have conquered.&#xA;&#xA;Simulation Mode&#xA;Help your people develop a new land from that which has been purified and build towns with your powers.</desc>
-          <image>/home/pi/.emulationstation/downloaded_images/snes/ActRaiser (USA)-image.jpg</image>
-          <rating>0.6</rating>
-          <releasedate>19911101T000000</releasedate>
-          <developer>Quintet</developer>
-          <publisher>Enix</publisher>
-          <genre>Action</genre>
-          <players>1</players>
-      </game>
-      <game id="1047" source="theGamesDB.net">
-          <path>./ActRaiser 2 (USA).sfc</path>
-          <name>ActRaiser 2 (USA)</name>
-          <desc>THE LEGACY CONTINUES!&#xA;Every once in awhile a game comes out that is so good, people can&#39;t stop talking about it - a game that seems to rise above the others. ACTRAISER for the SNES was that game. We don&#39;t need to remind you of how good the graphics were. We don&#39;t have to tell you about the music. We could have just sat back and been satisfied with the recognition it&#39;s received. Instead, we decided to make something even better: ACTRAISER 2! We&#39;ve improved the graphics, improved the sound and created a game we&#39;re confident will once again set the standard for all SNES games.&#xA;&#xA;HE&#39;S BACK!&#xA;The most feared demons of all time have combined their power and raised the Lord of Evil, TANZRA. Now alive, TANZRA&#39;s hatred for you runs eternal. Vowing revenge, he has sent his demons to attack your people and destroy everything! You must put an end to this once and for all. This time however, it won&#39;t be easy!</desc>
-          <image>/home/pi/.emulationstation/downloaded_images/snes/ActRaiser 2 (USA)-image.jpg</image>
-          <rating>0.7</rating>
-          <releasedate>19931029T000000</releasedate>
-          <developer>Quintet</developer>
-          <publisher>Enix</publisher>
-          <genre>Action</genre>
-          <players>1</players>
-      </game>
-      <game id="2868" source="theGamesDB.net">
-          <path>./Aladdin (USA).sfc</path>
-          <name>Aladdin (USA)</name>
-          <desc>Discover a Whole New World of Adventure... For years, Jafar, the Sultan&#39;s evil advisor has sought a magic treasure - a single lamp that holds the key to the greatest power in the world. With this goal in sight, Jafar learns that only one person in the world can claim the magic lamp from the dreaded Cave of Wonders - one whose rags hide a heart that is pure - a diamond in the rough! Join Aladdin and his pet monkey Abu, as they race through the marketplace toward their date with destiny. Watch as Jafar tricks our hero and his friend into retrieving the lamp from the dangerous Cave of Wonders. But Aladdin and Abu outwit Jafar, releasing the power of a wacky blue Genie! Now Aladdin will have the chance to spoil Jafar&#39;s devious plans and win the hand of the beautiful princess Jasmine. But it will take more than magic to make his wishes come true...</desc>
-          <image>/home/pi/.emulationstation/downloaded_images/snes/Aladdin (USA)-image.jpg</image>
-          <rating>0.78</rating>
-          <releasedate>19930101T000000</releasedate>
-          <developer>Capcom</developer>
-          <publisher>Capcom</publisher>
-          <genre>Action</genre>
-          <players>1</players>
-      </game>
-      <game id="1722" source="theGamesDB.net">
-          <path>./Bubsy II (USA).sfc</path>
-          <name>Bubsy II (USA)</name>
-          <desc>A new historical theme park, the Amazotarium, has been made. Though impressive, the park&#39;s sinister technology is stealing away actual history and placing it on exhibit. Having taken his niece and nephew to the park, Bubsy loses them and is soon caught up in the evil plans of Oinker P. Hamm, who runs Amazaterium and wants to extort money from his unwitting customers who&#39;ll &#34;pay anything to see their own history&#34;. Now, Bubsy needs to &#34;humble&#34; Oinker and close the fascinating-but-deadly Amazatorium before anyone faces a hairy ending.</desc>
-          <image>/home/pi/.emulationstation/downloaded_images/snes/Bubsy II (USA)-image.jpg</image>
-          <releasedate>19940403T000000</releasedate>
-          <developer>Accolade</developer>
-          <publisher>Accolade</publisher>
-          <genre>Action</genre>
-          <players>1</players>
-      </game>
-      <game id="1255" source="theGamesDB.net">
-          <path>./Chrono Trigger (USA).sfc</path>
-          <name>Chrono Trigger (USA)</name>
-          <desc>The millennium. A portal is opened. The chain of time is broken. A young man is transported into the past, altering the course of history and the outcome of the future. He has to find his way home, but first he must travel to the outer edges of time to repair the world&#39;s chronology. On the way he encounters strange friends and foes, utilizes incredible devices and vehicles, and penetrates and neutralizes the fortresses of the past, present, and future. A paradox has been created. If he does not restore the order of time, nothing will ever be the same. He is the one who will become a hero. He is Crono.</desc>
-          <image>/home/pi/.emulationstation/downloaded_images/snes/Chrono Trigger (USA)-image.jpg</image>
-          <rating>0.8125</rating>
-          <releasedate>19950311T000000</releasedate>
-          <developer>Squaresoft</developer>
-          <publisher>Squaresoft</publisher>
-          <genre>Role-Playing</genre>
-          <players>1</players>
-      </game>
-      <game id="3086" source="theGamesDB.net">
-          <path>./Cool Spot (USA).sfc</path>
-          <name>Cool Spot (USA)</name>
-          <desc>NO WAY! Your Cool SPOT chums are locked away! YES WAY! You, as Cool SPOT are here to save the day! Quit gawping over the dreamy scenery, the awesome animation and most savoury sound around. Play! Man, this is the hairiest...</desc>
-          <image>/home/pi/.emulationstation/downloaded_images/snes/Cool Spot (USA)-image.jpg</image>
-          <rating>0.6</rating>
-          <releasedate>19931210T000000</releasedate>
-          <developer>Virgin Interactive</developer>
-          <publisher>Virgin Interactive</publisher>
-          <genre>Platform</genre>
-          <players>1</players>
-      </game>
-      <game id="283" source="theGamesDB.net">
-          <path>./Daffy Duck - The Marvin Missions (USA).sfc</path>
-          <name>Daffy Duck - The Marvin Missions (USA)</name>
-          <desc>In this game, Duck Dodgers sets out to stop Marvin the Martian from performing various notorious deeds, including destroying his beloved home-planet, Earth. There seems to be only one way to stop Marvin - and that&#39;s to destroy all five of his deadly machines!</desc>
-          <image>/home/pi/.emulationstation/downloaded_images/snes/Daffy Duck - The Marvin Missions (USA)-image.jpg</image>
-          <rating>0.6</rating>
-          <releasedate>19931001T000000</releasedate>
-          <developer>ICOM Simulations, Inc.</developer>
-          <publisher>Sunsoft</publisher>
-          <genre>Action</genre>
-          <players>1</players>
-      </game>
-      <game id="1553" source="theGamesDB.net">
-          <path>./Castlevania - Dracula X (USA).sfc</path>
-          <name>Castlevania - Dracula X (USA)</name>
-          <desc>In Transylvania, people lived in fear of the evil Count Dracula. The ultimate embodiment of evil, Dracula swept his dark hand over the land, making the people mere sheep for his thirst for blood. But when a young woman named Sonia Belmont came forth to confront him, he made a horrible mistake: he underestimated her. Thus, the battle between Dracula and the Belmont family began.</desc>
-          <image>/home/pi/.emulationstation/downloaded_images/snes/Castlevania - Dracula X (USA)-image.jpg</image>
-          <rating>0.8</rating>
-          <releasedate>19950905T000000</releasedate>
-          <developer>Konami</developer>
-          <publisher>Konami</publisher>
-          <genre>Action</genre>
-          <players>1</players>
-      </game>
-      <game id="2232" source="theGamesDB.net">
-          <path>./Bubsy in Claws Encounters of the Furred Kind (USA).sfc</path>
-          <name>Bubsy in - Claws Encounters of the Furred Kind (USA)</name>
-          <desc>A race of fabric-stealing aliens called &#34;Woolies&#34;, who have stolen the world&#39;s yarn ball supply (especially Bubsy&#39;s, who owns the world&#39;s largest collection). Naturally, Bubsy does not take too kindly to the theft and sets out to &#34;humble&#34; the Woolies.</desc>
-          <image>/home/pi/.emulationstation/downloaded_images/snes/Bubsy in Claws Encounters of the Furred Kind (USA)-image.jpg</image>
-          <releasedate>19930101T000000</releasedate>
-          <developer>Solid Software</developer>
-          <publisher>Accolade</publisher>
-          <genre>Platform</genre>
-          <players>1</players>
-      </game>
-      <game id="2860" source="theGamesDB.net">
-          <path>./Cool World (USA).sfc</path>
-          <name>Cool World (USA)</name>
-          <desc>Cool World is an action-oriented Super NES video game that is loosely based on the movie Cool World.&#xA;&#xA;Cartoonist Jack Deebs (the player&#39;s character) has discovered Cool World; eliminating the fine line between fantasy and reality. Holli Would has a major crush on Jack and is using him romantically to get a human body and move to the &#34;Real World.&#34; Jack&#39;s only goal is to escape this alternative reality and return to the real world. By doing so, he returns to his beloved hometown of Las Vegas. If Holly grabs the Golden Spike of Power, then both worlds will be destroyed.</desc>
-          <image>/home/pi/.emulationstation/downloaded_images/snes/Cool World (USA)-image.jpg</image>
-          <releasedate>19920101T000000</releasedate>
-          <developer>Ocean</developer>
-          <publisher>Ocean Software</publisher>
-          <genre>Adventure</genre>
-          <players>1</players>
-      </game>
-      <game id="1754" source="theGamesDB.net">
-          <path>./Dirt Racer (Europe).sfc</path>
-          <name>Dirt Racer (Europe) (En,Fr,De)</name>
-          <desc>Players must drive their dirt track racing vehicle across a road rally. The car comes complete with a speedometer (in kilometres), a lap counter, and a lap time counter. There are a pre-determined number of chances to complete the game, like in Super Mario Kart and F-Zero. If the player is unable to defeat the game in those number of tries, then the player gets an automatic game over. A yellow smiley face shows up to track the performance of the driver. If it&#39;s smiling, then the player is winning. Otherwise, the player is losing the game.</desc>
-          <image>/home/pi/.emulationstation/downloaded_images/snes/Dirt Racer (Europe)-image.jpg</image>
-          <releasedate>19950101T000000</releasedate>
-          <developer>Elite</developer>
-          <publisher>Elite</publisher>
-          <genre>Racing</genre>
-          <players>2</players>
-      </game>
-      <game id="1755" source="theGamesDB.net">
-          <path>./Dirt Trax FX (USA).sfc</path>
-          <name>Dirt Trax FX (USA)</name>
-          <desc>The player can choose between eight different riders with unique characteristics and four bikes ranging from 50cc to 500cc. There are 22 tracks with four difficulty levels of gameplay</desc>
-          <image>/home/pi/.emulationstation/downloaded_images/snes/Dirt Trax FX (USA)-image.jpg</image>
-          <releasedate>19950601T000000</releasedate>
-          <developer>Sculptured Software</developer>
-          <publisher>Acclaim Entertainment</publisher>
-          <genre>Racing</genre>
-          <players>2</players>
-      </game>
-      <game id="131" source="theGamesDB.net">
-          <path>./Donkey Kong Country (USA) (Rev 2).sfc</path>
-          <name>Donkey Kong Country (USA) (Rev 2)</name>
-          <desc>Madness and Mayhem in this 3-D Gorilla Thriller!&#xA;&#xA;Donkey Kong is back with a new sidekick, Diddy Kong, in a crazy island adventure! Challenged by the crazed tribe of reptilian Kremlings, they endeavor to get back their stolen banana horde! Armed with lightning-quick moves, chest-pounding muscle and awesome aerial acrobatics, our duo is ready to face their cunning adversaries. With the help of Donkey Kong&#39;s quirky family and his wild animal mounts, they squabble and scamper their way through the unending monkey mayhem!</desc>
-          <image>/home/pi/.emulationstation/downloaded_images/snes/Donkey Kong Country (USA) (Rev 2)-image.jpg</image>
-          <rating>0.80952</rating>
-          <releasedate>19941121T000000</releasedate>
-          <developer>Rare</developer>
-          <publisher>Nintendo</publisher>
-          <genre>Action</genre>
-          <players>2</players>
-      </game>
-      <game id="1525" source="theGamesDB.net">
-          <path>./Donkey Kong Country 2 - Diddy&#39;s Kong Quest (USA) (Rev 1).sfc</path>
-          <name>Donkey Kong Country 2 - Diddy&#39;s Kong Quest (USA) (En,Fr) (Rev 1)</name>
-          <desc>O.K. kid, wipe that drool off your chin and listen up if you really want to learn something about this game. Sure, it&#39;s got newfangled computer graphics and what Diddy calls stereo sound that &#34;rocks heavily and with little resistance!&#34; BUT, the game play? Well, they FINALLY added some proper challenge to the game - a snap for me of course. AND THE STORY? You sure ask a lot of questions, kid! Kaptain K. Rool and his cruelest cut-throat Kremlings have kidnapped that flea-bitten ape Donkey Kong. I figured I&#39;d rescue him when the little pip-squeak DIDDY pops up along with his girlfriend, and they head off fixin&#39; to prove themselves heroes or something. Come to think of it, I haven&#39;t laid eyes on those two for quite a while. I just may have to help them out after all!</desc>
-          <image>/home/pi/.emulationstation/downloaded_images/snes/Donkey Kong Country 2 - Diddy&#39;s Kong Quest (USA) (Rev 1)-image.jpg</image>
-          <rating>0.8333299999999999</rating>
-          <releasedate>19951120T000000</releasedate>
-          <developer>Rare</developer>
-          <publisher>Nintendo</publisher>
-          <genre>Action</genre>
-          <players>2</players>
-      </game>
-      <game id="1526" source="theGamesDB.net">
-          <path>./Donkey Kong Country 3 - Dixie Kong&#39;s Double Trouble! (USA).sfc</path>
-          <name>Donkey Kong Country 3 - Dixie Kong&#39;s Double Trouble! (USA) (En,Fr)</name>
-          <desc>Monkey Mayhem Lives On!&#xA;&#xA;Kiddy Kong is a portly primate toddler with incredible power and agility! He teams up with Dixie Kong to stop the ever-present army of Kremlings. The game play and ACM graphics just keep getting better in this visually stunning installment in one of the most popular video game series of all time!&#xA;&#xA;Combining their unique abilities as they throw each other into action, Dixie Kong and Kiddy Kong set off to rescue Diddy Kong and Donkey Kong. Collect tons of treasure, grab billions of bananas and find more secret stuff than you&#39;ve ever seen (or not seen) as you set off on the greatest DKC adventure yet! The final showdown with KAOS takes place in a cliff-top laboratory at the End of the World. It could get seriously ugly. Monkey mayhem lives on in this exotic island adventure!</desc>
-          <image>/home/pi/.emulationstation/downloaded_images/snes/Donkey Kong Country 3 - Dixie Kong&#39;s Double Trouble! (USA)-image.jpg</image>
-          <rating>0.8428599999999999</rating>
-          <releasedate>19961122T000000</releasedate>
-          <developer>Rare</developer>
-          <publisher>Nintendo</publisher>
-          <genre>Action</genre>
-          <players>2</players>
-      </game>
-      <game id="10779" source="theGamesDB.net">
-          <path>./F-Zero (USA).sfc</path>
-          <name>F-Zero (USA)</name>
-          <desc>The future of racing is here! F-ZERO, an intergalaxtic Grand Prix, uses machines that weigh more than a ton, reach dash speeds of over 500km/h and hover a mere twelve inches off the ground! Choose from the heroic Captain Falcon, or the suave, Dr. Stuart. Need more choices? Then try the sly alien, Pico or the not-so-honest Samurai Goroh, and race for intergalactic fame and fabulous fortune in the F-ZERO Grand Prix.</desc>
-          <image>/home/pi/.emulationstation/downloaded_images/snes/F-Zero (USA)-image.jpg</image>
-          <rating>0.8</rating>
-          <releasedate>19910823T000000</releasedate>
-          <developer>Nintendo</developer>
-          <publisher>Nintendo</publisher>
-          <genre>Racing</genre>
-          <players>1</players>
-      </game>
-      <game id="3761" source="theGamesDB.net">
-          <path>./Flintstones, The (USA).sfc</path>
-          <name>Flintstones, The (USA) (En,Fr,De,Es,It)</name>
-          <desc>What&#39;s more fun than watching The Flintstones? Playing The Flintstones, silly! The evil Cliff Vandercave has kidnapped Pebbles and Bamm Bamm. Gues who to the rescue!?!&#xA;&#xA;Put on your tiger skin, take off your shoes, and be your favorite Stone Age stooge in the rockinest adventure this side of the Jurassic Park. Live in Bedrock. Hang out with Barney, Wilma, Betty, and Dino. Wrestle with hungry dinosaurs. Eat Brontosaurus Burgers. And bring home the little ones, safely.&#xA;&#xA;After all, It&#39;s Fred&#39;s life... and you get to YABBA-DABBA-DOO-IT!</desc>
-          <image>/home/pi/.emulationstation/downloaded_images/snes/Flintstones, The (USA)-image.jpg</image>
-          <releasedate>19950201T000000</releasedate>
-          <developer>Ocean</developer>
-          <publisher>Ocean</publisher>
-          <genre>Platform</genre>
-          <players>1</players>
-      </game>
-      <game id="1582" source="theGamesDB.net">
-          <path>./Dungeon Master (USA).sfc</path>
-          <name>Dungeon Master (USA)</name>
-          <desc>Dungeon Master was a significant enhancement to the 3D dungeon crawl type of role-playing adventure game started by Wizardry and The Bard&#39;s Tale. The addition of a mouse-based (real-time) combat and inventory system in Dungeon Master has been repeated by the Eye of the Beholder Trilogy, Lands of Lore series, and other late-classic-era RPG games.</desc>
-          <image>/home/pi/.emulationstation/downloaded_images/snes/Dungeon Master (USA)-image.jpg</image>
-          <releasedate>19930601T000000</releasedate>
-          <developer>FLT Games</developer>
-          <publisher>FLT Games</publisher>
-          <genre>Role-Playing</genre>
-          <players>1</players>
-      </game>
-      <game id="3622" source="theGamesDB.net">
-          <path>./Frogger (USA).sfc</path>
-          <name>Frogger (USA)</name>
-          <desc>Your task in this arcade conversion is to guide a frog across a treacherous road and river, and to safety at the top of the screen. Both these sections are fraught with a variety of hazards, each of which will kill the frog and cost you a life if contact is made.&#xA;&#xA;The road is full of cars and trucks, at variable speeds. The river water itself is fatal, as are the snakes which hover within on later levels. Frogger must use the arrangement of logs, turtles (which are only there for a short time) and alligators (but stay away form their faces), and then jump into one of the open home-cells, ideally one containing a fly for extra points. Once all holes have been filled, you move onto the next, harder, level.</desc>
-          <image>/home/pi/.emulationstation/downloaded_images/snes/Frogger (USA)-image.jpg</image>
-          <rating>0.5</rating>
-          <releasedate>19980101T000000</releasedate>
-          <developer>Morning Star Multi</developer>
-          <publisher>Majesco Games</publisher>
-          <genre>Action</genre>
-          <players>2</players>
-      </game>
-      <game id="3762" source="theGamesDB.net">
-          <path>./Flintstones, The - The Treasure of Sierra Madrock (USA).sfc</path>
-          <name>Flintstones, The - The Treasure of Sierra Madrock (USA)</name>
-          <desc>Rock this town!&#xA;&#xA;Join the gang from Bedrock on their latest fun filled adventure. It&#39;s your chance to play with the stars!&#xA;&#xA;-12 megs of excellent action!&#xA;-One or two players!&#xA;-Five worlds with multiple stages provide hours of entertainment!&#xA;-Races, roulette, and many more mini-games!&#xA;-Awesome intermission screens bring Bedrock to life!</desc>
-          <image>/home/pi/.emulationstation/downloaded_images/snes/Flintstones, The - The Treasure of Sierra Madrock (USA)-image.jpg</image>
-          <rating>0.55</rating>
-          <releasedate>19940301T000000</releasedate>
-          <developer>Taito</developer>
-          <publisher>Taito</publisher>
-          <genre>Platform</genre>
-          <players>2</players>
-      </game>
-      <game id="2783" source="theGamesDB.net">
-          <path>./Incredible Hulk, The (USA).sfc</path>
-          <name>Incredible Hulk, The (USA)</name>
-          <desc>Take control of the Hulk/Dr. Banner through five levels of action. City and Construction Site, Tyrannus&#39; Labyrinth, Leader&#39;s Fortress, Leader&#39;s Interior, and the Final Confrontation.</desc>
-          <image>/home/pi/.emulationstation/downloaded_images/snes/Incredible Hulk, The (USA)-image.jpg</image>
-          <rating>0.4</rating>
-          <releasedate>19940801T000000</releasedate>
-          <developer>Probe Entertainment</developer>
-          <publisher>U.S. Gold</publisher>
-          <genre>Action</genre>
-          <players>1</players>
-      </game>
-      <game id="1986" source="theGamesDB.net">
-          <path>./Illusion of Gaia (USA).sfc</path>
-          <name>Illusion of Gaia (USA)</name>
-          <desc>Radiating an ominous light in its path, the Chaos Comet threatens the existence of the planet. Battles erupt and a tentative peace is returned to the lands. Danger lurks as the Chaos Comet orbits and dreadful beasts lie awaiting. In the Age of Exploration a boy named Will is born. Tragedy strikes during an expedition to the Tower of Babel separating Will from his father. Telekinetic forces awaken as Will returns to South Cape. Armed with his transformation abilities of two great warriors, Will must save the planet. Gaia, Will&#39;s guiding spirit bestows magical powers and advice along his journey. With the help of his friends Will must battle relentless enemies and solve the puzzles of the ancient ruins. Patience and knowledge are essential to reunite this father and son.</desc>
-          <image>/home/pi/.emulationstation/downloaded_images/snes/Illusion of Gaia (USA)-image.jpg</image>
-          <rating>0.68571</rating>
-          <releasedate>19931127T000000</releasedate>
-          <developer>Quintet</developer>
-          <publisher>Enix</publisher>
-          <genre>Action</genre>
-          <players>1</players>
-      </game>
-      <game id="3805" source="theGamesDB.net">
-          <path>./Jetsons, The - Invasion of the Planet Pirates (USA).sfc</path>
-          <name>Jetsons, The - Invasion of the Planet Pirates (USA)</name>
-          <desc>George Jetson was about to run out to work when his pal Captain Zoom appears out of thin air. Zoom tells him that Zora, the leader of SPREE (&#34;Space Pirates Revelling in Evil Enterprises&#34;), is planning on looting this solar system of all its resource! Unfortunately, in his last encounter with Zora, Zoom has used up all his strength and now he is powerless so he asks George to take over. He gives George his Pneumo Osmatic Precipitator (or P.O.P.) and bids him good luck.  Can George save his family and this galaxy?&#xA;&#xA;Guide George through 9 stages of intergalactic action armed with only his wits and the P.O.P....which is like a super vacuum. The P.O.P. can be used as a traveling tool by sucking onto walls and ceilings, it will enable George to climb up and across platforms.  As a weapon, the P.O.P. can be used to suck up blocks or enemies and spit out at other enemies. George can also use the P.O.P. to breathe under water! Talk about multi-functional!&#xA;&#xA;George&#39;s conditions are indicated by the number of hearts he has at the top of the screen.  By collecting more hearts, it will refill George&#39;s health. Food items will increase your score and by getting a high enough score in each stage, you may get to play a bonus game.</desc>
-          <image>/home/pi/.emulationstation/downloaded_images/snes/Jetsons, The - Invasion of the Planet Pirates (USA)-image.jpg</image>
-          <rating>0.6</rating>
-          <releasedate>19940101T000000</releasedate>
-          <developer>Taito Corporation</developer>
-          <publisher>Taito Corporation</publisher>
-          <genre>Platform</genre>
-          <players>1</players>
-      </game>
-      <game id="1989" source="theGamesDB.net">
-          <path>./Indiana Jones&#39; Greatest Adventures (USA).sfc</path>
-          <name>Indiana Jones&#39; Greatest Adventures (USA)</name>
-          <desc>Grab your trusty whip and slash your way throughout all three Indy classics in this no-thrills-barred video game adventure! If it happens in the movies... it happens here... the giant boulder from Raiders of the Lost Ark, the mine cart chase from Temple of Doom, Three Trials from The Last Crusade. It&#39;s three times the Indy, all on one blockbuster game pak!</desc>
-          <image>/home/pi/.emulationstation/downloaded_images/snes/Indiana Jones&#39; Greatest Adventures (USA)-image.jpg</image>
-          <rating>0.6</rating>
-          <releasedate>19941011T000000</releasedate>
-          <developer>Factor 5</developer>
-          <publisher>JVC</publisher>
-          <genre>Action</genre>
-          <players>1</players>
-      </game>
-      <game id="1315" source="theGamesDB.net">
-          <path>./Kirby Super Star (USA).sfc</path>
-          <name>Kirby Super Star (USA)</name>
-          <desc>Dream Land is under siege again! Our hero, Kirby, returns to instigate a rescue. King Dedede is snatching up Dream Land&#39;s food supply, but he&#39;s not the only one! Dyna Blade, Meta Knight and a slew of other evil baddies are on the loose and wreaking havoc throughout the land.&#xA;&#xA;Use any of Kirby&#39;s amazing powers to create a &#34;helper&#34; to assist you in battle. Or have a friend join you for some two-player action by taking control of Kirby&#39;s helper. Help Kirby work through EIGHT challenging games filled with action and adventure. Enter the fray in Spring Breeze, enter a foot race against King Dedede in Gourmet Race and tackle a winged warrior in Dyna Blade. Hone your reaction skills in Megaton Punch and Samurai Kirby, then battle your way through the Great Cave Offensive, Revenge of Meta Knight and Milky Way Wishes. Each game is different AND some extra-special surprises are in store for you!</desc>
-          <image>/home/pi/.emulationstation/downloaded_images/snes/Kirby Super Star (USA)-image.jpg</image>
-          <rating>0.675</rating>
-          <releasedate>19960920T000000</releasedate>
-          <developer>HAL Laboratory</developer>
-          <publisher>Nintendo</publisher>
-          <genre>Platform</genre>
-          <players>2</players>
-      </game>
-      <game id="1991" source="theGamesDB.net">
-          <path>./Inspector Gadget (USA).sfc</path>
-          <name>Inspector Gadget (USA)</name>
-          <desc>Inspector Gadget is on yet another mission against the evil Doctor Claw and his army of M.A.D. (Mean And Dirty) agents. This time it&#39;s personal because Doctor Claw has captured Gadget&#39;s niece, Penny. With the help of his trusty dog, Brain, and his suit full of special gadgets, Inspector Gadget must save Penny and defeat Doctor Claw and his minions!</desc>
-          <image>/home/pi/.emulationstation/downloaded_images/snes/Inspector Gadget (USA)-image.jpg</image>
-          <rating>0.6</rating>
-          <releasedate>19931201T000000</releasedate>
-          <developer>AIM</developer>
-          <publisher>Hudson Soft</publisher>
-          <genre>Action</genre>
-          <players>1</players>
-      </game>
-      <game id="1318" source="theGamesDB.net">
-          <path>./Legend of Zelda, The - A Link to the Past (USA).sfc</path>
-          <name>Legend of Zelda, The - A Link to the Past (USA)</name>
-          <desc>Venture back to Hyrule and an age of magic and heroes.  The predecessors of Link and Zelda face monsters on the march when a menacing magician takes over the kingdom.  Only you can prevent his evil plot from shattering the land of Hyrule.&#xA;&#xA;In your quest, you&#39;ll venture into twisting mazes, dungeons, palaces and shadowy forests.  Test your mettle with mighty swords and magical weapons.  Or heft a boulder and hurl it at your enemies.  If the going gets tough, dive into a river--you can swing to escape!  Learn powerful spells, locate magical artifacts and solve the mysteries of the evil magician and the hidden realm of Hyrule.&#xA;&#xA;This exciting Super NES sequel to the Legend of Zelda and The Adventure of Link uses 16-bit power to create a quest so colorful and detailed you don&#39;t just play it, you live it!</desc>
-          <image>/home/pi/.emulationstation/downloaded_images/snes/Legend of Zelda, The - A Link to the Past (USA)-image.jpg</image>
-          <rating>0.8103400000000001</rating>
-          <releasedate>19920413T000000</releasedate>
-          <developer>Nintendo EAD</developer>
-          <publisher>Nintendo</publisher>
-          <genre>Action</genre>
-          <players>1</players>
-      </game>
-      <game id="1774" source="theGamesDB.net">
-          <path>./Kirby&#39;s Dream Course (USA).sfc</path>
-          <name>Kirby&#39;s Dream Course (USA)</name>
-          <desc>Scan the course and check out the obstacles ahead. Get ready for the most surprising game play imaginable in Kirby&#39;s battle against King Dedede!&#xA;&#xA;This checkboard challenge brings outrageous hazards and bizarre surfaces. Warp panels instantly transport you to new and exciting challenges. Conveyer belts provide higher levels of adventure. Turntables take the action in a whole new direction.&#xA;&#xA;Gordo, Kracko, Whispy Woods and a cast of zany characters await you. Gain special powers including Fireball, Freeze, Spark and Parasol. Transform your enemies into stars revealing eight hidden cups of each wildly different course. Control the force and angle of your shot and sink Kirby for a hole-in-one!</desc>
-          <image>/home/pi/.emulationstation/downloaded_images/snes/Kirby&#39;s Dream Course (USA)-image.jpg</image>
-          <rating>0.6333300000000001</rating>
-          <releasedate>19950201T000000</releasedate>
-          <developer>HAL Laboratory</developer>
-          <publisher>Nintendo</publisher>
-          <genre>Action</genre>
-          <players>2</players>
-      </game>
-      <game id="3208" source="theGamesDB.net">
-          <path>./Kirby&#39;s Dream Land 3 (USA).sfc</path>
-          <name>Kirby&#39;s Dream Land 3 (USA)</name>
-          <desc>That mean old King Dedede is at it again! He&#39;s causing his mischief and Dreamland&#39;s in trouble! Kirby, the resident hero of Dreamland, sets out to teach Dedede a lesson, this time with the help of many of his good friends!&#xA;&#xA;But wait! Something&#39;s wrong! Dedede doesn&#39;t seem to be himself...&#xA;&#xA;Looks like Kirby has to stop Dedede and find out what is wrong with him! It almost seems like something&#39;s controlling him...</desc>
-          <image>/home/pi/.emulationstation/downloaded_images/snes/Kirby&#39;s Dream Land 3 (USA)-image.jpg</image>
-          <rating>0.7</rating>
-          <releasedate>19971101T000000</releasedate>
-          <developer>HAL Laboratory</developer>
-          <publisher>Nintendo</publisher>
-          <genre>Platform</genre>
-          <players>2</players>
-      </game>
-      <game id="3207" source="theGamesDB.net">
-          <path>./Kirby&#39;s Avalanche (USA).sfc</path>
-          <name>Kirby&#39;s Avalanche (USA)</name>
-          <desc>King Dedede has challenged Kirby and other members of Dream Land to an Avalanche Competition in the Dream Fountain. Kirby, taking on the challenge, has decided to battle his way through the forest and into the Dream Fountain to win the Avalanche Cup from King Dedede.</desc>
-          <image>/home/pi/.emulationstation/downloaded_images/snes/Kirby&#39;s Avalanche (USA)-image.jpg</image>
-          <rating>0.5</rating>
-          <releasedate>19950201T000000</releasedate>
-          <developer>Compile</developer>
-          <publisher>Nintendo</publisher>
-          <genre>Puzzle</genre>
-          <players>2</players>
-      </game>
-      <game id="2663" source="theGamesDB.net">
-          <path>./Lemmings 2 - The Tribes (USA).sfc</path>
-          <name>Lemmings 2 - The Tribes (USA)</name>
-          <desc>Lemmings 2: The Tribes, a computer game released in 1993, is the first real sequel to the popular puzzle game Lemmings. As with the original, it was developed by DMA Design and published by Psygnosis. The gameplay remains mostly the same as the original game, requiring the player to lead a certain number of lemmings to their exit by giving them the appropriate &#34;skills&#34;.</desc>
-          <image>/home/pi/.emulationstation/downloaded_images/snes/Lemmings 2 - The Tribes (USA)-image.jpg</image>
-          <rating>0.7</rating>
-          <releasedate>19941101T000000</releasedate>
-          <developer>DMA Design</developer>
-          <publisher>Psygnosis</publisher>
-          <genre>Puzzle</genre>
-          <players>1</players>
-      </game>
-      <game id="2832" source="theGamesDB.net">
-          <path>./Lemmings (USA) (Rev 1).sfc</path>
-          <name>Lemmings (USA) (Rev 1)</name>
-          <desc>Lemmings is divided into a number of levels, grouped into four difficulty levels. Each level comprises both destructible landscape elements such as rocks, indestructible sections such as steel plates, and numerous obstacles including chasms, high walls, large drops, pools of water or lava, and booby traps. Each level also includes one or more entrance points and one or more exits. The goal is to guide a certain percentage of the green-haired, blue-shirted lemmings from the entrance to the exit by clearing or creating a safe passage through the landscape for the lemmings to use.</desc>
-          <image>/home/pi/.emulationstation/downloaded_images/snes/Lemmings (USA) (Rev 1)-image.jpg</image>
-          <rating>0.8</rating>
-          <releasedate>19920301T000000</releasedate>
-          <developer>DMA Design</developer>
-          <publisher>Sunsoft</publisher>
-          <genre>Puzzle</genre>
-          <players>2</players>
-      </game>
-      <game id="3833" source="theGamesDB.net">
-          <path>./Lost Vikings 2 (USA).sfc</path>
-          <name>Lost Vikings 2 (USA)</name>
-          <desc>Their lost is your game.&#xA;&#xA;The lost boys are back: Erik the Swift, Baelog the Fierce and Olaf the Stout. This action strategy is not for the lame of brain. In their last adventure, the trio was trying to escape the evil alien captor Tomator. Now, armed with all new high tech weaponry the boys heisted from Tomator, they set out to find the time machine that will land them back home. The vikes escape together or not at all. So, it&#39;s your challenge tocomplete each of the levels with all three characters alive an kick&#39;n! Plug in, boot up and fight! Norse by Norsewest.</desc>
-          <image>/home/pi/.emulationstation/downloaded_images/snes/Lost Vikings 2 (USA)-image.jpg</image>
-          <rating>0.7</rating>
-          <releasedate>19970501T000000</releasedate>
-          <developer>Blizzard Entertainment</developer>
-          <publisher>Interplay</publisher>
-          <genre>Platform</genre>
-          <players>1</players>
-      </game>
-      <game id="3837" source="theGamesDB.net">
-          <path>./Mario&#39;s Early Years! - Fun with Letters (USA).sfc</path>
-          <name>Mario&#39;s Early Years - Fun with Letters (USA)</name>
-          <desc>In FUN WITH LETTERS, children are introduced to the fundamentals of letters and sounds by way of numerous learning worlds: Alphabet, Vowel, First letter, Lost letter, Building, Sound, Sentence, and more. Your child simply guides Mario, selecting objects on the screen which Mario bonks and bounces through, frequently affirming your child&#39;s correct choice. Moms and Dads get to interact and play, too. Mario invites them to join in the fun and observe their children as they become totally involved in the learning process. Through the MARIO&#39;S EARLY YEARS Series children will discover the world around them by exploring the elements of that world. The MARIO&#39;S EARLY YEARS Series covers a multitude of subjects, helping children to acquire valuable skills and develop a rich and active imagination.</desc>
-          <image>/home/pi/.emulationstation/downloaded_images/snes/Mario&#39;s Early Years! - Fun with Letters (USA)-image.jpg</image>
-          <releasedate>19941001T000000</releasedate>
-          <developer>Software Toolworks</developer>
-          <publisher>Software Toolworks</publisher>
-          <genre>Puzzle</genre>
-          <players>1</players>
-      </game>
-      <game id="3216" source="theGamesDB.net">
-          <path>./Lost Vikings, The (USA).sfc</path>
-          <name>Lost Vikings, The (USA)</name>
-          <desc>Three Vikings, Eric the Swift, Olaf the Stout and Baleog the Fierce, were kidnapped by the alien Tomator, the evil Croutonian ruler, who is collecting unique life forms to display in his gallery. The three Vikings will have to combine their unique skills to defeat Tomator, as well as a vast array of aliens, robots, giant snails, big lizards and more.&#xA;&#xA;The Lost Vikings is a side-scrolling platform puzzle game with a twist. Instead of one character who can jump, run, shoot, collect items, flip switches and so on, there are three different characters, each with his own skills. Eric the Swift can jump, run and bash through walls with his tough helmet. Olaf the Stout has a shield which can block attacks, function as an air glider or as a step to stand on. Baleog the Fierce can shoot things with his arrows (including switches) or kill things with his sword. The player has to use the three Vikings as a team if he wants to get past the increasingly difficult levels and puzzles.&#xA;&#xA;The player controls one Viking at a time, but can switch between them at any point. The Vikings have limited space in their inventory which they can use to keep various items. Each Viking has three health points, and if he loses them all from confrontations with dangers, he dies (some threats kill instantly), and the level must be restarted.</desc>
-          <image>/home/pi/.emulationstation/downloaded_images/snes/Lost Vikings, The (USA)-image.jpg</image>
-          <rating>0.8</rating>
-          <releasedate>19930401T000000</releasedate>
-          <developer>Silicon &amp; Synapse</developer>
-          <publisher>Interplay</publisher>
-          <genre>Platform</genre>
-          <players>2</players>
-      </game>
-      <game id="2831" source="theGamesDB.net">
-          <path>./Mario Is Missing! (USA).sfc</path>
-          <name>Mario Is Missing! (USA)</name>
-          <desc>Don&#39;t look now, but Bowser&#39;s back, and this time he&#39;s in your world! But where is that mastermind of reptilian trouble doing his dastardly deeds? And what has he done with Mario? Welcome to Mario is Missing! Take a trek with your travel agent, Luigi, and see the world! Track down troublesome turtles. Figure out where in the world you are, and what on earth happened to Mario. If your grasp of geography is good enough, you&#39;ll get the goods, stomp the hoods, and grab Mario out of Bowser&#39;s ghastly guest house. A learning adventure that the whole family can share! This is no Koopa-stomping mayhem. It&#39;s a fun way to learn about our world!</desc>
-          <image>/home/pi/.emulationstation/downloaded_images/snes/Mario Is Missing! (USA)-image.jpg</image>
-          <rating>0.8</rating>
-          <releasedate>19930601T000000</releasedate>
-          <developer>Software Creations</developer>
-          <publisher>Software Toolworks</publisher>
-          <genre>Puzzle</genre>
-          <players>1</players>
-      </game>
-      <game id="1781" source="theGamesDB.net">
-          <path>./Mario Paint (Japan, USA).sfc</path>
-          <name>Mario Paint (Japan, USA)</name>
-          <desc>Mario Paint lets you draw, paint, animate and compose music! Creation! Imagination is your only limit with an amazing variety of drawing tools. Animation! Add exciting dimension by creating moving animation with up to 9 frame sequences. Orchestration! Compose your own songs by selecting from over 15 different musical sounds and the entire scale of notes. Coordination! Increase your Super NES Mouse dexterity by playing Gnat Attack, the clever fly swatter game included inside.</desc>
-          <image>/home/pi/.emulationstation/downloaded_images/snes/Mario Paint (Japan, USA)-image.jpg</image>
-          <rating>0.46667</rating>
-          <releasedate>19920505T000000</releasedate>
-          <developer>Intelligent Systems</developer>
-          <publisher>Nintendo</publisher>
-          <genre>Puzzle</genre>
-          <players>1</players>
-      </game>
-      <game id="3838" source="theGamesDB.net">
-          <path>./Mario&#39;s Early Years! - Fun with Numbers (USA).sfc</path>
-          <name>Mario&#39;s Early Years - Fun with Numbers (USA)</name>
-          <desc>In FUN WITH NUMBERS, children are introduced to the basics of math by way of Shape, Number, Same and Different, Counting, Comparing, How Many, and Pattern Worlds.&#xA;&#xA;Children simply guide Mario, selecting objects on the screen, which playfully illustrate numerical concepts. Moms and Dads get to interact and play, too. Mario invites them to join in the fun and observe their children as they become totally involved in the learning process. Through the MARIO&#39;S EARLY YEARS Series children will discover the world around them by exploring the elements of that world. The MARIO&#39;S EARLY YEARS Series covers a multitude of subjects, helping children to acquire valuable skills and develop a rich and active imagination.</desc>
-          <image>/home/pi/.emulationstation/downloaded_images/snes/Mario&#39;s Early Years! - Fun with Numbers (USA)-image.jpg</image>
-          <releasedate>19941001T000000</releasedate>
-          <developer>The Software Toolworks</developer>
-          <publisher>The Software Toolworks</publisher>
-          <genre>Puzzle</genre>
-          <players>1</players>
-      </game>
-      <game id="3839" source="theGamesDB.net">
-          <path>./Mario&#39;s Early Years! - Preschool Fun (USA).sfc</path>
-          <name>Mario&#39;s Early Years - Preschool Fun (USA)</name>
-          <desc>In PRESCHOOL FUN, children develop concepts through the exploration of shapes, colors, sounds, opposites, and numbers. With Mario&#39;s help, your child learns to define and identify these subjects without pressure. Your child simply guides Mario, selecting objects on the screen which Mario bonks and bounces through, frequently affirming your child&#39;s correct choice. With Mario, Luigi, Princess Toadstool and all their friends as classmates, your child just may make the biggest stride since learning to walk.&#xA;&#xA;That&#39;s because MARIO&#39;S EARLY YEARS is all about learning to think in a way that doesn&#39;t seem like learning, but much more like playing. Moms and Dads get to interact and play, too. Mario invites them to join in the fun and observe their kids as they become totally involved in the learning process.</desc>
-          <image>/home/pi/.emulationstation/downloaded_images/snes/Mario&#39;s Early Years! - Preschool Fun (USA)-image.jpg</image>
-          <releasedate>19941101T000000</releasedate>
-          <developer>Mindscape</developer>
-          <publisher>Nintendo</publisher>
-          <genre>Puzzle</genre>
-          <players>1</players>
-      </game>
-      <game id="3840" source="theGamesDB.net">
-          <path>./Mario&#39;s Time Machine (USA).sfc</path>
-          <name>Mario&#39;s Time Machine (USA)</name>
-          <desc>Bowser is at it again! He&#39;s using a time machine, called a Timulator, to loot historical artifacts from the past, in order to stock his museum. He plans to destroy the time machine after, and therefore change the course of history forever. It&#39;s up to Mario to stop Bowser and return all the stolen artifacts to their rightful place in history!</desc>
-          <image>/home/pi/.emulationstation/downloaded_images/snes/Mario&#39;s Time Machine (USA)-image.jpg</image>
-          <rating>0.5</rating>
-          <releasedate>19931201T000000</releasedate>
-          <developer>Software Toolworks</developer>
-          <publisher>Mindscape</publisher>
-          <genre>Adventure</genre>
-          <players>1</players>
-      </game>
-      <game id="3114" source="theGamesDB.net">
-          <path>./Mickey Mania - The Timeless Adventures of Mickey Mouse (USA).sfc</path>
-          <name>Mickey Mania - The Timeless Adventures of Mickey Mouse (USA)</name>
-          <desc>Mickey Mouse gets a chance to go down memory lane and walk through the timeless adventures he has lived. Mickey Mania is a platformer where all the levels are based on Mickey&#39;s most famous cartoons. The levels range about 75 years, starting off with &#34;Steamboat Willie&#34; and going all the way to &#34;The Prince and the Pauper&#34;.&#xA;&#xA;The gameplay consists mostly of jumping and marble throwing at enemies, with an occasional puzzle element.</desc>
-          <image>/home/pi/.emulationstation/downloaded_images/snes/Mickey Mania - The Timeless Adventures of Mickey Mouse (USA)-image.jpg</image>
-          <rating>0.6</rating>
-          <releasedate>19941001T000000</releasedate>
-          <developer>Travellers Tales</developer>
-          <publisher>Sony</publisher>
-          <genre>Platform</genre>
-          <players>1</players>
-      </game>
-      <game id="5619" source="theGamesDB.net">
-          <path>./Ms. Pac-Man (USA).sfc</path>
-          <name>Ms. Pac-Man (USA)</name>
-          <desc>In 1982, a sequel to the  incredibly popular Pac-Man was introduced in the form of his girlfriend, Ms. Pac-Man.  This sequel continued on the &#34;eat the dots/avoid the ghosts&#34; gameplay of the original game, but added new features to keep the title fresh.&#xA;&#xA;Like her boyfriend, Ms. Pac-Man attempts to clear four various and challenging mazes filled with dots and ever-moving bouncing fruit  while avoiding Inky, Blinky, Pinky and Sue, each with their own personalities and tactics.  One touch from any of these ghosts means a loss of life for Ms. Pac-Man.&#xA;&#xA;Ms. Pac-Man can turn the tables on her pursuers by eating one of the four Energizers located within the maze. During this time, the ghosts turn blue, and Ms. Pac-Man can eat them for bonus points. The Energizer power only lasts for a limited amount of time, as the ghost&#39;s eyes float back to their center box, and regenerate to chase after Ms. Pac-Man again.&#xA;&#xA;Survive a few rounds of gameplay, and the player will be treated to humorous intermissions showing the growing romantic relationship between Pac-Man and Ms. Pac-Man, leading all the way up to the arrival of &#34;Junior&#34;.</desc>
-          <image>/home/pi/.emulationstation/downloaded_images/snes/Ms. Pac-Man (USA)-image.jpg</image>
-          <releasedate>19960101T000000</releasedate>
-          <developer>Namco</developer>
-          <publisher>Nintendo</publisher>
-          <genre>Puzzle</genre>
-          <players>1</players>
-      </game>
-      <game id="5597" source="theGamesDB.net">
-          <path>./Mickey&#39;s Playtown Adventure - A Day of Discovery! (USA) (Proto).sfc</path>
-          <name>Mickey&#39;s Playtown Adventure - A Day of Discovery! (USA) (Proto)</name>
-          <desc>Never officially released.</desc>
-          <image>/home/pi/.emulationstation/downloaded_images/snes/Mickey&#39;s Playtown Adventure - A Day of Discovery! (USA) (Proto)-image.jpg</image>
-          <releasedate>19940101T000000</releasedate>
-          <developer>High Tech</developer>
-          <publisher>Visual Concept</publisher>
-          <genre>Platform</genre>
-          <players>1</players>
-      </game>
-      <game id="1785" source="theGamesDB.net">
-          <path>./Mickey&#39;s Ultimate Challenge (USA).sfc</path>
-          <name>Mickey&#39;s Ultimate Challenge (USA)</name>
-          <desc>Mickey&#39;s Ultimate Challenge is a puzzle game in which the player chooses either Mickey or Minnie to play with. They&#39;ll find five characters from the Disney&#39;s universe in the kingdom, and will be prompted to help them in several tasks.&#xA;&#xA;Each task is a different puzzle, given by a specific character. Daisy, for instance, will ask help to clean the castle&#39;s paintings hanging on a wall. The task is in fact a memory game, where Mickey or Minnie must clean the pictures matching pairs. After completing one task, they&#39;ll receive a gift.&#xA;&#xA;After completing all tasks, Mickey or Minnie must trade the gifts they won with the right characters. For instance, after finishing Goofy&#39;s task, they will receive his hammer. The player must then guess who among the other characters would like to receive that hammer.</desc>
-          <image>/home/pi/.emulationstation/downloaded_images/snes/Mickey&#39;s Ultimate Challenge (USA)-image.jpg</image>
-          <releasedate>19940101T000000</releasedate>
-          <developer>Designer Software</developer>
-          <publisher>Hi-Tech Expressions</publisher>
-          <genre>Platform</genre>
-          <players>1</players>
-      </game>
-      <game id="33435" source="theGamesDB.net">
-          <path>./Out of This World (USA).sfc</path>
-          <name>Out of this World (USA)</name>
-          <desc>You&#39;ll think you&#39;re actually on a movie set when you star in the cinematic action/adventure Out Of This World.&#xA;Out Of This World is like no other game on the Super NES. Using a completely new graphic system of cinematic zooms, pans, close-ups, and cuts, Out Of This World gets you involved in a breathtaking story of inter-dimensional travel.&#xA;You&#39;ll duck as lasers blast, boulders crash, and monsters roar. The complete musical score and realistic, digitized sound effects will make you feel like you&#39;re on a movie sound stage.&#xA;Being a hero is hard work, and you&#39;ll experience it first-hand as you run, jump, dodge, and shoot your way across a hostile world of deadly earthquakes and alien monsters. So, grab your hat and whip, charge up your blasters, and get ready to star in your own movie that&#39;ll take you Out Of This World!</desc>
-          <image>/home/pi/.emulationstation/downloaded_images/snes/Out of This World (USA)-image.jpg</image>
-          <releasedate>19921101T000000</releasedate>
-          <developer></developer>
-          <publisher>Interplay</publisher>
-          <genre>Platform</genre>
-      </game>
-      <game id="3234" source="theGamesDB.net">
-          <path>./Pac-Man 2 - The New Adventures (USA).sfc</path>
-          <name>Pac-Man 2 - The New Adventures (USA)</name>
-          <desc>In Pac-Man 2, the player plays the role of an observer and assistant that follows Pac-Man as he sets out to accomplish various tasks. Pac-Man himself walks around in a cartoon world and interacts directly with the player, as well as with objects and other characters. The player cannot control Pac-Man directly, but instead can direct his attention in various directions, and is armed with a slingshot that can be used to strike certain objects, including Pac-Man himself.</desc>
-          <image>/home/pi/.emulationstation/downloaded_images/snes/Pac-Man 2 - The New Adventures (USA)-image.jpg</image>
-          <releasedate>19940901T000000</releasedate>
-          <developer>Namco</developer>
-          <publisher>Namco</publisher>
-          <genre>Adventure</genre>
-      </game>
-      <game id="2418" source="theGamesDB.net">
-          <path>./Pilotwings (USA).sfc</path>
-          <name>Pilotwings (USA)</name>
-          <desc>Are you ready to earn your wings at the most exclusive flight school in the world? Then report immediately to the secret Pilotwings Flight Club, where your training begins! You&#39;ll see the ground twist beneath you as you jump from your plane and attempt a precision skydive (don&#39;t forget to pull your rip cord!). You&#39;ll relive the early days of flying as you bring your biplane in for a pin-point landing. After you master the basics, you&#39;ll be called on to test an experimental rocket pack, soar in a hang glider, and pilot an advanced attack helicopter in a hazardous rescure mission.&#xA;&#xA;The realism is incredible as the Super NES takes you airborne with multi-dimensional graphics, endless skylines and the freedom to fly wherever you like. Do you have what it takes to earn your wings? Then get going! You&#39;re late for your first class!</desc>
-          <image>/home/pi/.emulationstation/downloaded_images/snes/Pilotwings (USA)-image.jpg</image>
-          <rating>0.8333299999999999</rating>
-          <releasedate>19910823T000000</releasedate>
-          <developer>Nintendo</developer>
-          <publisher>Nintendo</publisher>
-          <genre>Flight Simulator</genre>
-          <players>1</players>
-      </game>
-      <game id="5772" source="theGamesDB.net">
-          <path>./Pac-Attack (USA).sfc</path>
-          <name>Pac-Attack (USA)</name>
-          <desc>Based on Namco&#39;s Japanese-only arcade puzzler Cosmo Gang the Puzzle, Pac-Attack is similar to many block-dropping puzzle games from the time, such as Puyo Puyo.&#xA;&#xA;The objective of the game is to place ghosts and then, after three pieces (which can include one or two blocks as well), make Pac-Man eat as many ghosts as possible to try and clear up the game area. Pac-Man&#39;s directions are chosen at random between left or right, but as he goes moving on the game area (after you place him, of course), if he bumps against a block or a &#34;wall&#34; on the game area, he will change his direction. As with many block-dropping puzzlers, if a line of blocks and/or ghosts reaches the top, the game ends. However, by filling up a meter on the left of the game area, a fairy may appear that can clear approximately 6 or 7 lines with ghosts, but it only clears the ghosts, although the blocks that were on top of them will drop.&#xA;&#xA;Also, like many puzzlers, it contains a versus mode against another human player. It&#39;s similar to the many versus modes of puzzle games: eat plenty of ghosts and your opponent will recieve many ghosts on his area.&#xA;&#xA;The game also includes a Puzzle mode. It features 100 levels, in which you have to eat all ghosts with no more than 4 Pac-Men at least (the number reduces in certain levels), and, unlike the other modes, you can change Pac-Man&#39;s direction with the press of a button.&#xA;&#xA;All of the handheld versions (including the one on Pac-Man Collection) lack the versus mode.</desc>
-          <image>/home/pi/.emulationstation/downloaded_images/snes/Pac-Attack (USA)-image.jpg</image>
-          <releasedate>19930101T000000</releasedate>
-          <developer>Namco</developer>
-          <publisher>Namco</publisher>
-          <genre>Puzzle</genre>
-          <players>2</players>
-      </game>
-      <game id="5773" source="theGamesDB.net">
-          <path>./Pac-in-Time (USA).sfc</path>
-          <name>Pac-In-Time (USA)</name>
-          <desc>Everybody knows what/who Pac-Man is from his heyday in the &#39;80s, but this time, we&#39;re getting a whole new adventure of our little eater. Guess his stomach is full, &#39;cause there&#39;s nothing much to eat here, only collecting points. This is much like some Indiana Jones adventure, only your little hero&#39;s Pac-Man instead of Harrison Ford.&#xA;&#xA;Pac-in-time is the US release of Fury of the Furries. It&#39;s exactly the same game. Only the characters were changed: the not-so-known European Tinies (from the Skweek/Super Skweek/Tiny Skweeks/Brainies/Tinies games) were replaced by the widely known Pac-Man.</desc>
-          <image>/home/pi/.emulationstation/downloaded_images/snes/Pac-in-Time (USA)-image.jpg</image>
-          <rating>0.7</rating>
-          <releasedate>19941201T000000</releasedate>
-          <developer>Kalisto Entertainment</developer>
-          <publisher>Namco</publisher>
-          <genre>Platform</genre>
-          <players>1</players>
-      </game>
-      <game id="3238" source="theGamesDB.net">
-          <path>./Prince of Persia (USA).sfc</path>
-          <name>Prince of Persia (USA)</name>
-          <desc>The Grand Vizier Jaffar has thrown you into a dark dungeon and plans to marry the girl of your dreams in an hour. You&#39;re not going to let that happen are you? Try to escape from the dungeon, take out Jaffar&#39;s guards, find your way through the Sultan&#39;s palace and defeat Jaffar himself. Now go, you&#39;ve got 60 minutes!&#xA;&#xA;Prince of Persia is a 2D platformer with run and jump gameplay. Your hero must avoid deadly traps, solve some simple puzzles and engage in sword fights with the guards. The player has an infinite amount of lives, but has to restart at the beginning of a level each time he dies, and must complete the game within an hour. An especially noteworthy aspect of the game is the very fluent animation of your character.&#xA;&#xA;The Game Boy Color and SNES versions of the game feature additional levels and new enemies.</desc>
-          <image>/home/pi/.emulationstation/downloaded_images/snes/Prince of Persia (USA)-image.jpg</image>
-          <rating>0.7</rating>
-          <releasedate>19921101T000000</releasedate>
-          <developer>Brøderbund</developer>
-          <publisher>Konami</publisher>
-          <genre>Adventure</genre>
-          <players>1</players>
-      </game>
-      <game id="2198" source="theGamesDB.net">
-          <path>./Prince of Persia 2 - The Shadow &amp; The Flame (USA).sfc</path>
-          <name>Prince of Persia 2 (USA)</name>
-          <desc>Journey back to Persia in the swashbuckling sequel to the award winning Prince Of Persia. Prince of Persia 2 is alive with breathtakingly fluid animation and scenery so rich in colour and feeling it&#39;ll change you forever.&#xA;&#xA;- Life-like sword fighting, now against multiple opponents.&#xA;- Journey through 5 exotic scenarios.&#xA;- 15 treacherous new levels with even more traps and puzzles.&#xA;- Stunning animations based on real life human models</desc>
-          <image>/home/pi/.emulationstation/downloaded_images/snes/Prince of Persia 2 - The Shadow &amp; The Flame (USA)-image.jpg</image>
-          <rating>0.6</rating>
-          <releasedate>19961001T000000</releasedate>
-          <developer>Titus</developer>
-          <publisher>Titus</publisher>
-          <genre>Action</genre>
-          <players>1</players>
-      </game>
-      <game id="2918" source="theGamesDB.net">
-          <path>./Pitfall - The Mayan Adventure (USA).sfc</path>
-          <name>Pitfall - The Mayan Adventure (USA)</name>
-          <desc>Pitfall: The Mayan Adventure is a side-scrolling action game in which you play adventurer Pitfall Harry Jr in search of his father Pitfall Harry. You battle your way through the Mayan jungles, waterfalls, deserted mines and can bungee jump and boomerang your way to safety. There are 13 levels and the action is fast and gripping. You will need to be attentiveand quick. Or prepare to die.</desc>
-          <image>/home/pi/.emulationstation/downloaded_images/snes/Pitfall - The Mayan Adventure (USA)-image.jpg</image>
-          <rating>0.6</rating>
-          <releasedate>19941101T000000</releasedate>
-          <developer>Redline Games</developer>
-          <publisher>Activision</publisher>
-          <genre>Action</genre>
-          <players>1</players>
-      </game>
-      <game id="2764" source="theGamesDB.net">
-          <path>./Simpsons, The - Bart&#39;s Nightmare (USA).sfc</path>
-          <name>Simpsons, The - Bart&#39;s Nightmare (USA)</name>
-          <desc>Bart has to stay up late and write a paper for class tomorrow. For once, he is determined to get a good mark. However, very quickly, he falls asleep. Nightmare after nightmare haunt his subconscious, and it is up to you to get over each one, so that Bart will eventually wake up. From such dreams as being in an episode of Itchy &amp; Scratchy to swimming through his own bloodstream, this platformer offers a nice challenge through its many diverse levels.</desc>
-          <image>/home/pi/.emulationstation/downloaded_images/snes/Simpsons, The - Bart&#39;s Nightmare (USA)-image.jpg</image>
-          <rating>0.4</rating>
-          <releasedate>19920101T000000</releasedate>
-          <developer>Sculptured Software</developer>
-          <publisher>Acclaim</publisher>
-          <genre>Platform</genre>
-          <players>1</players>
-      </game>
-      <game id="1253" source="theGamesDB.net">
-          <path>./Secret of Mana (USA).sfc</path>
-          <name>Secret of Mana (USA)</name>
-          <desc>A young boy unearths an ancient sword, disgracing his village and unleashing a curse. Exiled from his hometown, he must travel to the ends of the earth to mend his mistake. Allies and Elementals will aid him in his fight against the Empire and the long-forgotten power they plan to unleash.</desc>
-          <image>/home/pi/.emulationstation/downloaded_images/snes/Secret of Mana (USA)-image.jpg</image>
-          <rating>0.82941</rating>
-          <releasedate>19930806T000000</releasedate>
-          <developer>Squaresoft</developer>
-          <publisher>Squaresoft</publisher>
-          <genre>Action</genre>
-          <players>3</players>
-      </game>
-      <game id="6290" source="theGamesDB.net">
-          <path>./Smurfs, The (Europe).sfc</path>
-          <name>Smurfs, The (Europe) (En,Fr,De,Es,It)</name>
-          <desc>Smurf to the rescue! Gargamel has already captured 4 Smurfs, Jocky Smurf, Greedy Smurf, Brainy Smurf and Smurfette. To free them you will have to smurf the Angry Smurfs and BUZZ flies before smurfing the mountain by sled, then smurfing the maze mine galleries, smurfing on the back of a stork to smurf Azrael and finally smurf Gargamel from his mansion!&#xA;Good Smurf!</desc>
-          <image>/home/pi/.emulationstation/downloaded_images/snes/Smurfs, The (Europe)-image.jpg</image>
-          <rating>0.75</rating>
-          <releasedate>19940101T000000</releasedate>
-          <developer>Infogrames</developer>
-          <publisher>Infogrames</publisher>
-          <genre>Platform</genre>
-          <players>1</players>
-      </game>
-      <game id="1730" source="theGamesDB.net">
-          <path>./Star Fox (USA) (Rev 2).sfc</path>
-          <name>Star Fox (USA) (Rev 2)</name>
-          <desc>Lead the Star Fox Team to Victory!&#xA;&#xA;In the distant Lylat star system, imagine yourself at the controls of a futuristic, heavily armed, space fighter - Arwing.&#xA;&#xA;Lead the counter-attack on an invasion force of hundreds of alien tanks, fighter ships, laser gun emplacements and super battleships.  Maneuver at warp speed through fog-enshrouded canyons, dense asteroid belts and waves of the enemy&#39;s best defense.  You must use skill and cunning to bring the fight to the enemy&#39;s home planet Venom and smash the Core Brain for victory!&#xA;&#xA;* The Super FX micro chip is on-board for fluid game control and special effects previously unavailable in home video games!  The action explodes from all directions in realistic, real-time, three dimensions.</desc>
-          <image>/home/pi/.emulationstation/downloaded_images/snes/Star Fox (USA) (Rev 2)-image.jpg</image>
-          <rating>0.56667</rating>
-          <releasedate>19930221T000000</releasedate>
-          <developer>Argonaut</developer>
-          <publisher>Nintendo</publisher>
-          <genre>Shooter</genre>
-          <players>1</players>
-      </game>
-      <game id="3263" source="theGamesDB.net">
-          <path>./Space Invaders - The Original Game (USA).zip</path>
-          <name>Space Invaders (USA)</name>
-          <desc>Space Invaders is a game in which the player controls a laser cannon by moving it horizontally across the bottom of the screen and firing at descending aliens. &#xA;The aim is to defeat five rows of eleven alienssome versions feature different numbersthat move horizontally back and forth across the screen as they advance towards the bottom of the screen. The player defeats an alien, and earns points, by shooting it with the laser cannon. As more aliens are defeated, the aliens&#39; movement and the game&#39;s music both speed up.</desc>
-          <image>/home/pi/.emulationstation/downloaded_images/snes/Space Invaders - The Original Game (USA)-image.jpg</image>
-          <releasedate>19971101T000000</releasedate>
-          <developer>Taito Corporation</developer>
-          <publisher>Nintendo</publisher>
-          <genre>Shooter</genre>
-          <players>2</players>
-      </game>
-      <game id="2954" source="theGamesDB.net">
-          <path>./Spider-Man (USA).sfc</path>
-          <name>Spider-Man (USA)</name>
-          <desc>You play as Spider-Man, using you usual spider abilities to fight off the bad guys: web-spinning, kicking, punching.&#xA;&#xA;The story is about three of your enemies escaping from prison, namely Dr. Octopus, The Green Goblin and Smythe, and it is you job to find them and &#34;kick their butts&#34; as the intro states. During the levels you&#39;ll also encounter a lot of robots, in different shapes and sizes.</desc>
-          <image>/home/pi/.emulationstation/downloaded_images/snes/Spider-Man (USA)-image.jpg</image>
-          <releasedate>19940101T000000</releasedate>
-          <developer>Acclaim Entertainment</developer>
-          <publisher>Cosmo</publisher>
-          <genre>Action</genre>
-          <players>1</players>
-      </game>
-      <game id="3269" source="theGamesDB.net">
-          <path>./Street Fighter Alpha 2 (USA).sfc</path>
-          <name>Street Fighter Alpha 2 (USA)</name>
-          <desc>DO YOU HAVE WHAT IT TAKES?&#xA;&#xA;The bad boys from the Street Fighter series are back for more fisticuffs of fury! Eighteen different combatants, some old and some new, are here to lay claim to the title &#34;World&#39;s Best&#34;. Screamin&#39; moves like Ken&#39;s Dragon Punch, Adon&#39;s Jaguar Tooth and M. Bison&#39;s Somersault Skull Driver will blow you away! Play alone or pummel a friend in two-player simultaneous action. This ain&#39;t no cakewalk. This ain&#39;t no cakewalk. This is Street Fighter Alpha 2 and it&#39;s blazing on your Super NES!</desc>
-          <image>/home/pi/.emulationstation/downloaded_images/snes/Street Fighter Alpha 2 (USA)-image.jpg</image>
-          <rating>0.8</rating>
-          <releasedate>19961220T000000</releasedate>
-          <developer>Capcom</developer>
-          <publisher>Capcom</publisher>
-          <genre>Fighting</genre>
-          <players>2</players>
-      </game>
-      <game id="3122" source="theGamesDB.net">
-          <path>./Street Fighter II (USA).sfc</path>
-          <name>Street Fighter II (USA)</name>
-          <desc>GET READY TO RUMBLE!&#xA;&#xA;From across the globe comes eight of the wildest fighters the world has ever known. Choose your champion, gather your courage and prepare to battle your opponents in a bare knuckle brawl. Face Ken and his devastating &#34;Dragon Punch&#34;! Watch the temperature rise as Dhalsim incinerates you with his mystical Yoga Flame! Hear your spine crack as Zangief smashes you to the pavement with his spinning pile driver! Cover your ears as Guile breaks the sound barrier with the awesome power of the Sonic Boom!&#xA;&#xA;Annihilate your competition and claim the right to test your skills against the bone-crushing power of the Grand Masters! Can you survive? Can Anyone?</desc>
-          <image>/home/pi/.emulationstation/downloaded_images/snes/Street Fighter II (USA)-image.jpg</image>
-          <rating>0.625</rating>
-          <releasedate>19920610T000000</releasedate>
-          <developer>Capcom</developer>
-          <publisher>Capcom</publisher>
-          <genre>Fighting</genre>
-          <players>2</players>
-      </game>
-      <game id="2538" source="theGamesDB.net">
-          <path>./Street Fighter II Turbo (USA).sfc</path>
-          <name>Street Fighter II Turbo (USA)</name>
-          <desc>Feel the Need for Speed!&#xA;&#xA;They&#39;re back and they&#39;re badder than ever! Faster, stronger and with all new moves, twelve of the greatest fighters from across the globe are ready to do battle! Choose your champion and get ready for the big brawl as they try to earn the right to battle M. Bison for the title. And just when you think you&#39;ve mastered it all, crank it up a notch and go TURBO!&#xA;&#xA;Cover your head as Blanka dives at you from above and hear your neck crack as Zangief hits you with the Turbo Spinning Clothesline. Stare in disbelief as Dhalsim disappears before your eyes and Chun Li unleashes her blazing fireball! Watch in awe as Sagat fights Sagat and Ryu does a Hurricane Kick in mid-air! Survive all this and you may live long enough to become the greatest Street Fighter ever!</desc>
-          <image>/home/pi/.emulationstation/downloaded_images/snes/Street Fighter II Turbo (USA)-image.jpg</image>
-          <rating>0.76667</rating>
-          <releasedate></releasedate>
-          <developer>Capcom</developer>
-          <publisher>Capcom</publisher>
-          <genre>Fighting</genre>
-          <players>2</players>
-      </game>
-      <game id="2082" source="theGamesDB.net">
-          <path>./Super Adventure Island (USA).sfc</path>
-          <name>Super Adventure Island (USA)</name>
-          <desc>Master Higgins is back in his wildest and greatest adventure of all! His girlfriend, Jeannie Jungle, has been turned to stone by the evil Dark Cloak. Now he must leap into action to defeat the scores of guardian animals and monsters that protect the wicked wizard.&#xA;Join Master Higgins as he reaches new heights of adventure on his high flying skateboard. Speed through underground caves in a crazy mine car ride! Go from tropical shores to the belly of a whale - all in search of his final battle with the mad magician, Dark Cloak!</desc>
-          <image>/home/pi/.emulationstation/downloaded_images/snes/Super Adventure Island (USA)-image.jpg</image>
-          <rating>0.7</rating>
-          <releasedate>19920401T000000</releasedate>
-          <developer>Produce</developer>
-          <publisher>Hudson</publisher>
-          <genre>Action</genre>
-          <players>1</players>
-      </game>
-      <game id="2083" source="theGamesDB.net">
-          <path>./Super Adventure Island II (USA).sfc</path>
-          <name>Super Adventure Island II (USA)</name>
-          <desc>Master Higgins finally marries his lovely girlfriend Tina. But out of nowhere, a powerful tropical cyclone destroyed the idyllic mood of their honeymoon. And not only this: it separated the ardent lovers again. After the winds stopped blowing, Tina found herself somewhere on a tropical coast. As for Master Higgins, he went to the king of Waku-Waku and, along with his main quest to save his brand new wife, got an assignment to save also a princess, whom the king was about to marry. Is there a connection between those two events?..</desc>
-          <image>/home/pi/.emulationstation/downloaded_images/snes/Super Adventure Island II (USA)-image.jpg</image>
-          <rating>0.6</rating>
-          <releasedate>19941001T000000</releasedate>
-          <developer>Make</developer>
-          <publisher>Hudson</publisher>
-          <genre>Action</genre>
-          <players>1</players>
-      </game>
-      <game id="2093" source="theGamesDB.net">
-          <path>./Super Mario All-Stars (USA).sfc</path>
-          <name>Super Mario All-Stars (USA)</name>
-          <desc>Revisit the magic and fun of the classic Super Mario Bros. series on your Super NES!  All the great Super Mario Bros. games for the NES have been powered up with 16-bit graphics and sound and collected on one super game pak.  As an added bonus, the previously unreleased &#34;Lost Levels&#34; are included.  These super challenging courses have never been available in this country until now!&#xA;&#xA;* Four great games in one game pak!&#xA;* Battery backed memory saves up to 4 players&#39; progress through every game!&#xA;* Play alone or 2 players can alternate play!&#xA;* New 16-bit graphics, sound, and other surprises!</desc>
-          <image>/home/pi/.emulationstation/downloaded_images/snes/Super Mario All-Stars (USA)-image.jpg</image>
-          <rating>0.72963</rating>
-          <releasedate>19930801T000000</releasedate>
-          <developer>Nintendo</developer>
-          <publisher>Nintendo</publisher>
-          <genre>Platform</genre>
-          <players>2</players>
-      </game>
-      <game id="41" source="theGamesDB.net">
-          <path>./Super Mario Kart (USA).zip</path>
-          <name>Super Mario Kart (USA)</name>
-          <desc>The Super Mario GoKart Park is open for tons of racing fun!  Hit the track with Mario, Luigi, Yoshi and the Princess.  Get tough and lock fenders with Donkey Kong, Jr. and Bowser.  Even Toad and Koopa Troopa will mix it up in an all-out quest for the Gold Cup!  Race head-to-head with a friend or challenge the computer in great, split-screen, Mode 7 graphics.&#xA;&#xA;Feel like a bit less speed and a lot more strategy?  Take a crack at the Battle Mode!  In four different maze-like courses you&#39;ll use Koopa Shells, Banana Peels, Super Stars and other wacky weapons to burst your opponent&#39;s target balloons and triumph!&#xA;&#xA;* 2 games in 1 - Mario Grand Prix and Battle Mode&#xA;* 8  Familiar Characters&#xA;* 20 Different Tracks&#xA;* 3 Different Skill Levels&#xA;* Battery-backed memory saves your best times!</desc>
-          <image>/home/pi/.emulationstation/downloaded_images/snes/Super Mario Kart (USA)-image.jpg</image>
-          <rating>0.7117600000000001</rating>
-          <releasedate>19920901T000000</releasedate>
-          <developer>Nintendo</developer>
-          <publisher>Nintendo</publisher>
-          <genre>Racing</genre>
-          <players>2</players>
-      </game>
-      <game id="3275" source="theGamesDB.net">
-          <path>./Super Mario All-Stars + Super Mario World (USA).sfc</path>
-          <name>Super Mario All-Stars + Super Mario World (USA)</name>
-          <desc>Revisit the magic and fun of the classic Super Mario Bros. series on your Super NES!  Play through Super Mario World, plus all the great Super Mario Bros. games for the NES have been powered up with 16-bit graphics and sound and collected on one super game pak.  As an added bonus, the previously unreleased &#34;Lost Levels&#34; are included.  These super challenging courses have never been available in this country until now!&#xA;&#xA;* Five great games in one game pak!  Play through Super Mario Bros., Super Mario Bros. Lost Levels, Super Mario Bros. 2, Super Mario Bros. 3 &amp; Super Mario World!&#xA;* Battery backed memory saves up to 4 players&#39; progress through every game!&#xA;* Play alone or 2 players can alternate play!&#xA;* New 16-bit graphics, sound, and other surprises!</desc>
-          <image>/home/pi/.emulationstation/downloaded_images/snes/Super Mario All-Stars + Super Mario World (USA)-image.jpg</image>
-          <rating>0.8</rating>
-          <releasedate>19931216T000000</releasedate>
-          <developer>Nintendo</developer>
-          <publisher>Nintendo</publisher>
-          <genre>Adventure</genre>
-          <players>2</players>
-      </game>
-      <game id="232" source="theGamesDB.net">
-          <path>./Super Mario RPG - Legend of the Seven Stars (USA).sfc</path>
-          <name>Super Mario RPG - Legend of the Seven Stars (USA)</name>
-          <desc>Mario returns in this incredible new role-playing adventure! His latest rival is Smithy, a menacing creature who causes fear and treachery in the Mushroom Kingdom. Mario must recover seven stars and repair the Star Road before he can make his way to Bowser&#39;s castle for a final confrontation with Smithy. Powerful weapons, sinister spells and other useful items help Mario to complete his harrowing journey. New friends and old allies support him along the way. Even Bowser lends a hand!</desc>
-          <image>/home/pi/.emulationstation/downloaded_images/snes/Super Mario RPG - Legend of the Seven Stars (USA)-image.jpg</image>
-          <rating>0.7692300000000001</rating>
-          <releasedate>19960513T000000</releasedate>
-          <developer>Squaresoft</developer>
-          <publisher>Nintendo</publisher>
-          <genre>Role-Playing</genre>
-          <players>1</players>
-      </game>
-      <game id="136" source="theGamesDB.net">
-          <path>./Super Mario World (USA).sfc</path>
-          <name>Super Mario World (USA)</name>
-          <desc>Mario&#39;s off on his biggest adventure ever, and this time he&#39;s brought along a friend.  Yoshi the dinosaur teams up with Mario to battle Bowser, who has kidnapped Princess Toadstool once again.  Guide Mario and Yoshi through nine peril-filled worlds to the final showdown in Bowser&#39;s castle.&#xA;&#xA;Use Mario&#39;s new powers and Yoshi&#39;s voracious monster-gobbling appetite as you explore 96 levels filled with dangerous new monsters and traps.  Climb mountains and cross rivers, and descend into subterranean depths.  Destroy the seven Koopa castles and find keys to gain entrance to hidden levels.  Discover more warps and thrilling bonus worlds than ever before!&#xA;&#xA;Mario&#39;s back, and this time he&#39;s better than ever!</desc>
-          <image>/home/pi/.emulationstation/downloaded_images/snes/Super Mario World (USA)-image.jpg</image>
-          <rating>0.73704</rating>
-          <releasedate>19901121T000000</releasedate>
-          <developer>Nintendo</developer>
-          <publisher>Nintendo</publisher>
-          <genre>Platform</genre>
-          <players>2</players>
-      </game>
-      <game id="3280" source="theGamesDB.net">
-          <path>./Tetris &amp; Dr. Mario (USA).sfc</path>
-          <name>Tetris &amp; Dr. Mario (USA)</name>
-          <desc>The two greatest puzzle games are now together in one exciting game pak only on Super NES! TETRIS: The relentless building block video puzzle from Russia is back and enhanced for Super NES. Play solo, with a friend or challenge one of three computer opponents in this exciting and addicting game! DR. MARIO: Those nasty viruses have returned. Dr. Mario, vitamin pills in hand, is ready to eliminate them once more. In addition to the ever-popular 2-player game, now you can challenge the computer in the guise of the Blue, Yellow or Red Virus. MIXED MATCH: Combine Tetris and Dr. Mario and what do you get? One exciting contest for 2 players! Race against the clock to outscore your opponent while playing both Tetris and Dr. Mario!</desc>
-          <image>/home/pi/.emulationstation/downloaded_images/snes/Tetris &amp; Dr. Mario (USA)-image.jpg</image>
-          <rating>0.7</rating>
-          <releasedate>19941201T000000</releasedate>
-          <developer>Nintendo</developer>
-          <publisher>Nintendo</publisher>
-          <genre>Puzzle</genre>
-          <players>2</players>
-      </game>
-      <game id="137" source="theGamesDB.net">
-          <path>./Super Mario World 2 - Yoshi&#39;s Island (USA) (Rev 1).sfc</path>
-          <name>Super Mario World 2 - Yoshi&#39;s Island (USA) (Rev 1)</name>
-          <desc>The Evil Magikoopa, Kamek, is out to kidnap Baby Mario!  In this sequel to Super Mario World, you play as Yoshi.  Your goal is to successfully carry Baby Mario back to his parents in the Mushroom Kingdom while avoiding all of Kamek&#39;s clever traps and evil minions.  Enjoy the various backgrounds of the rich and vibrant locales of Yoshi&#39;s Island as you race to complete your quest.&#xA;&#xA;Is Yoshi up to the momentous task at hand?  Help him toss his eggs, manipulate unique objects and solve puzzling situations!  When in doubt, don&#39;t be afraid to try EVERYTHING!!&#xA;&#xA;* 16 megs of memory provide 6 worlds - each with 8 stages!&#xA;* Morphmation delivers powerful special effects - scaling, rotating, and 360 degree scrolling.&#xA;* Huge characters and even bigger bosses require quick thinking!&#xA;* Battery back-up to save your progress.</desc>
-          <image>/home/pi/.emulationstation/downloaded_images/snes/Super Mario World 2 - Yoshi&#39;s Island (USA) (Rev 1)-image.jpg</image>
-          <rating>0.775</rating>
-          <releasedate>19951004T000000</releasedate>
-          <developer>Nintendo</developer>
-          <publisher>Nintendo</publisher>
-          <genre>Platform</genre>
-          <players>1</players>
-      </game>
-      <game id="6258" source="theGamesDB.net">
-          <path>./Tetris 2 (USA) (Rev 1).sfc</path>
-          <name>Tetris 2 (USA) (Rev 1)</name>
-          <desc>The mesmerizing fun of Tetris returns - and the challenge escalates to new heights! Test your dexterity, tease your brain and rack up points with Tetris 2. Your split-second decisions lead you to a new dimension in puzzle-solving action! Play alone or challenge a friend in simultaneous split-screen action. A tougher Tetris with more shapes, more components, 30 levels - and unlimited solutions! If you loved the international game sensation Tetris, you&#39;ll be wild for the newest dimension in puzzle fun: Tetris 2!</desc>
-          <image>/home/pi/.emulationstation/downloaded_images/snes/Tetris 2 (USA) (Rev 1)-image.jpg</image>
-          <releasedate>19940808T000000</releasedate>
-          <developer>Nintendo</developer>
-          <publisher>Nintendo</publisher>
-          <genre>Puzzle</genre>
-          <players>2</players>
-      </game>
-      <game id="3281" source="theGamesDB.net">
-          <path>./Tetris Attack (USA).sfc</path>
-          <name>Tetris Attack (USA) (En,Ja)</name>
-          <desc>The Tetris sensation has landed at Yoshi&#39;s Island. Kamek and Bowser await to test your dexterity with a demanding race of strategic moves in this exciting new contest. As the stack of perplexing panels rises from the bottom, think fast to counteract the merciless enemy attack dropping in from above. Rapid switches and quick response are the key to clearing the way to the next challenging level. An incredible selection of competitive modes and options provide escalating action and endless fun!</desc>
-          <image>/home/pi/.emulationstation/downloaded_images/snes/Tetris Attack (USA)-image.jpg</image>
-          <rating>0.7</rating>
-          <releasedate>19961103T000000</releasedate>
-          <developer>Intelligent Systems</developer>
-          <publisher>Nintendo</publisher>
-          <genre>Puzzle</genre>
-          <players>2</players>
-      </game>
-      <game id="3282" source="theGamesDB.net">
-          <path>./Tiny Toon Adventures - Buster Busts Loose! (USA).sfc</path>
-          <name>Tiny Toon Adventures - Buster Busts Loose! (USA)</name>
-          <desc>It&#39;s just like a real cartoon, except you&#39;re the main character!&#xA;&#xA;But be warned. Accept the role of Buster Bunny, and your tail will be on the line against Calamity Coyote, Elmyra, Dizzy Devil, Dr. Gene Splicer, Montana Max and gazillions of other 16 bit bullies craving a pot of Hasenpfeffer stew. Gulp!&#xA;&#xA;Only you can stop those pesky pranksters from getting the jump on your pal Buster Bunny. But it won&#39;t be cake, Jake! You&#39;ll have to use Buster&#39;s all new Spin Kick and Mad Dash to bust through ACME Looniversity&#39;s toughest classes. If you pass that test, you&#39;ll hop aboard a Wild West Train Ride. Then explore a spooky Monster Mansion. Play in a far-out Foot Game. Bounce through an aerial Sky Jinx in search of stratospheric treasures. And blast-off on a Babs Bunny (no relation!) rescure mission that&#39;s totally spaced-out.&#xA;&#xA;Ready to fork over the bucks, Buster? Well hang on your ears - there&#39;s more! Between each level are five subgames, including Furrball&#39;s Championship Squash, Hungry Boy Hamton and Plucky Duck&#39;s Go-Go Bingo. SO ACTUALLY IT&#39;S LIKE ELEVEN GAMES IN ONE! And we haven&#39;t even mentioned the Pinball Wizardry, Acme Anvils and Icky Tricky Sticky Traps that&#39;ll make you feel like you&#39;re in an actual cartoon.&#xA;&#xA;Wow! To make it through all that Buster better have a lucky bunny&#39;s foot. Or else you&#39;ll be the one getting stewed!</desc>
-          <image>/home/pi/.emulationstation/downloaded_images/snes/Tiny Toon Adventures - Buster Busts Loose! (USA)-image.jpg</image>
-          <rating>0.7</rating>
-          <releasedate>19930201T000000</releasedate>
-          <developer>Konami</developer>
-          <publisher>Konami</publisher>
-          <genre>Platform</genre>
-          <players>1</players>
-      </game>
-      <game id="6302" source="theGamesDB.net">
-          <path>./Tiny Toon Adventures - Wacky Sports Challenge (USA).sfc</path>
-          <name>Tiny Toon Adventures - Wacky Sports Challenge (USA)</name>
-          <desc>Humor! Wackiness! Sports!&#xA;ls that what you&#39;re looking for? if so. this game&#39;s got it! Plus cool graphics.&#xA;&#xA;STARRING YOUR FAVORITE TINY TOON ADVENTURES CHARACTERS FROM THE ANIMATED TV SERIES!!&#xA;You can play as Buster Bunny. Babs Bunny (no relation). Plucky Duck or Dizzy&#xA;Devil! You&#39;ll also run into your other favorite cast characters.&#xA;&#xA;HIDDEN BONUSES!!! TWELVE DIFFERENT EVENTS!!! MULTIPLE SKILL LEVELS WITH DIFFERENT HAZARDS!!!&#xA;Face it. if you want a laugh riot. sports action. and tons of replay value. then this is the game you&#39;re looking for! Just check out those screen shots.&#xA;&#xA;BUY THE GAME. PLAY THE GAME. BE THE GAME.&#xA;Besides. where else are you going to find Bungee Jumping, Chicken Race. Ice Cream Toss, Weight Lifting and eight other games in one convenient package?</desc>
-          <image>/home/pi/.emulationstation/downloaded_images/snes/Tiny Toon Adventures - Wacky Sports Challenge (USA)-image.jpg</image>
-          <rating>0.6</rating>
-          <releasedate>19941201T000000</releasedate>
-          <developer>Konami</developer>
-          <publisher>Konami</publisher>
-          <genre>Sports</genre>
-          <players>4</players>
-      </game>
-      <game id="3553" source="theGamesDB.net">
-          <path>./Toy Story (USA).sfc</path>
-          <name>Toy Story (USA)</name>
-          <desc>This game is based on the movie &#34;Toy Story&#34;. It sets you as the character of Woody as you jump, swing and drive to the end of each level. Each level contains familiar scenes from the movie. The gameplay consists of the platform\sidescrolling kind. You use Woody&#39;s pullstring to defeat enemies like sharks, Mr. Potatohead and Ham. After each level, you are treated to still images from the movie.</desc>
-          <image>/home/pi/.emulationstation/downloaded_images/snes/Toy Story (USA)-image.jpg</image>
-          <rating>0.56667</rating>
-          <releasedate>19951201T000000</releasedate>
-          <developer>Disney Interactive</developer>
-          <publisher>Nintendo</publisher>
-          <genre>Platform</genre>
-          <players>1</players>
-      </game>
-      <game id="6330" source="theGamesDB.net">
-          <path>./Virtual Bart (USA).sfc</path>
-          <name>Virtual Bart (USA)</name>
-          <desc>Bart is in a heap of technical trouble - he&#39;s stuck in a virtual reality machine!!! Enter the Jurassic era as Dino Bart, and stomp through stone age mayhem. Battle Nelson and the gang in a post apocalyptic Springfield as Doomsday Bart. Deploy your diaper-chute as Baby Bart and hog the spotlight as Pork Factory Pig Bart. Even go for a butt squeaking thrill-ride down the dangerous Mt. Splashmore and more!</desc>
-          <image>/home/pi/.emulationstation/downloaded_images/snes/Virtual Bart (USA)-image.jpg</image>
-          <rating>0.5</rating>
-          <releasedate>19940901T000000</releasedate>
-          <developer>Sculptured Software</developer>
-          <publisher>Acclaim</publisher>
-          <genre>Action</genre>
-          <players>1</players>
-      </game>
-      <game id="6333" source="theGamesDB.net">
-          <path>./Wario&#39;s Woods (USA).sfc</path>
-          <name>Wario&#39;s Woods (USA)</name>
-          <desc>It&#39;s up to Toad to keep the woods safe in this new Super NES puzzle action!&#xA;&#xA;Toad is back in his very own big adventure in this game with the challenge of Tetris. It&#39;s up to you and Toad to keep peace in the Mushroom Kingdom - and that means outfoxing the wicked Wario!&#xA;&#xA;Monsters, goblins and bombs fall from the sky faster and faster as Wario fires them into the woods. Toad must scramble to catch and line up the falling puzzle pieces to eliminate Wario&#39;s evil hold. If you loved Tetris, this puzzle action game is for you!</desc>
-          <image>/home/pi/.emulationstation/downloaded_images/snes/Wario&#39;s Woods (USA)-image.jpg</image>
-          <rating>0.6</rating>
-          <releasedate>19940101T000000</releasedate>
-          <developer>Intelligent Systems</developer>
-          <publisher>Nintendo</publisher>
-          <genre>Puzzle</genre>
-          <players>2</players>
-      </game>
-      <game id="3290" source="theGamesDB.net">
-          <path>./Wizardry V - Heart of the Maelstrom (USA).sfc</path>
-          <name>Wizardry V - Heart of the Maelstrom (USA)</name>
-          <desc>Despite the defeat of Trebor, Werdna, and L&#39;kbreth, dark times once again threaten the kingdom of Llylgamyn.  So once again a party of adventurers must venture forth to vanquish the evil.&#xA;&#xA;Wizardry V represents a complete revision of the gaming system used in the first four installments, with larger mazes, new spells and character classes, and an expanded system for combatting and interacting with creatures.  It is also the first game in the series that allows, but does not require characters imported from a previous scenario.</desc>
-          <image>/home/pi/.emulationstation/downloaded_images/snes/Wizardry V - Heart of the Maelstrom (USA)-image.jpg</image>
-          <rating>0.8</rating>
-          <releasedate>19940401T000000</releasedate>
-          <developer>ASCII</developer>
-          <publisher>Capcom</publisher>
-          <genre>Role-Playing</genre>
-          <players>1</players>
-      </game>
-      <game id="6368" source="theGamesDB.net">
-          <path>./Yoshi&#39;s Cookie (USA).sfc</path>
-          <name>Yoshi&#39;s Cookie (USA)</name>
-          <desc>Yoshi&#39;s Cookie is a fast-paced puzzle game that can be enjoyed by everyone as it is easy to play, but challenging to complete. To play, you move the randomly placed cookies into rows and columns of cookies with similar patterns. When you successfully assemble a row or column of the same cookies, the line will disappear, and you can begin on a new row or column. The &#34;Yoshi&#34; cookie is very special in both the 1-player and the 2-player game. Since the Yoshi Cookie is the key to both games, you must use it wisely.</desc>
-          <image>/home/pi/.emulationstation/downloaded_images/snes/Yoshi&#39;s Cookie (USA)-image.jpg</image>
-          <rating>0.7</rating>
-          <releasedate>19930601T000000</releasedate>
-          <developer>Bullet Proof Software</developer>
-          <publisher>Nintendo</publisher>
-          <genre>Puzzle</genre>
-          <players>2</players>
-      </game>
-      <game id="2088" source="theGamesDB.net">
-          <path>./Yoshi&#39;s Safari (USA).sfc</path>
-          <name>Yoshi&#39;s Safari (USA)</name>
-          <desc>In Yoshi&#39;s Safari, Bowser, King of the Koopas, and his evil offspring have invaded Jewelry Land. The Koopalings have seized the Kingdom&#39;s precious jewels. It&#39;s up to Mario, armed with his trusty Super Scope, to ride Yoshi to track down Bowser and put a stop to his evil plans.</desc>
-          <image>/home/pi/.emulationstation/downloaded_images/snes/Yoshi&#39;s Safari (USA)-image.jpg</image>
-          <rating>0.7</rating>
-          <releasedate>19930901T000000</releasedate>
-          <developer>Nintendo</developer>
-          <publisher>Nintendo</publisher>
-          <genre>Shooter</genre>
-          <players>1</players>
-      </game>
-  </gameList>
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./ActRaiser (USA).sfc</path>
+		<name>ActRaiser (USA)</name>
+		<desc>ACTION &amp; SIMULATION GAME
+This sensational game combines pulse-stopping action sequences with an intelligent Simulation Mode, allowing the player to forge a new civilization. Finally......experience a game that fully utilizes the advanced capabilities of the Super NES.
+
+Restore peace and order to your people's world! Long ago, you and your people built a peaceful land. Since then, your world has been taken over and inhabited by the evil Tanzra and his Guardians. Your once-tranquil land has become a breeding ground for monsters. Injured, you have retreated to your Sky Palace and have fallen into a deep sleep.
+
+Now, many years have passed and you have recovered from your injuries and slumber. You must punish Tanzra and restore the world to your people or lose their faith forever.
+
+Action Mode
+Breathe life into the statue modeled after your likeness to cleanse the land and defeat the monsters who have conquered.
+
+Simulation Mode
+Help your people develop a new land from that which has been purified and build towns with your powers.</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/snes/ActRaiser (USA)-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19911101T000000</releasedate>
+		<developer>Quintet</developer>
+		<publisher>Enix</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./ActRaiser 2 (USA).sfc</path>
+		<name>ActRaiser 2 (USA)</name>
+		<desc>THE LEGACY CONTINUES!
+Every once in awhile a game comes out that is so good, people can't stop talking about it - a game that seems to rise above the others. ACTRAISER for the SNES was that game. We don't need to remind you of how good the graphics were. We don't have to tell you about the music. We could have just sat back and been satisfied with the recognition it's received. Instead, we decided to make something even better: ACTRAISER 2! We've improved the graphics, improved the sound and created a game we're confident will once again set the standard for all SNES games.
+
+HE'S BACK!
+The most feared demons of all time have combined their power and raised the Lord of Evil, TANZRA. Now alive, TANZRA's hatred for you runs eternal. Vowing revenge, he has sent his demons to attack your people and destroy everything! You must put an end to this once and for all. This time however, it won't be easy!</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/snes/ActRaiser 2 (USA)-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19931029T000000</releasedate>
+		<developer>Quintet</developer>
+		<publisher>Enix</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Aladdin (USA).sfc</path>
+		<name>Aladdin (USA)</name>
+		<desc>Discover a Whole New World of Adventure... For years, Jafar, the Sultan's evil advisor has sought a magic treasure - a single lamp that holds the key to the greatest power in the world. With this goal in sight, Jafar learns that only one person in the world can claim the magic lamp from the dreaded Cave of Wonders - one whose rags hide a heart that is pure - a diamond in the rough! Join Aladdin and his pet monkey Abu, as they race through the marketplace toward their date with destiny. Watch as Jafar tricks our hero and his friend into retrieving the lamp from the dangerous Cave of Wonders. But Aladdin and Abu outwit Jafar, releasing the power of a wacky blue Genie! Now Aladdin will have the chance to spoil Jafar's devious plans and win the hand of the beautiful princess Jasmine. But it will take more than magic to make his wishes come true...</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/snes/Aladdin (USA)-image.jpg</image>
+		<rating>0.78</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Animaniacs (USA).sfc</path>
+		<name>Animaniacs (USA)</name>
+		<desc>Animaniacs is a video game that is based on the hit animated series of the same name. Unlike regular platform games, the player usually runs from the enemies rather than fighting them. Characters include Yakko, Wakko, and Dot, Pinky and the Brain, most of the supporting cast, as well as Ralph, the Warner Brothers studio guard. Animaniacs was made into two games which bore no relation to each other in terms of gameplay, despite both being made by Konami. One was for the Super Nintendo Entertainment System and the other was for the Sega Mega Drive/Genesis and Game Boy. The SNES and Mega Drive/Genesis version were released in 1994, and the Game Boy version in 1995.</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/snes/Animaniacs (USA)-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>19941101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Bubsy II (USA).sfc</path>
+		<name>Bubsy II (USA)</name>
+		<desc>A new historical theme park, the Amazotarium, has been made. Though impressive, the park's sinister technology is stealing away actual history and placing it on exhibit. Having taken his niece and nephew to the park, Bubsy loses them and is soon caught up in the evil plans of Oinker P. Hamm, who runs Amazaterium and wants to extort money from his unwitting customers who'll "pay anything to see their own history". Now, Bubsy needs to "humble" Oinker and close the fascinating-but-deadly Amazatorium before anyone faces a hairy ending.</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/snes/Bubsy II (USA)-image.jpg</image>
+		<releasedate>19940403T000000</releasedate>
+		<developer>Accolade</developer>
+		<publisher>Accolade</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Bubsy in Claws Encounters of the Furred Kind (USA).sfc</path>
+		<name>Bubsy in - Claws Encounters of the Furred Kind (USA)</name>
+		<desc>A race of fabric-stealing aliens called "Woolies", who have stolen the world's yarn ball supply (especially Bubsy's, who owns the world's largest collection). Naturally, Bubsy does not take too kindly to the theft and sets out to "humble" the Woolies.</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/snes/Bubsy in Claws Encounters of the Furred Kind (USA)-image.jpg</image>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Solid Software</developer>
+		<publisher>Accolade</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Castlevania - Dracula X (USA).sfc</path>
+		<name>Castlevania - Dracula X (USA)</name>
+		<desc>In Transylvania, people lived in fear of the evil Count Dracula. The ultimate embodiment of evil, Dracula swept his dark hand over the land, making the people mere sheep for his thirst for blood. But when a young woman named Sonia Belmont came forth to confront him, he made a horrible mistake: he underestimated her. Thus, the battle between Dracula and the Belmont family began.</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/snes/Castlevania - Dracula X (USA)-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19950905T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Chrono Trigger (USA).sfc</path>
+		<name>Chrono Trigger (USA)</name>
+		<desc>The millennium. A portal is opened. The chain of time is broken. A young man is transported into the past, altering the course of history and the outcome of the future. He has to find his way home, but first he must travel to the outer edges of time to repair the world's chronology. On the way he encounters strange friends and foes, utilizes incredible devices and vehicles, and penetrates and neutralizes the fortresses of the past, present, and future. A paradox has been created. If he does not restore the order of time, nothing will ever be the same. He is the one who will become a hero. He is Crono.</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/snes/Chrono Trigger (USA)-image.jpg</image>
+		<rating>0.8125</rating>
+		<releasedate>19950311T000000</releasedate>
+		<developer>Squaresoft</developer>
+		<publisher>Squaresoft</publisher>
+		<genre>Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Cool Spot (USA).sfc</path>
+		<name>Cool Spot (USA)</name>
+		<desc>NO WAY! Your Cool SPOT chums are locked away! YES WAY! You, as Cool SPOT are here to save the day! Quit gawping over the dreamy scenery, the awesome animation and most savoury sound around. Play! Man, this is the hairiest...</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/snes/Cool Spot (USA)-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19931210T000000</releasedate>
+		<developer>Virgin Interactive</developer>
+		<publisher>Virgin Interactive</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Cool World (USA).sfc</path>
+		<name>Cool World (USA)</name>
+		<desc>Cool World is an action-oriented Super NES video game that is loosely based on the movie Cool World.
+
+Cartoonist Jack Deebs (the player's character) has discovered Cool World; eliminating the fine line between fantasy and reality. Holli Would has a major crush on Jack and is using him romantically to get a human body and move to the "Real World." Jack's only goal is to escape this alternative reality and return to the real world. By doing so, he returns to his beloved hometown of Las Vegas. If Holly grabs the Golden Spike of Power, then both worlds will be destroyed.</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/snes/Cool World (USA)-image.jpg</image>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Ocean</developer>
+		<publisher>Ocean Software</publisher>
+		<genre>Adventure</genre>
+	</game>
+	<game>
+		<path>./Daffy Duck - The Marvin Missions (USA).sfc</path>
+		<name>Daffy Duck - The Marvin Missions (USA)</name>
+		<desc>In this game, Duck Dodgers sets out to stop Marvin the Martian from performing various notorious deeds, including destroying his beloved home-planet, Earth. There seems to be only one way to stop Marvin - and that's to destroy all five of his deadly machines!</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/snes/Daffy Duck - The Marvin Missions (USA)-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19931001T000000</releasedate>
+		<developer>ICOM Simulations, Inc.</developer>
+		<publisher>Sunsoft</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Dirt Racer (Europe).sfc</path>
+		<name>Dirt Racer (Europe) (En,Fr,De)</name>
+		<desc>Players must drive their dirt track racing vehicle across a road rally. The car comes complete with a speedometer (in kilometres), a lap counter, and a lap time counter. There are a pre-determined number of chances to complete the game, like in Super Mario Kart and F-Zero. If the player is unable to defeat the game in those number of tries, then the player gets an automatic game over. A yellow smiley face shows up to track the performance of the driver. If it's smiling, then the player is winning. Otherwise, the player is losing the game.</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/snes/Dirt Racer (Europe)-image.jpg</image>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Elite</developer>
+		<publisher>Elite</publisher>
+		<genre>Racing</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Dirt Trax FX (USA).sfc</path>
+		<name>Dirt Trax FX (USA)</name>
+		<desc>The player can choose between eight different riders with unique characteristics and four bikes ranging from 50cc to 500cc. There are 22 tracks with four difficulty levels of gameplay</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/snes/Dirt Trax FX (USA)-image.jpg</image>
+		<releasedate>19950601T000000</releasedate>
+		<developer>Sculptured Software</developer>
+		<publisher>Acclaim Entertainment</publisher>
+		<genre>Racing</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Donkey Kong Country (USA) (Rev 2).sfc</path>
+		<name>Donkey Kong Country (USA) (Rev 2)</name>
+		<desc>Madness and Mayhem in this 3-D Gorilla Thriller!
+
+Donkey Kong is back with a new sidekick, Diddy Kong, in a crazy island adventure! Challenged by the crazed tribe of reptilian Kremlings, they endeavor to get back their stolen banana horde! Armed with lightning-quick moves, chest-pounding muscle and awesome aerial acrobatics, our duo is ready to face their cunning adversaries. With the help of Donkey Kong's quirky family and his wild animal mounts, they squabble and scamper their way through the unending monkey mayhem!</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/snes/Donkey Kong Country (USA) (Rev 2)-image.jpg</image>
+		<rating>0.80952</rating>
+		<releasedate>19941121T000000</releasedate>
+		<developer>Rare</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Donkey Kong Country 2 - Diddy's Kong Quest (USA) (Rev 1).sfc</path>
+		<name>Donkey Kong Country 2 - Diddy's Kong Quest (USA) (En,Fr) (Rev 1)</name>
+		<desc>O.K. kid, wipe that drool off your chin and listen up if you really want to learn something about this game. Sure, it's got newfangled computer graphics and what Diddy calls stereo sound that "rocks heavily and with little resistance!" BUT, the game play? Well, they FINALLY added some proper challenge to the game - a snap for me of course. AND THE STORY? You sure ask a lot of questions, kid! Kaptain K. Rool and his cruelest cut-throat Kremlings have kidnapped that flea-bitten ape Donkey Kong. I figured I'd rescue him when the little pip-squeak DIDDY pops up along with his girlfriend, and they head off fixin' to prove themselves heroes or something. Come to think of it, I haven't laid eyes on those two for quite a while. I just may have to help them out after all!</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/snes/Donkey Kong Country 2 - Diddy's Kong Quest (USA) (Rev 1)-image.jpg</image>
+		<rating>0.8333299999999999</rating>
+		<releasedate>19951120T000000</releasedate>
+		<developer>Rare</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Donkey Kong Country 3 - Dixie Kong's Double Trouble! (USA).sfc</path>
+		<name>Donkey Kong Country 3 - Dixie Kong's Double Trouble! (USA) (En,Fr)</name>
+		<desc>Monkey Mayhem Lives On!
+
+Kiddy Kong is a portly primate toddler with incredible power and agility! He teams up with Dixie Kong to stop the ever-present army of Kremlings. The game play and ACM graphics just keep getting better in this visually stunning installment in one of the most popular video game series of all time!
+
+Combining their unique abilities as they throw each other into action, Dixie Kong and Kiddy Kong set off to rescue Diddy Kong and Donkey Kong. Collect tons of treasure, grab billions of bananas and find more secret stuff than you've ever seen (or not seen) as you set off on the greatest DKC adventure yet! The final showdown with KAOS takes place in a cliff-top laboratory at the End of the World. It could get seriously ugly. Monkey mayhem lives on in this exotic island adventure!</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/snes/Donkey Kong Country 3 - Dixie Kong's Double Trouble! (USA)-image.jpg</image>
+		<rating>0.8428599999999999</rating>
+		<releasedate>19961122T000000</releasedate>
+		<developer>Rare</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Dungeon Master (USA).sfc</path>
+		<name>Dungeon Master (USA)</name>
+		<desc>Dungeon Master was a significant enhancement to the 3D dungeon crawl type of role-playing adventure game started by Wizardry and The Bard's Tale. The addition of a mouse-based (real-time) combat and inventory system in Dungeon Master has been repeated by the Eye of the Beholder Trilogy, Lands of Lore series, and other late-classic-era RPG games.</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/snes/Dungeon Master (USA)-image.jpg</image>
+		<releasedate>19930601T000000</releasedate>
+		<developer>FLT Games</developer>
+		<publisher>FLT Games</publisher>
+		<genre>Role-Playing</genre>
+	</game>
+	<game>
+		<path>./F-Zero (USA).sfc</path>
+		<name>F-Zero (USA)</name>
+		<desc>The future of racing is here! F-ZERO, an intergalaxtic Grand Prix, uses machines that weigh more than a ton, reach dash speeds of over 500km/h and hover a mere twelve inches off the ground! Choose from the heroic Captain Falcon, or the suave, Dr. Stuart. Need more choices? Then try the sly alien, Pico or the not-so-honest Samurai Goroh, and race for intergalactic fame and fabulous fortune in the F-ZERO Grand Prix.</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/snes/F-Zero (USA)-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19910823T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Racing</genre>
+	</game>
+	<game>
+		<path>./Flintstones, The (USA).sfc</path>
+		<name>Flintstones, The (USA) (En,Fr,De,Es,It)</name>
+		<desc>What's more fun than watching The Flintstones? Playing The Flintstones, silly! The evil Cliff Vandercave has kidnapped Pebbles and Bamm Bamm. Gues who to the rescue!?!
+
+Put on your tiger skin, take off your shoes, and be your favorite Stone Age stooge in the rockinest adventure this side of the Jurassic Park. Live in Bedrock. Hang out with Barney, Wilma, Betty, and Dino. Wrestle with hungry dinosaurs. Eat Brontosaurus Burgers. And bring home the little ones, safely.
+
+After all, It's Fred's life... and you get to YABBA-DABBA-DOO-IT!</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/snes/Flintstones, The (USA)-image.jpg</image>
+		<releasedate>19950201T000000</releasedate>
+		<developer>Ocean</developer>
+		<publisher>Ocean</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Flintstones, The - The Treasure of Sierra Madrock (USA).sfc</path>
+		<name>Flintstones, The - The Treasure of Sierra Madrock (USA)</name>
+		<desc>Rock this town!
+
+Join the gang from Bedrock on their latest fun filled adventure. It's your chance to play with the stars!
+
+-12 megs of excellent action!
+-One or two players!
+-Five worlds with multiple stages provide hours of entertainment!
+-Races, roulette, and many more mini-games!
+-Awesome intermission screens bring Bedrock to life!</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/snes/Flintstones, The - The Treasure of Sierra Madrock (USA)-image.jpg</image>
+		<rating>0.55</rating>
+		<releasedate>19940301T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Frogger (USA).sfc</path>
+		<name>Frogger (USA)</name>
+		<desc>Your task in this arcade conversion is to guide a frog across a treacherous road and river, and to safety at the top of the screen. Both these sections are fraught with a variety of hazards, each of which will kill the frog and cost you a life if contact is made.
+
+The road is full of cars and trucks, at variable speeds. The river water itself is fatal, as are the snakes which hover within on later levels. Frogger must use the arrangement of logs, turtles (which are only there for a short time) and alligators (but stay away form their faces), and then jump into one of the open home-cells, ideally one containing a fly for extra points. Once all holes have been filled, you move onto the next, harder, level.</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/snes/Frogger (USA)-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Morning Star Multi</developer>
+		<publisher>Majesco Games</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Illusion of Gaia (USA).sfc</path>
+		<name>Illusion of Gaia (USA)</name>
+		<desc>Radiating an ominous light in its path, the Chaos Comet threatens the existence of the planet. Battles erupt and a tentative peace is returned to the lands. Danger lurks as the Chaos Comet orbits and dreadful beasts lie awaiting. In the Age of Exploration a boy named Will is born. Tragedy strikes during an expedition to the Tower of Babel separating Will from his father. Telekinetic forces awaken as Will returns to South Cape. Armed with his transformation abilities of two great warriors, Will must save the planet. Gaia, Will's guiding spirit bestows magical powers and advice along his journey. With the help of his friends Will must battle relentless enemies and solve the puzzles of the ancient ruins. Patience and knowledge are essential to reunite this father and son.</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/snes/Illusion of Gaia (USA)-image.jpg</image>
+		<rating>0.68571</rating>
+		<releasedate>19931127T000000</releasedate>
+		<developer>Quintet</developer>
+		<publisher>Enix</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Incredible Hulk, The (USA).sfc</path>
+		<name>Incredible Hulk, The (USA)</name>
+		<desc>Take control of the Hulk/Dr. Banner through five levels of action. City and Construction Site, Tyrannus' Labyrinth, Leader's Fortress, Leader's Interior, and the Final Confrontation.</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/snes/Incredible Hulk, The (USA)-image.jpg</image>
+		<rating>0.4</rating>
+		<releasedate>19940801T000000</releasedate>
+		<developer>Probe Entertainment</developer>
+		<publisher>U.S. Gold</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Indiana Jones' Greatest Adventures (USA).sfc</path>
+		<name>Indiana Jones' Greatest Adventures (USA)</name>
+		<desc>Grab your trusty whip and slash your way throughout all three Indy classics in this no-thrills-barred video game adventure! If it happens in the movies... it happens here... the giant boulder from Raiders of the Lost Ark, the mine cart chase from Temple of Doom, Three Trials from The Last Crusade. It's three times the Indy, all on one blockbuster game pak!</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/snes/Indiana Jones' Greatest Adventures (USA)-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19941011T000000</releasedate>
+		<developer>Factor 5</developer>
+		<publisher>JVC</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Inspector Gadget (USA).sfc</path>
+		<name>Inspector Gadget (USA)</name>
+		<desc>Inspector Gadget is on yet another mission against the evil Doctor Claw and his army of M.A.D. (Mean And Dirty) agents. This time it's personal because Doctor Claw has captured Gadget's niece, Penny. With the help of his trusty dog, Brain, and his suit full of special gadgets, Inspector Gadget must save Penny and defeat Doctor Claw and his minions!</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/snes/Inspector Gadget (USA)-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19931201T000000</releasedate>
+		<developer>AIM</developer>
+		<publisher>Hudson Soft</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Jetsons, The - Invasion of the Planet Pirates (USA).sfc</path>
+		<name>Jetsons, The - Invasion of the Planet Pirates (USA)</name>
+		<desc>George Jetson was about to run out to work when his pal Captain Zoom appears out of thin air. Zoom tells him that Zora, the leader of SPREE ("Space Pirates Revelling in Evil Enterprises"), is planning on looting this solar system of all its resource! Unfortunately, in his last encounter with Zora, Zoom has used up all his strength and now he is powerless so he asks George to take over. He gives George his Pneumo Osmatic Precipitator (or P.O.P.) and bids him good luck.  Can George save his family and this galaxy?
+
+Guide George through 9 stages of intergalactic action armed with only his wits and the P.O.P....which is like a super vacuum. The P.O.P. can be used as a traveling tool by sucking onto walls and ceilings, it will enable George to climb up and across platforms.  As a weapon, the P.O.P. can be used to suck up blocks or enemies and spit out at other enemies. George can also use the P.O.P. to breathe under water! Talk about multi-functional!
+
+George's conditions are indicated by the number of hearts he has at the top of the screen.  By collecting more hearts, it will refill George's health. Food items will increase your score and by getting a high enough score in each stage, you may get to play a bonus game.</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/snes/Jetsons, The - Invasion of the Planet Pirates (USA)-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Taito Corporation</developer>
+		<publisher>Taito Corporation</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Kirby Super Star (USA).sfc</path>
+		<name>Kirby Super Star (USA)</name>
+		<desc>Dream Land is under siege again! Our hero, Kirby, returns to instigate a rescue. King Dedede is snatching up Dream Land's food supply, but he's not the only one! Dyna Blade, Meta Knight and a slew of other evil baddies are on the loose and wreaking havoc throughout the land.
+
+Use any of Kirby's amazing powers to create a "helper" to assist you in battle. Or have a friend join you for some two-player action by taking control of Kirby's helper. Help Kirby work through EIGHT challenging games filled with action and adventure. Enter the fray in Spring Breeze, enter a foot race against King Dedede in Gourmet Race and tackle a winged warrior in Dyna Blade. Hone your reaction skills in Megaton Punch and Samurai Kirby, then battle your way through the Great Cave Offensive, Revenge of Meta Knight and Milky Way Wishes. Each game is different AND some extra-special surprises are in store for you!</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/snes/Kirby Super Star (USA)-image.jpg</image>
+		<rating>0.675</rating>
+		<releasedate>19960920T000000</releasedate>
+		<developer>HAL Laboratory</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Kirby's Avalanche (USA).sfc</path>
+		<name>Kirby's Avalanche (USA)</name>
+		<desc>King Dedede has challenged Kirby and other members of Dream Land to an Avalanche Competition in the Dream Fountain. Kirby, taking on the challenge, has decided to battle his way through the forest and into the Dream Fountain to win the Avalanche Cup from King Dedede.</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/snes/Kirby's Avalanche (USA)-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>19950201T000000</releasedate>
+		<developer>Compile</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Puzzle</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Kirby's Dream Course (USA).sfc</path>
+		<name>Kirby's Dream Course (USA)</name>
+		<desc>Scan the course and check out the obstacles ahead. Get ready for the most surprising game play imaginable in Kirby's battle against King Dedede!
+
+This checkboard challenge brings outrageous hazards and bizarre surfaces. Warp panels instantly transport you to new and exciting challenges. Conveyer belts provide higher levels of adventure. Turntables take the action in a whole new direction.
+
+Gordo, Kracko, Whispy Woods and a cast of zany characters await you. Gain special powers including Fireball, Freeze, Spark and Parasol. Transform your enemies into stars revealing eight hidden cups of each wildly different course. Control the force and angle of your shot and sink Kirby for a hole-in-one!</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/snes/Kirby's Dream Course (USA)-image.jpg</image>
+		<rating>0.6333300000000001</rating>
+		<releasedate>19950201T000000</releasedate>
+		<developer>HAL Laboratory</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Kirby's Dream Land 3 (USA).sfc</path>
+		<name>Kirby's Dream Land 3 (USA)</name>
+		<desc>That mean old King Dedede is at it again! He's causing his mischief and Dreamland's in trouble! Kirby, the resident hero of Dreamland, sets out to teach Dedede a lesson, this time with the help of many of his good friends!
+
+But wait! Something's wrong! Dedede doesn't seem to be himself...
+
+Looks like Kirby has to stop Dedede and find out what is wrong with him! It almost seems like something's controlling him...</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/snes/Kirby's Dream Land 3 (USA)-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19971101T000000</releasedate>
+		<developer>HAL Laboratory</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Legend of Zelda, The - A Link to the Past (USA).sfc</path>
+		<name>Legend of Zelda, The - A Link to the Past (USA)</name>
+		<desc>Venture back to Hyrule and an age of magic and heroes.  The predecessors of Link and Zelda face monsters on the march when a menacing magician takes over the kingdom.  Only you can prevent his evil plot from shattering the land of Hyrule.
+
+In your quest, you'll venture into twisting mazes, dungeons, palaces and shadowy forests.  Test your mettle with mighty swords and magical weapons.  Or heft a boulder and hurl it at your enemies.  If the going gets tough, dive into a river--you can swing to escape!  Learn powerful spells, locate magical artifacts and solve the mysteries of the evil magician and the hidden realm of Hyrule.
+
+This exciting Super NES sequel to the Legend of Zelda and The Adventure of Link uses 16-bit power to create a quest so colorful and detailed you don't just play it, you live it!</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/snes/Legend of Zelda, The - A Link to the Past (USA)-image.jpg</image>
+		<rating>0.8103400000000001</rating>
+		<releasedate>19920413T000000</releasedate>
+		<developer>Nintendo EAD</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Lemmings (USA) (Rev 1).sfc</path>
+		<name>Lemmings (USA) (Rev 1)</name>
+		<desc>Lemmings is divided into a number of levels, grouped into four difficulty levels. Each level comprises both destructible landscape elements such as rocks, indestructible sections such as steel plates, and numerous obstacles including chasms, high walls, large drops, pools of water or lava, and booby traps. Each level also includes one or more entrance points and one or more exits. The goal is to guide a certain percentage of the green-haired, blue-shirted lemmings from the entrance to the exit by clearing or creating a safe passage through the landscape for the lemmings to use.</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/snes/Lemmings (USA) (Rev 1)-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19920301T000000</releasedate>
+		<developer>DMA Design</developer>
+		<publisher>Sunsoft</publisher>
+		<genre>Puzzle</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Lemmings 2 - The Tribes (USA).sfc</path>
+		<name>Lemmings 2 - The Tribes (USA)</name>
+		<desc>Lemmings 2: The Tribes, a computer game released in 1993, is the first real sequel to the popular puzzle game Lemmings. As with the original, it was developed by DMA Design and published by Psygnosis. The gameplay remains mostly the same as the original game, requiring the player to lead a certain number of lemmings to their exit by giving them the appropriate "skills".</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/snes/Lemmings 2 - The Tribes (USA)-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19941101T000000</releasedate>
+		<developer>DMA Design</developer>
+		<publisher>Psygnosis</publisher>
+		<genre>Puzzle</genre>
+	</game>
+	<game>
+		<path>./Lost Vikings 2 (USA).sfc</path>
+		<name>Lost Vikings 2 (USA)</name>
+		<desc>Their lost is your game.
+
+The lost boys are back: Erik the Swift, Baelog the Fierce and Olaf the Stout. This action strategy is not for the lame of brain. In their last adventure, the trio was trying to escape the evil alien captor Tomator. Now, armed with all new high tech weaponry the boys heisted from Tomator, they set out to find the time machine that will land them back home. The vikes escape together or not at all. So, it's your challenge tocomplete each of the levels with all three characters alive an kick'n! Plug in, boot up and fight! Norse by Norsewest.</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/snes/Lost Vikings 2 (USA)-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19970501T000000</releasedate>
+		<developer>Blizzard Entertainment</developer>
+		<publisher>Interplay</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Lost Vikings, The (USA).sfc</path>
+		<name>Lost Vikings, The (USA)</name>
+		<desc>Three Vikings, Eric the Swift, Olaf the Stout and Baleog the Fierce, were kidnapped by the alien Tomator, the evil Croutonian ruler, who is collecting unique life forms to display in his gallery. The three Vikings will have to combine their unique skills to defeat Tomator, as well as a vast array of aliens, robots, giant snails, big lizards and more.
+
+The Lost Vikings is a side-scrolling platform puzzle game with a twist. Instead of one character who can jump, run, shoot, collect items, flip switches and so on, there are three different characters, each with his own skills. Eric the Swift can jump, run and bash through walls with his tough helmet. Olaf the Stout has a shield which can block attacks, function as an air glider or as a step to stand on. Baleog the Fierce can shoot things with his arrows (including switches) or kill things with his sword. The player has to use the three Vikings as a team if he wants to get past the increasingly difficult levels and puzzles.
+
+The player controls one Viking at a time, but can switch between them at any point. The Vikings have limited space in their inventory which they can use to keep various items. Each Viking has three health points, and if he loses them all from confrontations with dangers, he dies (some threats kill instantly), and the level must be restarted.</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/snes/Lost Vikings, The (USA)-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19930401T000000</releasedate>
+		<developer>Silicon &amp; Synapse</developer>
+		<publisher>Interplay</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Mario Is Missing! (USA).sfc</path>
+		<name>Mario Is Missing! (USA)</name>
+		<desc>Don't look now, but Bowser's back, and this time he's in your world! But where is that mastermind of reptilian trouble doing his dastardly deeds? And what has he done with Mario? Welcome to Mario is Missing! Take a trek with your travel agent, Luigi, and see the world! Track down troublesome turtles. Figure out where in the world you are, and what on earth happened to Mario. If your grasp of geography is good enough, you'll get the goods, stomp the hoods, and grab Mario out of Bowser's ghastly guest house. A learning adventure that the whole family can share! This is no Koopa-stomping mayhem. It's a fun way to learn about our world!</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/snes/Mario Is Missing! (USA)-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19930601T000000</releasedate>
+		<developer>Software Creations</developer>
+		<publisher>Software Toolworks</publisher>
+		<genre>Puzzle</genre>
+	</game>
+	<game>
+		<path>./Mario Paint (Japan, USA).sfc</path>
+		<name>Mario Paint (Japan, USA)</name>
+		<desc>Mario Paint lets you draw, paint, animate and compose music! Creation! Imagination is your only limit with an amazing variety of drawing tools. Animation! Add exciting dimension by creating moving animation with up to 9 frame sequences. Orchestration! Compose your own songs by selecting from over 15 different musical sounds and the entire scale of notes. Coordination! Increase your Super NES Mouse dexterity by playing Gnat Attack, the clever fly swatter game included inside.</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/snes/Mario Paint (Japan, USA)-image.jpg</image>
+		<rating>0.46667</rating>
+		<releasedate>19920505T000000</releasedate>
+		<developer>Intelligent Systems</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Puzzle</genre>
+	</game>
+	<game>
+		<path>./Mario's Early Years! - Fun with Letters (USA).sfc</path>
+		<name>Mario's Early Years - Fun with Letters (USA)</name>
+		<desc>In FUN WITH LETTERS, children are introduced to the fundamentals of letters and sounds by way of numerous learning worlds: Alphabet, Vowel, First letter, Lost letter, Building, Sound, Sentence, and more. Your child simply guides Mario, selecting objects on the screen which Mario bonks and bounces through, frequently affirming your child's correct choice. Moms and Dads get to interact and play, too. Mario invites them to join in the fun and observe their children as they become totally involved in the learning process. Through the MARIO'S EARLY YEARS Series children will discover the world around them by exploring the elements of that world. The MARIO'S EARLY YEARS Series covers a multitude of subjects, helping children to acquire valuable skills and develop a rich and active imagination.</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/snes/Mario's Early Years! - Fun with Letters (USA)-image.jpg</image>
+		<releasedate>19941001T000000</releasedate>
+		<developer>Software Toolworks</developer>
+		<publisher>Software Toolworks</publisher>
+		<genre>Puzzle</genre>
+	</game>
+	<game>
+		<path>./Mario's Early Years! - Fun with Numbers (USA).sfc</path>
+		<name>Mario's Early Years - Fun with Numbers (USA)</name>
+		<desc>In FUN WITH NUMBERS, children are introduced to the basics of math by way of Shape, Number, Same and Different, Counting, Comparing, How Many, and Pattern Worlds.
+
+Children simply guide Mario, selecting objects on the screen, which playfully illustrate numerical concepts. Moms and Dads get to interact and play, too. Mario invites them to join in the fun and observe their children as they become totally involved in the learning process. Through the MARIO'S EARLY YEARS Series children will discover the world around them by exploring the elements of that world. The MARIO'S EARLY YEARS Series covers a multitude of subjects, helping children to acquire valuable skills and develop a rich and active imagination.</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/snes/Mario's Early Years! - Fun with Numbers (USA)-image.jpg</image>
+		<releasedate>19941001T000000</releasedate>
+		<developer>The Software Toolworks</developer>
+		<publisher>The Software Toolworks</publisher>
+		<genre>Puzzle</genre>
+	</game>
+	<game>
+		<path>./Mario's Early Years! - Preschool Fun (USA).sfc</path>
+		<name>Mario's Early Years - Preschool Fun (USA)</name>
+		<desc>In PRESCHOOL FUN, children develop concepts through the exploration of shapes, colors, sounds, opposites, and numbers. With Mario's help, your child learns to define and identify these subjects without pressure. Your child simply guides Mario, selecting objects on the screen which Mario bonks and bounces through, frequently affirming your child's correct choice. With Mario, Luigi, Princess Toadstool and all their friends as classmates, your child just may make the biggest stride since learning to walk.
+
+That's because MARIO'S EARLY YEARS is all about learning to think in a way that doesn't seem like learning, but much more like playing. Moms and Dads get to interact and play, too. Mario invites them to join in the fun and observe their kids as they become totally involved in the learning process.</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/snes/Mario's Early Years! - Preschool Fun (USA)-image.jpg</image>
+		<releasedate>19941101T000000</releasedate>
+		<developer>Mindscape</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Puzzle</genre>
+	</game>
+	<game>
+		<path>./Mario's Time Machine (USA).sfc</path>
+		<name>Mario's Time Machine (USA)</name>
+		<desc>Bowser is at it again! He's using a time machine, called a Timulator, to loot historical artifacts from the past, in order to stock his museum. He plans to destroy the time machine after, and therefore change the course of history forever. It's up to Mario to stop Bowser and return all the stolen artifacts to their rightful place in history!</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/snes/Mario's Time Machine (USA)-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>19931201T000000</releasedate>
+		<developer>Software Toolworks</developer>
+		<publisher>Mindscape</publisher>
+		<genre>Adventure</genre>
+	</game>
+	<game>
+		<path>./Mickey Mania - The Timeless Adventures of Mickey Mouse (USA).sfc</path>
+		<name>Mickey Mania - The Timeless Adventures of Mickey Mouse (USA)</name>
+		<desc>Mickey Mouse gets a chance to go down memory lane and walk through the timeless adventures he has lived. Mickey Mania is a platformer where all the levels are based on Mickey's most famous cartoons. The levels range about 75 years, starting off with "Steamboat Willie" and going all the way to "The Prince and the Pauper".
+
+The gameplay consists mostly of jumping and marble throwing at enemies, with an occasional puzzle element.</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/snes/Mickey Mania - The Timeless Adventures of Mickey Mouse (USA)-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19941001T000000</releasedate>
+		<developer>Travellers Tales</developer>
+		<publisher>Sony</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Mickey's Playtown Adventure - A Day of Discovery! (USA) (Proto).sfc</path>
+		<name>Mickey's Playtown Adventure - A Day of Discovery! (USA) (Proto)</name>
+		<desc>Never officially released.</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/snes/Mickey's Playtown Adventure - A Day of Discovery! (USA) (Proto)-image.jpg</image>
+		<releasedate>19940101T000000</releasedate>
+		<developer>High Tech</developer>
+		<publisher>Visual Concept</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Mickey's Ultimate Challenge (USA).sfc</path>
+		<name>Mickey's Ultimate Challenge (USA)</name>
+		<desc>Mickey's Ultimate Challenge is a puzzle game in which the player chooses either Mickey or Minnie to play with. They'll find five characters from the Disney's universe in the kingdom, and will be prompted to help them in several tasks.
+
+Each task is a different puzzle, given by a specific character. Daisy, for instance, will ask help to clean the castle's paintings hanging on a wall. The task is in fact a memory game, where Mickey or Minnie must clean the pictures matching pairs. After completing one task, they'll receive a gift.
+
+After completing all tasks, Mickey or Minnie must trade the gifts they won with the right characters. For instance, after finishing Goofy's task, they will receive his hammer. The player must then guess who among the other characters would like to receive that hammer.</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/snes/Mickey's Ultimate Challenge (USA)-image.jpg</image>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Designer Software</developer>
+		<publisher>Hi-Tech Expressions</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Ms. Pac-Man (USA).sfc</path>
+		<name>Ms. Pac-Man (USA)</name>
+		<desc>In 1982, a sequel to the  incredibly popular Pac-Man was introduced in the form of his girlfriend, Ms. Pac-Man.  This sequel continued on the "eat the dots/avoid the ghosts" gameplay of the original game, but added new features to keep the title fresh.
+
+Like her boyfriend, Ms. Pac-Man attempts to clear four various and challenging mazes filled with dots and ever-moving bouncing fruit  while avoiding Inky, Blinky, Pinky and Sue, each with their own personalities and tactics.  One touch from any of these ghosts means a loss of life for Ms. Pac-Man.
+
+Ms. Pac-Man can turn the tables on her pursuers by eating one of the four Energizers located within the maze. During this time, the ghosts turn blue, and Ms. Pac-Man can eat them for bonus points. The Energizer power only lasts for a limited amount of time, as the ghost's eyes float back to their center box, and regenerate to chase after Ms. Pac-Man again.
+
+Survive a few rounds of gameplay, and the player will be treated to humorous intermissions showing the growing romantic relationship between Pac-Man and Ms. Pac-Man, leading all the way up to the arrival of "Junior".</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/snes/Ms. Pac-Man (USA)-image.jpg</image>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Puzzle</genre>
+	</game>
+	<game>
+		<path>./Out of This World (USA).sfc</path>
+		<name>Out of this World (USA)</name>
+		<desc>You'll think you're actually on a movie set when you star in the cinematic action/adventure Out Of This World.
+Out Of This World is like no other game on the Super NES. Using a completely new graphic system of cinematic zooms, pans, close-ups, and cuts, Out Of This World gets you involved in a breathtaking story of inter-dimensional travel.
+You'll duck as lasers blast, boulders crash, and monsters roar. The complete musical score and realistic, digitized sound effects will make you feel like you're on a movie sound stage.
+Being a hero is hard work, and you'll experience it first-hand as you run, jump, dodge, and shoot your way across a hostile world of deadly earthquakes and alien monsters. So, grab your hat and whip, charge up your blasters, and get ready to star in your own movie that'll take you Out Of This World!</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/snes/Out of This World (USA)-image.jpg</image>
+		<releasedate>19921101T000000</releasedate>
+		<developer></developer>
+		<publisher>Interplay</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Pac-Attack (USA).sfc</path>
+		<name>Pac-Attack (USA)</name>
+		<desc>Based on Namco's Japanese-only arcade puzzler Cosmo Gang the Puzzle, Pac-Attack is similar to many block-dropping puzzle games from the time, such as Puyo Puyo.
+
+The objective of the game is to place ghosts and then, after three pieces (which can include one or two blocks as well), make Pac-Man eat as many ghosts as possible to try and clear up the game area. Pac-Man's directions are chosen at random between left or right, but as he goes moving on the game area (after you place him, of course), if he bumps against a block or a "wall" on the game area, he will change his direction. As with many block-dropping puzzlers, if a line of blocks and/or ghosts reaches the top, the game ends. However, by filling up a meter on the left of the game area, a fairy may appear that can clear approximately 6 or 7 lines with ghosts, but it only clears the ghosts, although the blocks that were on top of them will drop.
+
+Also, like many puzzlers, it contains a versus mode against another human player. It's similar to the many versus modes of puzzle games: eat plenty of ghosts and your opponent will recieve many ghosts on his area.
+
+The game also includes a Puzzle mode. It features 100 levels, in which you have to eat all ghosts with no more than 4 Pac-Men at least (the number reduces in certain levels), and, unlike the other modes, you can change Pac-Man's direction with the press of a button.
+
+All of the handheld versions (including the one on Pac-Man Collection) lack the versus mode.</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/snes/Pac-Attack (USA)-image.jpg</image>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Puzzle</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Pac-in-Time (USA).sfc</path>
+		<name>Pac-In-Time (USA)</name>
+		<desc>Everybody knows what/who Pac-Man is from his heyday in the '80s, but this time, we're getting a whole new adventure of our little eater. Guess his stomach is full, 'cause there's nothing much to eat here, only collecting points. This is much like some Indiana Jones adventure, only your little hero's Pac-Man instead of Harrison Ford.
+
+Pac-in-time is the US release of Fury of the Furries. It's exactly the same game. Only the characters were changed: the not-so-known European Tinies (from the Skweek/Super Skweek/Tiny Skweeks/Brainies/Tinies games) were replaced by the widely known Pac-Man.</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/snes/Pac-in-Time (USA)-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19941201T000000</releasedate>
+		<developer>Kalisto Entertainment</developer>
+		<publisher>Namco</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Pac-Man 2 - The New Adventures (USA).sfc</path>
+		<name>Pac-Man 2 - The New Adventures (USA)</name>
+		<desc>In Pac-Man 2, the player plays the role of an observer and assistant that follows Pac-Man as he sets out to accomplish various tasks. Pac-Man himself walks around in a cartoon world and interacts directly with the player, as well as with objects and other characters. The player cannot control Pac-Man directly, but instead can direct his attention in various directions, and is armed with a slingshot that can be used to strike certain objects, including Pac-Man himself.</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/snes/Pac-Man 2 - The New Adventures (USA)-image.jpg</image>
+		<releasedate>19940901T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Adventure</genre>
+	</game>
+	<game>
+		<path>./Pilotwings (USA).sfc</path>
+		<name>Pilotwings (USA)</name>
+		<desc>Are you ready to earn your wings at the most exclusive flight school in the world? Then report immediately to the secret Pilotwings Flight Club, where your training begins! You'll see the ground twist beneath you as you jump from your plane and attempt a precision skydive (don't forget to pull your rip cord!). You'll relive the early days of flying as you bring your biplane in for a pin-point landing. After you master the basics, you'll be called on to test an experimental rocket pack, soar in a hang glider, and pilot an advanced attack helicopter in a hazardous rescure mission.
+
+The realism is incredible as the Super NES takes you airborne with multi-dimensional graphics, endless skylines and the freedom to fly wherever you like. Do you have what it takes to earn your wings? Then get going! You're late for your first class!</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/snes/Pilotwings (USA)-image.jpg</image>
+		<rating>0.8333299999999999</rating>
+		<releasedate>19910823T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Flight Simulator</genre>
+	</game>
+	<game>
+		<path>./Pitfall - The Mayan Adventure (USA).sfc</path>
+		<name>Pitfall - The Mayan Adventure (USA)</name>
+		<desc>Pitfall: The Mayan Adventure is a side-scrolling action game in which you play adventurer Pitfall Harry Jr in search of his father Pitfall Harry. You battle your way through the Mayan jungles, waterfalls, deserted mines and can bungee jump and boomerang your way to safety. There are 13 levels and the action is fast and gripping. You will need to be attentiveand quick. Or prepare to die.</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/snes/Pitfall - The Mayan Adventure (USA)-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19941101T000000</releasedate>
+		<developer>Redline Games</developer>
+		<publisher>Activision</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Prince of Persia (USA).sfc</path>
+		<name>Prince of Persia (USA)</name>
+		<desc>The Grand Vizier Jaffar has thrown you into a dark dungeon and plans to marry the girl of your dreams in an hour. You're not going to let that happen are you? Try to escape from the dungeon, take out Jaffar's guards, find your way through the Sultan's palace and defeat Jaffar himself. Now go, you've got 60 minutes!
+
+Prince of Persia is a 2D platformer with run and jump gameplay. Your hero must avoid deadly traps, solve some simple puzzles and engage in sword fights with the guards. The player has an infinite amount of lives, but has to restart at the beginning of a level each time he dies, and must complete the game within an hour. An especially noteworthy aspect of the game is the very fluent animation of your character.
+
+The Game Boy Color and SNES versions of the game feature additional levels and new enemies.</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/snes/Prince of Persia (USA)-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19921101T000000</releasedate>
+		<developer>Brøderbund</developer>
+		<publisher>Konami</publisher>
+		<genre>Adventure</genre>
+	</game>
+	<game>
+		<path>./Prince of Persia 2 - The Shadow &amp; The Flame (USA).sfc</path>
+		<name>Prince of Persia 2 (USA)</name>
+		<desc>Journey back to Persia in the swashbuckling sequel to the award winning Prince Of Persia. Prince of Persia 2 is alive with breathtakingly fluid animation and scenery so rich in colour and feeling it'll change you forever.
+
+- Life-like sword fighting, now against multiple opponents.
+- Journey through 5 exotic scenarios.
+- 15 treacherous new levels with even more traps and puzzles.
+- Stunning animations based on real life human models</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/snes/Prince of Persia 2 - The Shadow &amp; The Flame (USA)-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19961001T000000</releasedate>
+		<developer>Titus</developer>
+		<publisher>Titus</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Secret of Mana (USA).sfc</path>
+		<name>Secret of Mana (USA)</name>
+		<desc>A young boy unearths an ancient sword, disgracing his village and unleashing a curse. Exiled from his hometown, he must travel to the ends of the earth to mend his mistake. Allies and Elementals will aid him in his fight against the Empire and the long-forgotten power they plan to unleash.</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/snes/Secret of Mana (USA)-image.jpg</image>
+		<rating>0.82941</rating>
+		<releasedate>19930806T000000</releasedate>
+		<developer>Squaresoft</developer>
+		<publisher>Squaresoft</publisher>
+		<genre>Action</genre>
+		<players>3</players>
+	</game>
+	<game>
+		<path>./Simpsons, The - Bart's Nightmare (USA).sfc</path>
+		<name>Simpsons, The - Bart's Nightmare (USA)</name>
+		<desc>Bart has to stay up late and write a paper for class tomorrow. For once, he is determined to get a good mark. However, very quickly, he falls asleep. Nightmare after nightmare haunt his subconscious, and it is up to you to get over each one, so that Bart will eventually wake up. From such dreams as being in an episode of Itchy &amp; Scratchy to swimming through his own bloodstream, this platformer offers a nice challenge through its many diverse levels.</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/snes/Simpsons, The - Bart's Nightmare (USA)-image.jpg</image>
+		<rating>0.4</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Sculptured Software</developer>
+		<publisher>Acclaim</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Smurfs, The (Europe).sfc</path>
+		<name>Smurfs, The (Europe) (En,Fr,De,Es,It)</name>
+		<desc>Smurf to the rescue! Gargamel has already captured 4 Smurfs, Jocky Smurf, Greedy Smurf, Brainy Smurf and Smurfette. To free them you will have to smurf the Angry Smurfs and BUZZ flies before smurfing the mountain by sled, then smurfing the maze mine galleries, smurfing on the back of a stork to smurf Azrael and finally smurf Gargamel from his mansion!
+Good Smurf!</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/snes/Smurfs, The (Europe)-image.jpg</image>
+		<rating>0.75</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Infogrames</developer>
+		<publisher>Infogrames</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Space Invaders - The Original Game (USA).zip</path>
+		<name>Space Invaders (USA)</name>
+		<desc>Space Invaders is a game in which the player controls a laser cannon by moving it horizontally across the bottom of the screen and firing at descending aliens. 
+The aim is to defeat five rows of eleven alienssome versions feature different numbersthat move horizontally back and forth across the screen as they advance towards the bottom of the screen. The player defeats an alien, and earns points, by shooting it with the laser cannon. As more aliens are defeated, the aliens' movement and the game's music both speed up.</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/snes/Space Invaders - The Original Game (USA)-image.jpg</image>
+		<releasedate>19971101T000000</releasedate>
+		<developer>Taito Corporation</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Spider-Man (USA).sfc</path>
+		<name>Spider-Man (USA)</name>
+		<desc>You play as Spider-Man, using you usual spider abilities to fight off the bad guys: web-spinning, kicking, punching.
+
+The story is about three of your enemies escaping from prison, namely Dr. Octopus, The Green Goblin and Smythe, and it is you job to find them and "kick their butts" as the intro states. During the levels you'll also encounter a lot of robots, in different shapes and sizes.</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/snes/Spider-Man (USA)-image.jpg</image>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Acclaim Entertainment</developer>
+		<publisher>Cosmo</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Star Fox (USA) (Rev 2).sfc</path>
+		<name>Star Fox (USA) (Rev 2)</name>
+		<desc>Lead the Star Fox Team to Victory!
+
+In the distant Lylat star system, imagine yourself at the controls of a futuristic, heavily armed, space fighter - Arwing.
+
+Lead the counter-attack on an invasion force of hundreds of alien tanks, fighter ships, laser gun emplacements and super battleships.  Maneuver at warp speed through fog-enshrouded canyons, dense asteroid belts and waves of the enemy's best defense.  You must use skill and cunning to bring the fight to the enemy's home planet Venom and smash the Core Brain for victory!
+
+* The Super FX micro chip is on-board for fluid game control and special effects previously unavailable in home video games!  The action explodes from all directions in realistic, real-time, three dimensions.</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/snes/Star Fox (USA) (Rev 2)-image.jpg</image>
+		<rating>0.56667</rating>
+		<releasedate>19930221T000000</releasedate>
+		<developer>Argonaut</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Shooter</genre>
+	</game>
+	<game>
+		<path>./Street Fighter Alpha 2 (USA).sfc</path>
+		<name>Street Fighter Alpha 2 (USA)</name>
+		<desc>DO YOU HAVE WHAT IT TAKES?
+
+The bad boys from the Street Fighter series are back for more fisticuffs of fury! Eighteen different combatants, some old and some new, are here to lay claim to the title "World's Best". Screamin' moves like Ken's Dragon Punch, Adon's Jaguar Tooth and M. Bison's Somersault Skull Driver will blow you away! Play alone or pummel a friend in two-player simultaneous action. This ain't no cakewalk. This ain't no cakewalk. This is Street Fighter Alpha 2 and it's blazing on your Super NES!</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/snes/Street Fighter Alpha 2 (USA)-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19961220T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Street Fighter II (USA).sfc</path>
+		<name>Street Fighter II (USA)</name>
+		<desc>GET READY TO RUMBLE!
+
+From across the globe comes eight of the wildest fighters the world has ever known. Choose your champion, gather your courage and prepare to battle your opponents in a bare knuckle brawl. Face Ken and his devastating "Dragon Punch"! Watch the temperature rise as Dhalsim incinerates you with his mystical Yoga Flame! Hear your spine crack as Zangief smashes you to the pavement with his spinning pile driver! Cover your ears as Guile breaks the sound barrier with the awesome power of the Sonic Boom!
+
+Annihilate your competition and claim the right to test your skills against the bone-crushing power of the Grand Masters! Can you survive? Can Anyone?</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/snes/Street Fighter II (USA)-image.jpg</image>
+		<rating>0.625</rating>
+		<releasedate>19920610T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Street Fighter II Turbo (USA).sfc</path>
+		<name>Street Fighter II Turbo (USA)</name>
+		<desc>Feel the Need for Speed!
+
+They're back and they're badder than ever! Faster, stronger and with all new moves, twelve of the greatest fighters from across the globe are ready to do battle! Choose your champion and get ready for the big brawl as they try to earn the right to battle M. Bison for the title. And just when you think you've mastered it all, crank it up a notch and go TURBO!
+
+Cover your head as Blanka dives at you from above and hear your neck crack as Zangief hits you with the Turbo Spinning Clothesline. Stare in disbelief as Dhalsim disappears before your eyes and Chun Li unleashes her blazing fireball! Watch in awe as Sagat fights Sagat and Ryu does a Hurricane Kick in mid-air! Survive all this and you may live long enough to become the greatest Street Fighter ever!</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/snes/Street Fighter II Turbo (USA)-image.jpg</image>
+		<rating>0.76667</rating>
+		<releasedate></releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Super Adventure Island (USA).sfc</path>
+		<name>Super Adventure Island (USA)</name>
+		<desc>Master Higgins is back in his wildest and greatest adventure of all! His girlfriend, Jeannie Jungle, has been turned to stone by the evil Dark Cloak. Now he must leap into action to defeat the scores of guardian animals and monsters that protect the wicked wizard.
+Join Master Higgins as he reaches new heights of adventure on his high flying skateboard. Speed through underground caves in a crazy mine car ride! Go from tropical shores to the belly of a whale - all in search of his final battle with the mad magician, Dark Cloak!</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/snes/Super Adventure Island (USA)-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19920401T000000</releasedate>
+		<developer>Produce</developer>
+		<publisher>Hudson</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Super Adventure Island II (USA).sfc</path>
+		<name>Super Adventure Island II (USA)</name>
+		<desc>Master Higgins finally marries his lovely girlfriend Tina. But out of nowhere, a powerful tropical cyclone destroyed the idyllic mood of their honeymoon. And not only this: it separated the ardent lovers again. After the winds stopped blowing, Tina found herself somewhere on a tropical coast. As for Master Higgins, he went to the king of Waku-Waku and, along with his main quest to save his brand new wife, got an assignment to save also a princess, whom the king was about to marry. Is there a connection between those two events?..</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/snes/Super Adventure Island II (USA)-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19941001T000000</releasedate>
+		<developer>Make</developer>
+		<publisher>Hudson</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Super Mario All-Stars (USA).sfc</path>
+		<name>Super Mario All-Stars (USA)</name>
+		<desc>Revisit the magic and fun of the classic Super Mario Bros. series on your Super NES!  All the great Super Mario Bros. games for the NES have been powered up with 16-bit graphics and sound and collected on one super game pak.  As an added bonus, the previously unreleased "Lost Levels" are included.  These super challenging courses have never been available in this country until now!
+
+* Four great games in one game pak!
+* Battery backed memory saves up to 4 players' progress through every game!
+* Play alone or 2 players can alternate play!
+* New 16-bit graphics, sound, and other surprises!</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/snes/Super Mario All-Stars (USA)-image.jpg</image>
+		<rating>0.72963</rating>
+		<releasedate>19930801T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Super Mario All-Stars + Super Mario World (USA).sfc</path>
+		<name>Super Mario All-Stars + Super Mario World (USA)</name>
+		<desc>Revisit the magic and fun of the classic Super Mario Bros. series on your Super NES!  Play through Super Mario World, plus all the great Super Mario Bros. games for the NES have been powered up with 16-bit graphics and sound and collected on one super game pak.  As an added bonus, the previously unreleased "Lost Levels" are included.  These super challenging courses have never been available in this country until now!
+
+* Five great games in one game pak!  Play through Super Mario Bros., Super Mario Bros. Lost Levels, Super Mario Bros. 2, Super Mario Bros. 3 &amp; Super Mario World!
+* Battery backed memory saves up to 4 players' progress through every game!
+* Play alone or 2 players can alternate play!
+* New 16-bit graphics, sound, and other surprises!</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/snes/Super Mario All-Stars + Super Mario World (USA)-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19931216T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Adventure</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Super Mario Kart (USA).zip</path>
+		<name>Super Mario Kart (USA)</name>
+		<desc>The Super Mario GoKart Park is open for tons of racing fun!  Hit the track with Mario, Luigi, Yoshi and the Princess.  Get tough and lock fenders with Donkey Kong, Jr. and Bowser.  Even Toad and Koopa Troopa will mix it up in an all-out quest for the Gold Cup!  Race head-to-head with a friend or challenge the computer in great, split-screen, Mode 7 graphics.
+
+Feel like a bit less speed and a lot more strategy?  Take a crack at the Battle Mode!  In four different maze-like courses you'll use Koopa Shells, Banana Peels, Super Stars and other wacky weapons to burst your opponent's target balloons and triumph!
+
+* 2 games in 1 - Mario Grand Prix and Battle Mode
+* 8  Familiar Characters
+* 20 Different Tracks
+* 3 Different Skill Levels
+* Battery-backed memory saves your best times!</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/snes/Super Mario Kart (USA)-image.jpg</image>
+		<rating>0.7117600000000001</rating>
+		<releasedate>19920901T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Racing</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Super Mario RPG - Legend of the Seven Stars (USA).sfc</path>
+		<name>Super Mario RPG - Legend of the Seven Stars (USA)</name>
+		<desc>Mario returns in this incredible new role-playing adventure! His latest rival is Smithy, a menacing creature who causes fear and treachery in the Mushroom Kingdom. Mario must recover seven stars and repair the Star Road before he can make his way to Bowser's castle for a final confrontation with Smithy. Powerful weapons, sinister spells and other useful items help Mario to complete his harrowing journey. New friends and old allies support him along the way. Even Bowser lends a hand!</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/snes/Super Mario RPG - Legend of the Seven Stars (USA)-image.jpg</image>
+		<rating>0.7692300000000001</rating>
+		<releasedate>19960513T000000</releasedate>
+		<developer>Squaresoft</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Super Mario World (USA).sfc</path>
+		<name>Super Mario World (USA)</name>
+		<desc>Mario's off on his biggest adventure ever, and this time he's brought along a friend.  Yoshi the dinosaur teams up with Mario to battle Bowser, who has kidnapped Princess Toadstool once again.  Guide Mario and Yoshi through nine peril-filled worlds to the final showdown in Bowser's castle.
+
+Use Mario's new powers and Yoshi's voracious monster-gobbling appetite as you explore 96 levels filled with dangerous new monsters and traps.  Climb mountains and cross rivers, and descend into subterranean depths.  Destroy the seven Koopa castles and find keys to gain entrance to hidden levels.  Discover more warps and thrilling bonus worlds than ever before!
+
+Mario's back, and this time he's better than ever!</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/snes/Super Mario World (USA)-image.jpg</image>
+		<rating>0.73704</rating>
+		<releasedate>19901121T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Super Mario World 2 - Yoshi's Island (USA) (Rev 1).sfc</path>
+		<name>Super Mario World 2 - Yoshi's Island (USA) (Rev 1)</name>
+		<desc>The Evil Magikoopa, Kamek, is out to kidnap Baby Mario!  In this sequel to Super Mario World, you play as Yoshi.  Your goal is to successfully carry Baby Mario back to his parents in the Mushroom Kingdom while avoiding all of Kamek's clever traps and evil minions.  Enjoy the various backgrounds of the rich and vibrant locales of Yoshi's Island as you race to complete your quest.
+
+Is Yoshi up to the momentous task at hand?  Help him toss his eggs, manipulate unique objects and solve puzzling situations!  When in doubt, don't be afraid to try EVERYTHING!!
+
+* 16 megs of memory provide 6 worlds - each with 8 stages!
+* Morphmation delivers powerful special effects - scaling, rotating, and 360 degree scrolling.
+* Huge characters and even bigger bosses require quick thinking!
+* Battery back-up to save your progress.</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/snes/Super Mario World 2 - Yoshi's Island (USA) (Rev 1)-image.jpg</image>
+		<rating>0.775</rating>
+		<releasedate>19951004T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Tetris &amp; Dr. Mario (USA).sfc</path>
+		<name>Tetris &amp; Dr. Mario (USA)</name>
+		<desc>The two greatest puzzle games are now together in one exciting game pak only on Super NES! TETRIS: The relentless building block video puzzle from Russia is back and enhanced for Super NES. Play solo, with a friend or challenge one of three computer opponents in this exciting and addicting game! DR. MARIO: Those nasty viruses have returned. Dr. Mario, vitamin pills in hand, is ready to eliminate them once more. In addition to the ever-popular 2-player game, now you can challenge the computer in the guise of the Blue, Yellow or Red Virus. MIXED MATCH: Combine Tetris and Dr. Mario and what do you get? One exciting contest for 2 players! Race against the clock to outscore your opponent while playing both Tetris and Dr. Mario!</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/snes/Tetris &amp; Dr. Mario (USA)-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19941201T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Puzzle</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Tetris 2 (USA) (Rev 1).sfc</path>
+		<name>Tetris 2 (USA) (Rev 1)</name>
+		<desc>The mesmerizing fun of Tetris returns - and the challenge escalates to new heights! Test your dexterity, tease your brain and rack up points with Tetris 2. Your split-second decisions lead you to a new dimension in puzzle-solving action! Play alone or challenge a friend in simultaneous split-screen action. A tougher Tetris with more shapes, more components, 30 levels - and unlimited solutions! If you loved the international game sensation Tetris, you'll be wild for the newest dimension in puzzle fun: Tetris 2!</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/snes/Tetris 2 (USA) (Rev 1)-image.jpg</image>
+		<releasedate>19940808T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Puzzle</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Tetris Attack (USA).sfc</path>
+		<name>Tetris Attack (USA) (En,Ja)</name>
+		<desc>The Tetris sensation has landed at Yoshi's Island. Kamek and Bowser await to test your dexterity with a demanding race of strategic moves in this exciting new contest. As the stack of perplexing panels rises from the bottom, think fast to counteract the merciless enemy attack dropping in from above. Rapid switches and quick response are the key to clearing the way to the next challenging level. An incredible selection of competitive modes and options provide escalating action and endless fun!</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/snes/Tetris Attack (USA)-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19961103T000000</releasedate>
+		<developer>Intelligent Systems</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Puzzle</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Tiny Toon Adventures - Buster Busts Loose! (USA).sfc</path>
+		<name>Tiny Toon Adventures - Buster Busts Loose! (USA)</name>
+		<desc>It's just like a real cartoon, except you're the main character!
+
+But be warned. Accept the role of Buster Bunny, and your tail will be on the line against Calamity Coyote, Elmyra, Dizzy Devil, Dr. Gene Splicer, Montana Max and gazillions of other 16 bit bullies craving a pot of Hasenpfeffer stew. Gulp!
+
+Only you can stop those pesky pranksters from getting the jump on your pal Buster Bunny. But it won't be cake, Jake! You'll have to use Buster's all new Spin Kick and Mad Dash to bust through ACME Looniversity's toughest classes. If you pass that test, you'll hop aboard a Wild West Train Ride. Then explore a spooky Monster Mansion. Play in a far-out Foot Game. Bounce through an aerial Sky Jinx in search of stratospheric treasures. And blast-off on a Babs Bunny (no relation!) rescure mission that's totally spaced-out.
+
+Ready to fork over the bucks, Buster? Well hang on your ears - there's more! Between each level are five subgames, including Furrball's Championship Squash, Hungry Boy Hamton and Plucky Duck's Go-Go Bingo. SO ACTUALLY IT'S LIKE ELEVEN GAMES IN ONE! And we haven't even mentioned the Pinball Wizardry, Acme Anvils and Icky Tricky Sticky Traps that'll make you feel like you're in an actual cartoon.
+
+Wow! To make it through all that Buster better have a lucky bunny's foot. Or else you'll be the one getting stewed!</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/snes/Tiny Toon Adventures - Buster Busts Loose! (USA)-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19930201T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Tiny Toon Adventures - Wacky Sports Challenge (USA).sfc</path>
+		<name>Tiny Toon Adventures - Wacky Sports Challenge (USA)</name>
+		<desc>Humor! Wackiness! Sports!
+ls that what you're looking for? if so. this game's got it! Plus cool graphics.
+
+STARRING YOUR FAVORITE TINY TOON ADVENTURES CHARACTERS FROM THE ANIMATED TV SERIES!!
+You can play as Buster Bunny. Babs Bunny (no relation). Plucky Duck or Dizzy
+Devil! You'll also run into your other favorite cast characters.
+
+HIDDEN BONUSES!!! TWELVE DIFFERENT EVENTS!!! MULTIPLE SKILL LEVELS WITH DIFFERENT HAZARDS!!!
+Face it. if you want a laugh riot. sports action. and tons of replay value. then this is the game you're looking for! Just check out those screen shots.
+
+BUY THE GAME. PLAY THE GAME. BE THE GAME.
+Besides. where else are you going to find Bungee Jumping, Chicken Race. Ice Cream Toss, Weight Lifting and eight other games in one convenient package?</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/snes/Tiny Toon Adventures - Wacky Sports Challenge (USA)-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19941201T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Sports</genre>
+		<players>4</players>
+	</game>
+	<game>
+		<path>./Toy Story (USA).sfc</path>
+		<name>Toy Story (USA)</name>
+		<desc>This game is based on the movie "Toy Story". It sets you as the character of Woody as you jump, swing and drive to the end of each level. Each level contains familiar scenes from the movie. The gameplay consists of the platform\sidescrolling kind. You use Woody's pullstring to defeat enemies like sharks, Mr. Potatohead and Ham. After each level, you are treated to still images from the movie.</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/snes/Toy Story (USA)-image.jpg</image>
+		<rating>0.56667</rating>
+		<releasedate>19951201T000000</releasedate>
+		<developer>Disney Interactive</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Virtual Bart (USA).sfc</path>
+		<name>Virtual Bart (USA)</name>
+		<desc>Bart is in a heap of technical trouble - he's stuck in a virtual reality machine!!! Enter the Jurassic era as Dino Bart, and stomp through stone age mayhem. Battle Nelson and the gang in a post apocalyptic Springfield as Doomsday Bart. Deploy your diaper-chute as Baby Bart and hog the spotlight as Pork Factory Pig Bart. Even go for a butt squeaking thrill-ride down the dangerous Mt. Splashmore and more!</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/snes/Virtual Bart (USA)-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>19940901T000000</releasedate>
+		<developer>Sculptured Software</developer>
+		<publisher>Acclaim</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Wario's Woods (USA).sfc</path>
+		<name>Wario's Woods (USA)</name>
+		<desc>It's up to Toad to keep the woods safe in this new Super NES puzzle action!
+
+Toad is back in his very own big adventure in this game with the challenge of Tetris. It's up to you and Toad to keep peace in the Mushroom Kingdom - and that means outfoxing the wicked Wario!
+
+Monsters, goblins and bombs fall from the sky faster and faster as Wario fires them into the woods. Toad must scramble to catch and line up the falling puzzle pieces to eliminate Wario's evil hold. If you loved Tetris, this puzzle action game is for you!</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/snes/Wario's Woods (USA)-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Intelligent Systems</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Puzzle</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Wizardry V - Heart of the Maelstrom (USA).sfc</path>
+		<name>Wizardry V - Heart of the Maelstrom (USA)</name>
+		<desc>Despite the defeat of Trebor, Werdna, and L'kbreth, dark times once again threaten the kingdom of Llylgamyn.  So once again a party of adventurers must venture forth to vanquish the evil.
+
+Wizardry V represents a complete revision of the gaming system used in the first four installments, with larger mazes, new spells and character classes, and an expanded system for combatting and interacting with creatures.  It is also the first game in the series that allows, but does not require characters imported from a previous scenario.</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/snes/Wizardry V - Heart of the Maelstrom (USA)-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19940401T000000</releasedate>
+		<developer>ASCII</developer>
+		<publisher>Capcom</publisher>
+		<genre>Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Yoshi's Cookie (USA).sfc</path>
+		<name>Yoshi's Cookie (USA)</name>
+		<desc>Yoshi's Cookie is a fast-paced puzzle game that can be enjoyed by everyone as it is easy to play, but challenging to complete. To play, you move the randomly placed cookies into rows and columns of cookies with similar patterns. When you successfully assemble a row or column of the same cookies, the line will disappear, and you can begin on a new row or column. The "Yoshi" cookie is very special in both the 1-player and the 2-player game. Since the Yoshi Cookie is the key to both games, you must use it wisely.</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/snes/Yoshi's Cookie (USA)-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19930601T000000</releasedate>
+		<developer>Bullet Proof Software</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Puzzle</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Yoshi's Safari (USA).sfc</path>
+		<name>Yoshi's Safari (USA)</name>
+		<desc>In Yoshi's Safari, Bowser, King of the Koopas, and his evil offspring have invaded Jewelry Land. The Koopalings have seized the Kingdom's precious jewels. It's up to Mario, armed with his trusty Super Scope, to ride Yoshi to track down Bowser and put a stop to his evil plans.</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/snes/Yoshi's Safari (USA)-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19930901T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Shooter</genre>
+	</game>
+</gameList>

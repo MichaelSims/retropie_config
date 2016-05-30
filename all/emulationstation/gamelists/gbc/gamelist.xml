@@ -1,2 +1,87 @@
 <?xml version="1.0"?>
-<gameList />
+<gameList>
+	<game>
+		<path>./Frogger (USA) (Rev B).gbc</path>
+		<name>Frogger (USA) (Rev B)</name>
+		<desc>It's tough to be a frog! Life isn't all lazy days and lily pads--it abounds with dangers. Can you help Frogger survive some perils and spring him home to safety? First hop your frogs across a busy highway. Then cross a raging river to reach the safety of home. But your frogs will have to leap away from one danger after another before they're safe. Watch out for the tricky diving turtles...jump away from the frog-eating snakes...hop from the jaws of the hungry alligators!</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/gbc/Frogger (USA) (Rev B)-image.jpg</image>
+		<releasedate>19981231T000000</releasedate>
+		<developer>Morning Star Multimedia</developer>
+		<publisher>Majesco Games</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Frogger 2 (USA).gbc</path>
+		<name>Frogger 2 (USA)</name>
+		<desc>It's fast and furious action from start to finish for Frogger and his new friend, Lillie Frog. Help them save the Frog Babies from Swampy the crocodile.</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/gbc/Frogger 2 (USA)-image.jpg</image>
+		<releasedate>20000923T000000</releasedate>
+		<developer>Morning Star Multimedia</developer>
+		<publisher>Hasbro Interactive</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Gex - Enter the Gecko (USA, Europe).gbc</path>
+		<name>Gex - Enter the Gecko (USA, Europe)</name>
+		<desc>After saving the television realm from destruction, Gex retired to Maui. Unfortunately, Rez has returned and wants to take over the television realm again. Now Gex must come out of retirement. Guide him through 26 levels, each with a number of missions to complete. Finishing a mission will earn a remote control; collect enough remotes and new stages open. In all of the levels, Gex will have to either avoid or fight enemies. Luckily, he is equipped with a tail that can whip the bad guys into shape. To further aid in the fight, Gex can eat flies that will grant him an extra life or increase the power of his attacks, among other things. Help the gecko with attitude save the television realm in GEX: Enter the Gecko.</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/gbc/Gex - Enter the Gecko (USA, Europe)-image.jpg</image>
+		<releasedate>19981201T000000</releasedate>
+		<developer>David A. Palmer Productions</developer>
+		<publisher>Crave</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Mario Golf (USA).gbc</path>
+		<name>Mario Golf (USA)</name>
+		<desc>Forget buying expensive golf gear--Mario brings the game to you. Mario Golf features four complete 18-hole courses, 11 golfers, and precise play control. Create your own golfer and build up his or her experience and skill levels by competing in various tournaments and head-to-head matches. The more you play, the stronger and more accurate your golfer becomes. There are many different modes of play in Mario Golf, including a wide variety of minigames designed to challenge even the most level-headed swingers.</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/gbc/Mario Golf (USA)-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>19991001T000000</releasedate>
+		<developer>Camelot Software Planning</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Mario Tennis (USA).gbc</path>
+		<name>Mario Tennis (USA)</name>
+		<desc>Take your game to the next level with mario Tennis! Get advice from coaches, test your groundstrokes against "The Wall," then hit the courts to ace the competition and earn a spot on the varsity squad. Play your way to the top on your own in singles, or power up a partner for doubles competition. When you're good enough, you'll enter the Island Open, where you'll face the fiercast players around...and maybe even challenge the greatest player of all-Mario!</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/gbc/Mario Tennis (USA)-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>20010616T000000</releasedate>
+		<developer>Camelot Software Planning</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Mr. Driller (USA).gbc</path>
+		<name>Mr. Driller (USA)</name>
+		<desc>Mr Driller is a real-time puzzle game that relies solely on quick-thinking and a bit of planning. Gameplay is a combination of Tetris and Boulder Dash: You have to drill down through multi-colored blocks to reach the bottom while avoiding the consequences of reckless drilling (blocks may fall on you and crush you).</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/gbc/Mr. Driller (USA)-image.jpg</image>
+		<releasedate></releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre></genre>
+	</game>
+	<game>
+		<path>./Space Invaders (USA).gbc</path>
+		<name>Space Invaders (USA, Europe)</name>
+		<desc>Aliens are trying to take over the solar system, and you're the only one that can stop them. You are the best pilot on Earth, and you must defend all of the planets. After choosing your vehicle from the three that are available, it will stay at the bottom of the screen as a formation of aliens slowly moves down the screen. Your job is simple: blast the aliens out the sky. When they are decimated, you will move on to the next level. Fortunately, there are several power-ups available including electricity, solar flares, bubbles, shurikens, and others. As you progress through the game, new aliens with new formations will appear, not mention a boss character or two. If you are lucky enough to make it through all of the game levels, you will be able to play a version of the original arcade game released in the late '70s. Defend the Earth from tyranny in SPACE INVADERS.</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/gbc/Space Invaders (USA)-image.jpg</image>
+		<releasedate>19991022T000000</releasedate>
+		<developer>Crawfish Interactive</developer>
+		<publisher>Activision</publisher>
+		<genre>Shooter</genre>
+	</game>
+	<game>
+		<path>./SpongeBob SquarePants - Legend of the Lost Spatula (USA, Europe).gbc</path>
+		<name>SpongeBob SquarePants - Legend of the Lost Spatula (USA, Europe)</name>
+		<desc>SpongeBob SquarePants makes his first appearance on Game Boy Color in the Legend of the Lost Spatula. As the wacky-but-popular character from the TV cartoon you'll head out on an undersea quest to find the Flying Dutchman's Golden Spatula in order to become the ocean's greatest short-order cook. More than 10 stages full of adventure and side-scrolling action make up this epic treasure hunt. Along the way, you'll meet and interact with many of the show's popular recurring characters like Mr. Krabs, Squidward, Sandy Cheeks, and Patrick Star. Keep an eye out for hidden clues to the Golden Spatula's whereabouts as you make your way through each stage, but also be wary of enemies and obstacles. Colorful cutscenes tell the story between levels, and you can use the password system to save your progress through the game. SPONGEBOB SQUAREPANTS: Legend of the Lost Spatula is only compatible with Game Boy Color systems.</desc>
+		<image>/home/pi/.emulationstation/downloaded_images/gbc/SpongeBob SquarePants - Legend of the Lost Spatula (USA, Europe)-image.jpg</image>
+		<releasedate>20010314T000000</releasedate>
+		<developer>Vicarious Visions</developer>
+		<publisher>THQ</publisher>
+		<genre>Action</genre>
+	</game>
+</gameList>
