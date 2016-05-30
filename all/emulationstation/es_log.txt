@@ -109,14 +109,18 @@ lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/zmachine/gamelist.
 lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/zxspectrum/gamelist.xml"...
 lvl1: 	System "zxspectrum" has no games! Ignoring it.
 lvl1: 	 requested mismatched theme type for [detailed.md_releasedate] - expected "datetime", got "text"
-lvl2: 	 req sound [basic.launch]
-lvl2: 	   (missing)
-lvl2: 	Attempting to launch game...
-lvl2: 		/opt/retropie/supplementary/runcommand/runcommand.sh 0 _SYS_ snes /home/pi/RetroPie/roms/snes/Super\ Mario\ Kart\ \(USA\).zip
-lvl2: 	Creating surface...
-lvl2: 	Created window successfully.
-lvl2: 	Added known joystick USB,2-axis 8-button gamepad   (instance ID: 0, device index: 0)
-lvl2: 	Added known joystick USB,2-axis 8-button gamepad   (instance ID: 1, device index: 1)
-lvl2: 	Added known joystick USB,2-axis 8-button gamepad   (instance ID: 0, device index: 0)
-lvl2: 	Added known joystick USB,2-axis 8-button gamepad   (instance ID: 1, device index: 1)
+lvl1: 	OptionListComponent too narrow!
+lvl1: 	OptionListComponent too narrow!
+lvl1: 	OptionListComponent too narrow!
+lvl1: 	 requested mismatched theme type for [detailed.md_releasedate] - expected "datetime", got "text"
+lvl1: 	OptionListComponent too narrow!
+lvl2: 	Added known joystick USB,2-axis 8-button gamepad   (instance ID: 2, device index: 0)
+lvl1: 	OptionListComponent too narrow!
+lvl1: 	OptionListComponent too narrow!
+lvl1: 	OptionListComponent too narrow!
+lvl1: 	 requested mismatched theme type for [detailed.md_releasedate] - expected "datetime", got "text"
+lvl1: 	OptionListComponent too narrow!
+lvl1: 	OptionListComponent too narrow!
+lvl1: 	OptionListComponent too narrow!
+lvl1: 	 requested mismatched theme type for [detailed.md_releasedate] - expected "datetime", got "text"
 lvl2: 	EmulationStation cleanly shutting down.
