@@ -1,7 +1,7 @@
 lvl2: 	EmulationStation - v2.0.1a, built Apr 20 2016 - 22:51:41
 lvl2: 	Creating surface...
 lvl2: 	Created window successfully.
-lvl2: 	Added known joystick USB,2-axis 8-button gamepad   (instance ID: 0, device index: 0)
+lvl2: 	Added unconfigured joystick Microsoft X-Box 360 pad (GUID: 030000005e0400008e02000014010000, instance ID: 0, device index: 0).
 lvl2: 	Checking available OpenGL extensions...
 lvl2: 	 ARB_texture_non_power_of_two: MISSING
 lvl2: 	Loading system config file /etc/emulationstation/es_systems.cfg...
@@ -115,4 +115,101 @@ lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/zmachine/gamelist.
 lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/zxspectrum/gamelist.xml"...
 lvl1: 	System "zxspectrum" has no games! Ignoring it.
 lvl1: 	 requested mismatched theme type for [detailed.md_releasedate] - expected "datetime", got "text"
+lvl2: 	Configuring device 0 (Microsoft X-Box 360 pad).
+lvl2: 	  Mapping [Hat 0 up] -> Up
+lvl2: 	  Mapping [Hat 0 down] -> Down
+lvl2: 	  Mapping [Hat 0 left] -> Left
+lvl2: 	  Mapping [Hat 0 right] -> Right
+lvl2: 	  Mapping [Button 7] -> Start
+lvl2: 	  Mapping [Button 6] -> Select
+lvl2: 	  Mapping [Button 0] -> A
+lvl2: 	  Mapping [Button 1] -> B
+lvl2: 	  Mapping [Button 2] -> X
+lvl2: 	  Mapping [Button 3] -> Y
+lvl2: 	  Mapping [Button 4] -> LeftBottom
+lvl2: 	  Mapping [Button 5] -> RightBottom
+lvl2: 	  Mapping [Axis 2-] -> LeftTop
+lvl2: 	  Mapping [Axis 2+] -> RightTop
+lvl2: 	  Mapping [Button 10] -> RightThumb
+lvl2: 	  Mapping [Axis 1-] -> LeftAnalogUp
+lvl2: 	  Mapping [Axis 1+] -> LeftAnalogDown
+lvl2: 	  Mapping [Axis 0-] -> LeftAnalogLeft
+lvl2: 	  Mapping [Axis 0+] -> LeftAnalogRight
+lvl2: 	  Mapping [Axis 4-] -> RightAnalogUp
+lvl2: 	  Mapping [Axis 4+] -> RightAnalogDown
+lvl2: 	  Mapping [Axis 3-] -> RightAnalogLeft
+lvl2: 	  Mapping [Axis 3+] -> RightAnalogRight
+lvl2: 		/opt/retropie/supplementary/emulationstation/scripts/inputconfiguration.sh
+lvl2: 	Configuring device 0 (Microsoft X-Box 360 pad).
+lvl2: 	  Mapping [Hat 0 up] -> Up
+lvl2: 	  Mapping [Hat 0 down] -> Down
+lvl2: 	  Mapping [Hat 0 left] -> Left
+lvl2: 	  Mapping [Hat 0 right] -> Right
+lvl2: 	  Mapping [Button 7] -> Start
+lvl2: 	  Mapping [Button 6] -> Select
+lvl2: 	  Mapping [Button 0] -> A
+lvl2: 	  Mapping [Button 1] -> B
+lvl2: 	  Mapping [Button 2] -> X
+lvl2: 	  Mapping [Button 3] -> Y
+lvl2: 	  Mapping [Button 4] -> LeftBottom
+lvl2: 	  Mapping [Button 5] -> RightBottom
+lvl2: 	  Mapping [Axis 5-] -> RightTop
+lvl2: 	  Mapping [Button 10] -> RightThumb
+lvl2: 	  Mapping [Axis 1+] -> LeftAnalogUp
+lvl2: 	  Mapping [Axis 1-] -> LeftAnalogDown
+lvl2: 	  Mapping [Axis 0-] -> LeftAnalogLeft
+lvl2: 	  Mapping [Axis 0+] -> LeftAnalogRight
+lvl2: 	  Mapping [Axis 4-] -> RightAnalogUp
+lvl2: 	  Mapping [Axis 4+] -> RightAnalogDown
+lvl2: 	  Mapping [Axis 3-] -> RightAnalogLeft
+lvl2: 	  Mapping [Axis 3+] -> RightAnalogRight
+lvl2: 		/opt/retropie/supplementary/emulationstation/scripts/inputconfiguration.sh
+lvl2: 	Configuring device 0 (Microsoft X-Box 360 pad).
+lvl2: 	  Mapping [Hat 0 up] -> Up
+lvl2: 	  Mapping [Hat 0 down] -> Down
+lvl2: 	  Mapping [Hat 0 left] -> Left
+lvl2: 	  Mapping [Hat 0 right] -> Right
+lvl2: 	  Mapping [Button 7] -> Start
+lvl2: 	  Mapping [Button 6] -> Select
+lvl2: 	  Mapping [Button 0] -> A
+lvl2: 	  Mapping [Button 1] -> B
+lvl2: 	  Mapping [Button 2] -> X
+lvl2: 	  Mapping [Button 3] -> Y
+lvl2: 	  Mapping [Button 4] -> LeftBottom
+lvl2: 	  Mapping [Button 5] -> RightBottom
+lvl2: 	  Mapping [Axis 2+] -> RightTop
+lvl2: 	  Mapping [Button 10] -> RightThumb
+lvl2: 	  Mapping [Axis 1-] -> LeftAnalogUp
+lvl2: 	  Mapping [Axis 1+] -> LeftAnalogDown
+lvl2: 	  Mapping [Axis 0-] -> LeftAnalogLeft
+lvl2: 	  Mapping [Axis 0+] -> LeftAnalogRight
+lvl2: 	  Mapping [Axis 4-] -> RightAnalogUp
+lvl2: 	  Mapping [Axis 4+] -> RightAnalogDown
+lvl2: 	  Mapping [Axis 3-] -> RightAnalogLeft
+lvl2: 	  Mapping [Axis 3+] -> RightAnalogRight
+lvl2: 		/opt/retropie/supplementary/emulationstation/scripts/inputconfiguration.sh
+lvl2: 	Configuring device 0 (Microsoft X-Box 360 pad).
+lvl2: 	  Mapping [Hat 0 up] -> Up
+lvl2: 	  Mapping [Hat 0 down] -> Down
+lvl2: 	  Mapping [Hat 0 left] -> Left
+lvl2: 	  Mapping [Hat 0 right] -> Right
+lvl2: 	  Mapping [Button 7] -> Start
+lvl2: 	  Mapping [Button 6] -> Select
+lvl2: 	  Mapping [Button 0] -> A
+lvl2: 	  Mapping [Button 1] -> B
+lvl2: 	  Mapping [Button 2] -> X
+lvl2: 	  Mapping [Button 3] -> Y
+lvl2: 	  Mapping [Button 4] -> LeftBottom
+lvl2: 	  Mapping [Button 5] -> RightBottom
+lvl2: 	  Mapping [Button 9] -> LeftThumb
+lvl2: 	  Mapping [Button 10] -> RightThumb
+lvl2: 	  Mapping [Axis 1-] -> LeftAnalogUp
+lvl2: 	  Mapping [Axis 1+] -> LeftAnalogDown
+lvl2: 	  Mapping [Axis 0-] -> LeftAnalogLeft
+lvl2: 	  Mapping [Axis 0+] -> LeftAnalogRight
+lvl2: 	  Mapping [Axis 4-] -> RightAnalogUp
+lvl2: 	  Mapping [Axis 4+] -> RightAnalogDown
+lvl2: 	  Mapping [Axis 3-] -> RightAnalogLeft
+lvl2: 	  Mapping [Axis 3+] -> RightAnalogRight
+lvl2: 		/opt/retropie/supplementary/emulationstation/scripts/inputconfiguration.sh
 lvl2: 	EmulationStation cleanly shutting down.
